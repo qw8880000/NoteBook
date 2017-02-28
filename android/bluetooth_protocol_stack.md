@@ -34,4 +34,4 @@
 * [List of Bluetooth protocols](https://en.wikipedia.org/wiki/List_of_Bluetooth_protocols)
 * [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
 * [Bluetooth Protocol stack/layers](http://www.rfwireless-world.com/Tutorials/Bluetooth-protocol-stack.html)
-
+* [蓝牙协议的架构](http://www.crifan.com/files/doc/docbook/bluetooth_intro/release/webhelp/bt_protocol_stack.html)
