@@ -20,18 +20,35 @@
     * OBEX
     * WAP/WAE
 
-除上述协议层外，规范还定义了主机控制器接口（HCI），它为基带控制器(Baseband)、连接管理器(Link Controller)、硬件状态和控制寄存器提供命令接口
+蓝牙协议栈依照处在某端来划分可分成：
+* Host Stack （Host主机端）
+* Controller Stack （Device设备端）
 
-## 核心协议层(core protocols)
+## 蓝牙协议栈 vs OSI模型 vs IEEE 802
 
-### 射频协议(radio)
-### 基带协议(baseband)
-### 链路管理协议(Link Manager Protocol,LMP)
-### 逻辑链路控制与适配协议(Logical Link Control and AdaptationProtocol,L2CAP)
-### 服务发现协议(Service Discovery Protocol,SDP)
+蓝牙协议栈和OSI模型以及IEEE 802标准的对比关系
+
+![image](http://www.crifan.com/files/doc/docbook/bluetooth_intro/release/webhelp/images/bt_protocol_stack_osi_layer_ieee_802.jpg)
+
+蓝牙协议栈和OSI模型不同层之间的关系
+
+![image](http://www.crifan.com/files/doc/docbook/bluetooth_intro/release/webhelp/images/bt_protocol_stack_vs_osi_layers.png)
+
+## android中的蓝牙
+
+之前是`Bluez`，现在改用`Bluedroid`
+
+## 名词
+
+* 射频协议(radio)
+* 基带协议(baseband)
+* 链路管理协议(Link Manager Protocol,LMP)
+* 逻辑链路控制与适配协议(Logical Link Control and AdaptationProtocol,L2CAP)
+* 服务发现协议(Service Discovery Protocol,SDP)
 
 ## 参考:
 * [List of Bluetooth protocols](https://en.wikipedia.org/wiki/List_of_Bluetooth_protocols)
 * [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
 * [Bluetooth Protocol stack/layers](http://www.rfwireless-world.com/Tutorials/Bluetooth-protocol-stack.html)
 * [蓝牙协议的架构](http://www.crifan.com/files/doc/docbook/bluetooth_intro/release/webhelp/bt_protocol_stack.html)
+

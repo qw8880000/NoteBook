@@ -1,1 +1,2 @@
-# embedded_linux_skill_tree
+
+It is a book about my coding life.
