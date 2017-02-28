@@ -4,9 +4,7 @@
 * 简介：蓝牙（英语：Bluetooth）。这是一种无线技术标准，用来让固定与移动设备，在短距离间交换数据，以形成个人局域网（PAN）
 * 由来：1994年由电信商爱立信（Ericsson）发展出这个技术[2]。它最初的设计，是希望创建一个RS-232数据线的无线通信替代版本.
 * 频谱：经由2.4至2.485 GHz的ISM频段来进行通信
-* 参考：
-    * [维基百科-蓝牙](https://zh.wikipedia.org/zh-cn/%E8%97%8D%E7%89%99)
-    * [Wikipedia-bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
+
 
 ## 规格和功能
 
@@ -37,3 +35,7 @@
 ## 其他
 
 * SIG(Bluetooth Special Interest Group)，蓝牙技术联盟
+
+## 参考：
+* [维基百科-蓝牙](https://zh.wikipedia.org/zh-cn/%E8%97%8D%E7%89%99)
+* [Wikipedia-bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
