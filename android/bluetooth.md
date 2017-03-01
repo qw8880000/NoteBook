@@ -26,14 +26,6 @@
 
 // todo
 
-## 蓝牙规范(bluetooth profile)
-
-[ 蓝牙规范 ](./bluetooth_profile.md)
-
-## 蓝牙协议栈(bluetooth protocol stack)
-
-[ 蓝牙协议栈 ](./bluetooth_protocol_stack.md)
-
 ## Bluetooth Addresses and Names
 
 * 每一个蓝牙设备都有一个惟一的48-bit的MAC地址

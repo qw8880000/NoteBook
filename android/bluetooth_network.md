@@ -5,12 +5,6 @@
 * Master (主设备)
 * Slave (从设备)
 
-```
-a single master device can be connected to up to seven different slave devices. 
-Any slave device in the piconet can only be connected to a single master
-```
-一个主设备最多能连接7个从设备，而一个从设备只能连接一个主设备.
-
 ## Bluetooth Network
 
 ![Bluetooth-Network-Topologies](http://www.rfwireless-world.com/images/Bluetooth-Network-Topologies.jpg)
@@ -59,16 +53,12 @@ scatternet:
 
 ```
 A device can participate in multiple piconets.
-Radio devices used Time Division Multiplexing (TDM). 
-A master device in a piconet transmits on even numbered slots and the slaves may transmit on odd numbered slots.
 Each piconet may have only one master, but slaves may participate in different piconets on a time-division multiplex basis. 
 A device may be a master in one piconet and a slave in another or a slave in more than one piconet.
 ```
 
-* 分时，master使用偶数时间片，slave使用奇数时间片
 * 一个设备可以参与多个piconets
-* 一个设备在某个piconet中可能是slave角色，在另一个piconet中可能是master角色.
-* 也就是说一个设备可能即是slave又是master.
+* 一个设备在某个piconet中可能是slave角色，在另一个piconet中可能是master角色.也就是说一个设备可能即是slave又是master.
 
 
 ## 参考

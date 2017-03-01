@@ -1,6 +1,15 @@
 
 ## 蓝牙规范（Bluetooth profile）
 
+```
+Bluetooth profiles are additional protocols that build upon the basic Bluetooth standard to more clearly define what kind of data a Bluetooth module is transmitting. 
+While Bluetooth specifications define how the technology works, profiles define how it’s used
+
+The profile(s) a Bluetooth device supports determine(s) what application it’s geared towards. 
+A hands-free Bluetooth headset, for example, would use headset profile (HSP), while a Nintendo Wii Controller would implement the human interface device (HID) profile. 
+For two Bluetooth devices to be compatible, they must support the same profiles.
+```
+
 蓝牙规范（Bluetooth profile），是蓝牙设备间数据通信的无线接口规范。
 
 Profile目的是要确保Bluetooth设备间的互通性（interoperability）。
@@ -34,6 +43,6 @@ Profile目的是要确保Bluetooth设备间的互通性（interoperability）。
 
 
 
-参考：
+## 参考
 * [蓝牙规范](https://zh.wikipedia.org/zh-cn/%E8%97%8D%E7%89%99%E8%A6%8F%E7%AF%84)
-
+* [bluetooth-basics](https://learn.sparkfun.com/tutorials/bluetooth-basics)
