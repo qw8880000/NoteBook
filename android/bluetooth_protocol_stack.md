@@ -34,17 +34,15 @@
 
 ![image](http://www.crifan.com/files/doc/docbook/bluetooth_intro/release/webhelp/images/bt_protocol_stack_vs_osi_layers.png)
 
-## android中的蓝牙
-
-之前是`Bluez`，现在改用`Bluedroid`
 
 ## 名词
 
-* 射频协议(radio)
-* 基带协议(baseband)
+* 射频(radio)
+* 基带(baseband)
 * 链路管理协议(Link Manager Protocol,LMP)
-* 逻辑链路控制与适配协议(Logical Link Control and AdaptationProtocol,L2CAP)
+* 逻辑链路控制与适配协议(Logical Link Control and Adaptation Protocol,L2CAP)
 * 服务发现协议(Service Discovery Protocol,SDP)
+* Host Controller Interface (HCI).
 
 ## 参考:
 * [List of Bluetooth protocols](https://en.wikipedia.org/wiki/List_of_Bluetooth_protocols)

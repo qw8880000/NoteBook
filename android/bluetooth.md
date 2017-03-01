@@ -24,18 +24,30 @@
 
 ## 蓝牙与WIFI
 
-## 蓝牙规范
+// todo
+
+## 蓝牙规范(bluetooth profile)
 
 [ 蓝牙规范 ](./bluetooth_profile.md)
 
-## 蓝牙协议栈
+## 蓝牙协议栈(bluetooth protocol stack)
 
 [ 蓝牙协议栈 ](./bluetooth_protocol_stack.md)
 
-## 其他
+## Bluetooth Addresses and Names
+
+* 每一个蓝牙设备都有一个惟一的48-bit的MAC地址
+* 蓝牙设备的名称是任意的
+
+## 名词解释
 
 * SIG(Bluetooth Special Interest Group)，蓝牙技术联盟
 
 ## 参考：
 * [维基百科-蓝牙](https://zh.wikipedia.org/zh-cn/%E8%97%8D%E7%89%99)
 * [Wikipedia-bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
+* [Bluetooth Basics](http://sna.csie.ndhu.edu.tw/~cnyang/PDF/bt_tut.pdf)
+* [Bluetooth Tutorial](http://www.rfwireless-world.com/Tutorials/Bluetooth_tutorial.html)
+* [Bluetooth Tutorial](http://www.tutorial-reports.com/wireless/bluetooth/tutorial.php)
+* [Bluetooth Basics](https://learn.sparkfun.com/tutorials/bluetooth-basics)
+
