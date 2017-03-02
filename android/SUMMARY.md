@@ -10,5 +10,5 @@
     * [ 蓝牙MAC层 ](./bluetooth_mac_layer.md)
     * [ bluetooth profiles ](./bluetooth_profile.md)
     * [ 低耗电蓝牙BLE(Bluetooth Low Energy) ](./bluetooth_low_energy.md)
-    * [ android bluetooth 4.0 ](./bluetooth_android.md)
+    * [ bluetooth in android ](./bluetooth_android.md)
 
