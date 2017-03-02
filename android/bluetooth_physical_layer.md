@@ -10,7 +10,8 @@ Bluetooth physical layer consists of baseband and radio specifications as define
 ## 跳频 ( Frequency hopping )
 
 ```
-It serves two purpose, one is that it helps provide resistance to multipath interference. Second one is that it provide multiple access to devices in different piconets co-located.
+It serves two purpose, one is that it helps provide resistance to multipath interference. 
+Second one is that it provide multiple access to devices in different piconets co-located.
 ```
 
 跳频的作用：
@@ -40,4 +41,8 @@ Header field consists of AM_ADDR(3 bits), type(4 bits),flow(1 bit),ARQN(1 bit),S
 2/3 rate forward error correction (FEC)
 Automatic Repeat Request Scheme (ARQ)
 ```
+
+## 参考
+
+* [Bluetooth Physical Layer](http://www.rfwireless-world.com/Tutorials/Bluetooth-physical-layer.html)
 
