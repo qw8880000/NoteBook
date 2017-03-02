@@ -1,15 +1,10 @@
 
-* linux系统
-    * shell
-    * vim
-    * 常用命令
-* linux 内核
-    * 启动流程
-    * 文件系统
-    * 驱动程序
-* GUI框架
-    * FTK
-* 软件测试
-    * [ TDD ](./TDD.md)
-    * [ TDD example ](./TDD_example.md)
-    * Unit Test
+
+嵌入式linux
+* 程序是如何运行的
+* ARM系统结构
+* 内核初始化
+* 系统初始化
+* 设备驱动
+* 文件系统
+* Bootloaders
