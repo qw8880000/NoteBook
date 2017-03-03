@@ -11,10 +11,14 @@
 
 Android 4.3 (API level 18) 才支持BLE
 
+### BLE关键术语和概念
+
+* [Bluetooth Low Energy]( https://developer.android.com/guide/topics/connectivity/bluetooth-le.html#terms ) 
+* [Android Bluetooth Low Energy（Android低功耗蓝牙）](http://blog.csdn.net/qinxiandiqi/article/details/40741269)
+
 ## android 的蓝牙协议栈
 
 * Bluez
 * Bluedroid
-
 
 
