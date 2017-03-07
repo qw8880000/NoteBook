@@ -21,4 +21,13 @@ Android 4.3 (API level 18) 才支持BLE
 * Bluez
 * Bluedroid
 
+## 蓝牙开发
+
+### 搜索蓝牙设备
+
+`BluetoothAdapter`类
+* `startDiscovery()`   
+    搜索所有蓝牙设备
+* `startLeScan()`  
+    只搜索BLE bluetooth
 
