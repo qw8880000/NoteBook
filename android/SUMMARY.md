@@ -9,6 +9,5 @@
     * [ 蓝牙物理层 ](./bluetooth_physical_layer.md)
     * [ 蓝牙MAC层 ](./bluetooth_mac_layer.md)
     * [ bluetooth profiles ](./bluetooth_profile.md)
-    * [ 低耗电蓝牙BLE(Bluetooth Low Energy) ](./bluetooth_low_energy.md)
     * [ bluetooth in android ](./bluetooth_android.md)
 
