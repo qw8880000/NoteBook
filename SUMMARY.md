@@ -1,9 +1,10 @@
 
 
-## 嵌入式linux技术栈 (embedded linux stack)
+## linux技术栈 (linux stack)
 
-[目录](./embedded_linux/SUMMARY.md)
+[目录](./linux/SUMMARY.md)
 
 ## android 技术栈 (android stack)
 
 [目录](./android/SUMMARY.md)
+
