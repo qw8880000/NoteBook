@@ -21,6 +21,11 @@ TDD的基本思路就是通过测试来推动整个开发的进行，但测试�
 * CppUnit
 * JUnit
 
+## 推荐书籍
+
+* 《Test-Driven Development for Embedded C》  
+* [《测试驱动的嵌入式C语言开发》](ftp://ftp.micronet-rostov.ru/linux-support/books/programming/C/Grenning%20-%20Test%20Driven%20Development%20for%20Embedded%20C%20-%202011.pdf)
+
 ## 参考
 
 * [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development)

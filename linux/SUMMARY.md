@@ -15,7 +15,7 @@
     * 系统维护
 * linux 服务器领域
     * todo
-* linux 程序开发
+* linux 内核
     * 内核初始化
     * 系统初始化
     * 设备驱动
@@ -23,6 +23,7 @@
     * Bootloaders
 * linux 嵌入式开发
     * ARM体系结构
-* 测试
+* 自动化测试
     * [ TDD ](./TDD.md)
     * [ TDD要点 ](./TDD_tips.md)
+

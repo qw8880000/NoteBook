@@ -7,26 +7,26 @@
 
 ## 推荐书籍
 
-### 系统程序员成长计划.pdf
+* 系统程序员成长计划.pdf
 
 作者：李先静
 
-### 华为技术有限公司c语言编程规范.pdf
+* 华为技术有限公司c语言编程规范.pdf
 
 
-### 《C陷阱与缺陷》 
+* 《C陷阱与缺陷》 
 
 ![image](https://img3.doubanio.com/lpic/s2870233.jpg)
 
-### 《C专家编程》
+* 《C专家编程》
 
 ![image](https://img5.doubanio.com/lpic/s5886086.jpg)
 
-### 《C和指针》
+* 《C和指针》
 
 ![image](https://img1.doubanio.com/lpic/s2996168.jpg)
 
-### 《C Elements of Style》
+* 《C Elements of Style》
 
 C风格要素
 
