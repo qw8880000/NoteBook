@@ -31,3 +31,12 @@ Android 4.3 (API level 18) 才支持BLE
 * `startLeScan()`  
     只搜索BLE bluetooth
 
+### 设置蓝牙可见性
+
+`BluetoothAdapter.ACTION_REQUEST_DISCOVERABLE`
+
+## 参考
+
+* [Bluetooth guide](https://developer.android.com/guide/topics/connectivity/bluetooth.html)
+* [BluetoothAdapter](https://developer.android.com/reference/android/bluetooth/BluetoothAdapter.html)
+

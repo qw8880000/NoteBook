@@ -10,4 +10,5 @@
     * [ 蓝牙MAC层 ](./bluetooth_mac_layer.md)
     * [ bluetooth profiles ](./bluetooth_profile.md)
     * [ bluetooth in android ](./bluetooth_android.md)
+    * [ 蓝牙定位 ](./bluetooth_indoor_positioning.md)
 
