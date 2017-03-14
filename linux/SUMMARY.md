@@ -5,6 +5,8 @@
     * [ 微机原理 ](./microcomputer_theory.md)
     * [微型计算机硬件系统](http://wjyl.csxupt.com/wjyl/OnlineClass/1.4.html)
     * [微型计算机的工作过程](http://wjyl.csxupt.com/wjyl/OnlineClass/1.5.html)
+* Ubuntu
+    * [ apt-get ](./apt-get.md)
 * linux 内核
     * 内核初始化
     * 系统初始化
@@ -20,6 +22,6 @@
     * [ shell example ](./shell_example.md)
 * 自动化测试
     * [ TDD ](./TDD.md)
-    * [ TDD要点 ](./TDD_tips.md)
+    * [ TDD 要点 ](./TDD_tips.md)
     * [ TDD 工具 - gtest ](./TDD_gtest.md)
 
