@@ -17,17 +17,26 @@ TDD的基本思路就是通过测试来推动整个开发的进行，但测试�
 
 ## Software for TDD
 
-* Jenkins
-* CppUnit
-* JUnit
+### C自动化测试框架
+
+* [ Unity ](https://github.com/ThrowTheSwitch/Unity)  
+    纯C语言编写
+* [ CUnit ](http://cunit.sourceforge.net/)
+
+### C++自动测试框架
+
+* [ google test ](https://github.com/google/googletest)
+* [ CppUnit ](https://freedesktop.org/wiki/Software/cppunit/)
+* [Boost](https://www.ibm.com/developerworks/cn/aix/library/au-ctools1_boost/)
 
 ## 推荐书籍
 
-* 《Test-Driven Development for Embedded C》  
-* [《测试驱动的嵌入式C语言开发》](ftp://ftp.micronet-rostov.ru/linux-support/books/programming/C/Grenning%20-%20Test%20Driven%20Development%20for%20Embedded%20C%20-%202011.pdf)
+* [《Test-Driven Development for Embedded C》](ftp://ftp.micronet-rostov.ru/linux-support/books/programming/C/Grenning%20-%20Test%20Driven%20Development%20for%20Embedded%20C%20-%202011.pdf)
+* 《测试驱动的嵌入式C语言开发》
 
 ## 参考
 
 * [Test-driven development](https://en.wikipedia.org/wiki/Test-driven_development)
 * [Test Driven Development](https://www.tutorialspoint.com/software_testing_dictionary/test_driven_development.htm)
 * [浅谈测试驱动开发（TDD）](https://www.ibm.com/developerworks/cn/linux/l-tdd/)
+
