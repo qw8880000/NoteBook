@@ -39,4 +39,6 @@ Android 4.3 (API level 18) 才支持BLE
 
 * [Bluetooth guide](https://developer.android.com/guide/topics/connectivity/bluetooth.html)
 * [BluetoothAdapter](https://developer.android.com/reference/android/bluetooth/BluetoothAdapter.html)
+* [Android经典蓝牙开发简介](http://www.jianshu.com/p/fc46c154eb77)
+* [Android蓝牙实例（和单片机蓝牙模块通信）](http://www.cnblogs.com/luoxn28/p/5440882.html)
 
