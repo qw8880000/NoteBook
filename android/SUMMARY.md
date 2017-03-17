@@ -9,6 +9,9 @@
     * [ 蓝牙物理层 ](./bluetooth_physical_layer.md)
     * [ 蓝牙MAC层 ](./bluetooth_mac_layer.md)
     * [ bluetooth profiles ](./bluetooth_profile.md)
+    * [ bluetooth BLE ](./bluetooth_BLE.md)
     * [ bluetooth in android ](./bluetooth_android.md)
     * [ 蓝牙定位 ](./bluetooth_indoor_positioning.md)
-
+    * [蓝牙协议分析(1)_基本概念](http://www.wowotech.net/bluetooth/bt_overview.html)
+    * [蓝牙协议分析(2)_协议架构](http://www.wowotech.net/bluetooth/bt_protocol_arch.html)
+    * [蓝牙协议分析(3)_蓝牙低功耗(BLE)协议栈介绍](http://www.wowotech.net/bluetooth/ble_stack_overview.html)

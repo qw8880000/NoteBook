@@ -45,6 +45,7 @@
 * Host Controller Interface (HCI).
 
 ## 参考:
+* [蓝牙协议分析(2)_协议架构](http://www.wowotech.net/bluetooth/bt_protocol_arch.html)
 * [List of Bluetooth protocols](https://en.wikipedia.org/wiki/List_of_Bluetooth_protocols)
 * [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
 * [Bluetooth Protocol stack/layers](http://www.rfwireless-world.com/Tutorials/Bluetooth-protocol-stack.html)
