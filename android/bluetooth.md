@@ -1,10 +1,21 @@
 
+## 前言
+
+在看了很多网上的蓝牙资料后，我发现自己对蓝牙技术还是很模糊。
+原因可能是这些资料选取的角度不一样或者说不太系统，导致我对蓝牙的认识有点东拼西凑。
+后来在三篇博客里面找到了一份很全面的蓝牙资料，建议有想深入学习蓝牙的人可以先看这三篇博客：
+* [蓝牙协议分析(1)_基本概念](http://www.wowotech.net/bluetooth/bt_overview.html)
+* [蓝牙协议分析(2)_协议架构](http://www.wowotech.net/bluetooth/bt_protocol_arch.html)
+* [蓝牙协议分析(3)_蓝牙低功耗(BLE)协议栈介绍](http://www.wowotech.net/bluetooth/ble_stack_overview.html)
+
+再参照
+* [Specification of the Bluetooth system](https://www.bluetooth.org/DocMan/handlers/DownloadDoc.ashx?doc_id=286439&_ga=1.139498554.805272089.1452604944)
+
 ## 蓝牙简介
 
 * 简介：蓝牙（英语：Bluetooth）。这是一种无线技术标准，用来让固定与移动设备，在短距离间交换数据，以形成个人局域网（PAN）
 * 由来：1994年由电信商爱立信（Ericsson）发展出这个技术[2]。它最初的设计，是希望创建一个RS-232数据线的无线通信替代版本.
 * 频谱：经由2.4至2.485 GHz的ISM频段来进行通信
-
 
 ## 规格和功能
 
@@ -29,10 +40,6 @@
 * 传统蓝牙      (classic bluetooth)
 * 高速蓝牙
 
-## 蓝牙与WIFI
-
-// todo
-
 ## Bluetooth Addresses and Names
 
 * 每一个蓝牙设备都有一个惟一的48-bit的MAC地址
@@ -43,12 +50,8 @@
 * SIG(Bluetooth Special Interest Group)，蓝牙技术联盟
 
 ## 参考：
+* [Specification of the Bluetooth system](https://www.bluetooth.org/DocMan/handlers/DownloadDoc.ashx?doc_id=286439&_ga=1.139498554.805272089.1452604944)
 * [维基百科-蓝牙](https://zh.wikipedia.org/zh-cn/%E8%97%8D%E7%89%99)
 * [Wikipedia-bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
-* [Bluetooth Basics](http://sna.csie.ndhu.edu.tw/~cnyang/PDF/bt_tut.pdf)
-* [Bluetooth Tutorial](http://www.rfwireless-world.com/Tutorials/Bluetooth_tutorial.html)
-* [Bluetooth Tutorial](http://www.tutorial-reports.com/wireless/bluetooth/tutorial.php)
-* [Bluetooth Basics](https://learn.sparkfun.com/tutorials/bluetooth-basics)
 * [Wikipedia-Bluetooth_low_energy](https://en.wikipedia.org/wiki/Bluetooth_low_energy)
-* [蓝牙协议之BLE](http://www.crifan.com/files/doc/docbook/bluetooth_intro/release/webhelp/ble_simple_intro.html)
 
