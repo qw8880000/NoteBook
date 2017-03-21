@@ -29,21 +29,12 @@
 * 蓝牙4.0
     - 2010
     - 还提出了“低功耗蓝牙”、“传统蓝牙”和“高速蓝牙”三种模式。
+        * 低功耗蓝牙    (bluetooth BLE / bluetooth LE / bluetooth low energy)
+        * 传统蓝牙      (classic bluetooth)
+        * 高速蓝牙
 * 蓝牙5.0
     - 2016
     - 48Mbps
-
-## 蓝牙4.0
-
-蓝牙4.0把蓝牙分成了3种模式：
-* 低功耗蓝牙    (bluetooth BLE / bluetooth LE / bluetooth low energy)
-* 传统蓝牙      (classic bluetooth)
-* 高速蓝牙
-
-## Bluetooth Addresses and Names
-
-* 每一个蓝牙设备都有一个惟一的48-bit的MAC地址
-* 蓝牙设备的名称是任意的
 
 ## 名词解释
 
@@ -51,6 +42,9 @@
 
 ## 参考：
 * [Specification of the Bluetooth system](https://www.bluetooth.org/DocMan/handlers/DownloadDoc.ashx?doc_id=286439&_ga=1.139498554.805272089.1452604944)
+* [蓝牙协议分析(1)_基本概念](http://www.wowotech.net/bluetooth/bt_overview.html)
+* [蓝牙协议分析(2)_协议架构](http://www.wowotech.net/bluetooth/bt_protocol_arch.html)
+* [蓝牙协议分析(3)_蓝牙低功耗(BLE)协议栈介绍](http://www.wowotech.net/bluetooth/ble_stack_overview.html)
 * [维基百科-蓝牙](https://zh.wikipedia.org/zh-cn/%E8%97%8D%E7%89%99)
 * [Wikipedia-bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
 * [Wikipedia-Bluetooth_low_energy](https://en.wikipedia.org/wiki/Bluetooth_low_energy)

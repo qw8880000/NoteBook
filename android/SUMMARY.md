@@ -12,3 +12,8 @@
     * [ bluetooth BLE ](./bluetooth_BLE.md)
     * [ bluetooth in android ](./bluetooth_android.md)
     * [ 蓝牙定位 ](./bluetooth_indoor_positioning.md)
+
+* 蓝牙(bluetooth)
+    * [ 蓝牙简介 ](./bluetooth.md)
+    * [ 总则 ](./bluetooth_general_description.md)
+    * [ 蓝牙室内定位 ](./bluetooth_indoor_positioning.md)
