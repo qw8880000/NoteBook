@@ -37,3 +37,36 @@ connection event 用来在master 与 slave 之间传输数据。
 
 ![image](../images/connection_events.jpg)
 
+
+piconet中的设备使用特定的跳频模式，其算法由包含在由initiator发送的连接请求中的字段确定。
+在LE中使用的跳频模式是ISM频带中的37个频率的伪随机排序。
+跳频模式的主要作用就是抗干扰并提高与非跳频ISM系统的并存性能。
+
+LE技术的核心分层是：
+* 物理信道(physical channel)
+* 物理链路(physical link)
+* 逻辑传输(logical transport)
+* 逻辑链路(logical link)
+* L2CAP信道(L2CAP channel)
+
+基于物理信道(physical channel)，物理链路(**physical link**)在master和slave之间建立。
+在一个piconet中slave设备之间是不允许直接通信的。
+一个设备在这个piconet中充当slave角色，在另一个piconet中可以是master角色。
+
+物理链路(physical link)被一个或多个支持异步通信的逻辑链路(**logical link**)所使用。
+
+链路层协议，Link Layer protocol(**LL**)。
+LL基于逻辑链路(logical links)，用来控制基带层(baseband)和物理层(physical layers)。
+piconet中的活跃设备(active devices)有一个默认的LE异步连接逻辑链路(LE asynchronous connection logical transport)，用来传输LL协议信号。
+这叫做**LE ACL**。
+当一个设备加入piconet后，一个默认的ACL将会被创建。
+
+The Link Layer function 使用LL协议来控制piconet中的设备行为并提供管理底层的服务(PHY and LL)。
+
+LE技术的**L2CAP**层的功能与BR/EDR技术一样。
+**L2CAP**，在基带层之上，为应用和服务提供基于通道的抽象(channel-based abstraction)。
+它执行应用数据的分割和重组以及通过共享逻辑链路(logical link)对多个信道(channels)的复用和解复用。
+
+基于L2CAP之上，LE 提供两种协议Security Manager protocol (SMP) 和 Attribute protocol (ATT)。
+其中ATT也可以被BR/EDR所使用。
+
