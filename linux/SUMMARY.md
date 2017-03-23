@@ -15,6 +15,9 @@
     * Bootloaders
 * linux 嵌入式开发
     * ARM体系结构
+    * ftk
+        * [ 在ubuntu编译ftk ](./ftk_build_in_Ubuntu.md)
+        * [ ftk的移植 ](./ftk_port_to_Ubuntu.md)
 * Makefile
     * [ automake ](./automake.md)
     * [ CMake ](./CMake.md)
