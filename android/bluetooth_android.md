@@ -45,6 +45,21 @@ Android 4.3 (API level 18) 才支持BLE
 
 * [AdvertiserActivity.java - Github](https://github.com/devunwired/accessory-samples/blob/master/bluetoothadvertiser/src/main/java/com/example/android/bluetoothadvertiser/AdvertiserActivity.java)
 
+### 手机与手机是如何配对
+
+首先肯定是一方作为服务器端，一边作为客户端。
+
+服务器端
+1. 调用 `listenUsingRfcommWithServiceRecord(String, UUID)`得到一个 `BluetoothServerSocket`；
+1. 然后通过调用`accept()`开始侦听连接请求。
+
+客户端
+1. 使用 `BluetoothDevice`,通过调用 `createRfcommSocketToServiceRecord(UUID)`到一个 `BluetoothSocket`
+1. 调用 `connect()`初始化连接
+
+两边的 UUID 必须是一样的，这是一个服务的唯一标识，而且这个 UUID 的值必须是 `00001101-0000-1000-8000-00805F9B34FB`。
+为什么呢？因为这个是 Android 的 API 上面说明的，用于普通蓝牙适配器和 Android 手机蓝牙模块连接的。
+
 ## 参考
 
 * [bluetooth api guides](https://developer.android.google.cn/guide/topics/connectivity/bluetooth.html?hl=zh-cn)
