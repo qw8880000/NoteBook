@@ -1,7 +1,116 @@
 
 ## 注释
 
-// to do
++ **优秀的代码可以自我解释，不通过注释即可轻易读懂** 
+
++ **注释的目的是解释代码的目的、功能和采用的方法，提供代码难以直接表达的意图，而不是重复描述代码。**
+
+如下注释属于多余：
+```
+++i; /* increment i */
+if (receive_flag) /* if receive_flag is TRUE */
+```
+
+而如下的注释则给出了有用的信息：
+```
+/*  由于xx编号网上问题，在xx情况下，芯片可能存在写错误，此芯片进行写操作后，必须进行回读校
+验，如果回读不正确，需要再重复写-回读操作，最多重复三次，这样可以解决绝大多数网上应用时的
+写错误问题*/
+int time = 0;
+do 
+{
+write_reg(some_addr, value);
+time++;
+} while ((read_reg(some_addr) != value) && (time < 3));
+```
+
++ **修改代码时，维护代码周边的所有注释，以保证注释与代码的一致性。不再有用的注释要删除。**
+
++ **文件头部应进行注释，注释必须列出：版权说明、版本号、生成日期、作者姓名、工号、内容、功能说明、与其它文件的关系、修改日志等，头文件的注释中还应有函数功能简要说明。**
+
+例如：
+```
+/* --------------------------------------------------------------------------*/
+/* * 
+ * @file ftk_button.c
+ * @Brief  按钮控件
+ * @author xxxx <xxxxx@126.com>
+ * @version v1.0
+ * @date 2017-03-29
+ */
+/* ----------------------------------------------------------------------------*/
+```
+
++ **函数注释描述函数功能、性能及用法，包括输入和输出参数、函数返回值**
+
+例如：
+```
+/* --------------------------------------------------------------------------*/
+/**
+ * @Brief   设置按钮点击时的回调函数
+ *
+ * @Param thiz      铵钮对象
+ * @Param listener  点击时的回调函数
+ *
+ * @Returns         0： 成功
+ *                  -1：失败
+ */
+/* ----------------------------------------------------------------------------*/
+int button_set_clicked_listener(FtkWidget* thiz, FtkListener listener);
+```
+
++ **单行代码的注释放在代码的右边**
+
+```
+#define MAX_ACT_TASK_NUMBER 1000 /* active statistic task number */
+```
+
++ **多行代码的注释放在代码的上方，且与上方的代码用空行隔开**
+
+```
+/* sccp interface with sccp user primitive message name */
+enum SCCP_USER_PRIMITIVE
+{
+N_UNITDATA_IND, /* sccp notify sccp user unit data come */
+N_NOTICE_IND,  /* sccp notify user the No.7 network can not transmission this message */
+N_UNITDATA_REQ, /* sccp user's unit data transmission request*/
+};
+```
+
++ **文件头、函数头、全局常量变量、类型定义的注释格式采用工具可识别的格式**
+
+说明：采用工具可识别的注释格式，例如doxygen格式，方便工具导出注释形成帮助文档。
+以doxygen格式为例，文件头，函数和全部变量的注释的示例如下：
+文件头注释：
+```
+/** 
+*  @file           （本文件的文件名eg：mib.h）
+*  @brief          （本文件实现的功能的简述）
+*  @version 1.1    （版本声明）
+*  @author        （作者，eg：张三）  
+*  @date          （文件创建日期，eg：2010年12月15日）
+*/
+```
+
+函数头注释：
+```
+/**
+*@ Description:向接收方发送SET请求
+* @param req - 指向整个SNMP SET 请求报文.
+* @param ind - 需要处理的subrequest 索引.
+* @return 成功：SNMP_ERROR_SUCCESS，失败：SNMP_ERROR_COMITFAIL
+*/
+Int commit_set_request(Request *req, int ind);
+```
+
+全局变量注释：
+```
+/**  模拟的Agent MIB */
+agentpp_simulation_mib * g_agtSimMib;
+```
+
+函数头注释建议写到声明处。并非所有函数都必须写注释，建议针对这样的函数写注释：重要的、复
+杂的函数，提供外部使用的接口函数。
 
 ## 命名规则
 
