@@ -1,7 +1,12 @@
 
+
 ## android studio 熟悉
 
 * [ANDROID STUDIO详细教程汇总](http://stormzhang.com/devtools/2015/06/17/android-studio-all/)
+
+## 快捷键
+
+* 删除没用的import  `ctrl + alt + o`
 
 ## 关于Gradle
 
