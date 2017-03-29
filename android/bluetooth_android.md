@@ -45,7 +45,7 @@ Android 4.3 (API level 18) 才支持BLE
 
 * [AdvertiserActivity.java - Github](https://github.com/devunwired/accessory-samples/blob/master/bluetoothadvertiser/src/main/java/com/example/android/bluetoothadvertiser/AdvertiserActivity.java)
 
-### 手机与手机是如何配对
+### 手机与手机是如何连接
 
 首先肯定是一方作为服务器端，一边作为客户端。
 
