@@ -12,6 +12,8 @@
 
 [目录](./C/SUMMARY.md)
 
-## 英语学习
+## 其他
 
-[目录](./English/SUMMARY.md)
+* [ learn English ](./English_learn.md) 
+
+
