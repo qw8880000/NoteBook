@@ -14,6 +14,5 @@
 
 ## 其他
 
-* [ learn English ](./English_learn.md) 
 
 
