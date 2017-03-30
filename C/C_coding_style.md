@@ -61,9 +61,7 @@ int button_set_clicked_listener(FtkWidget* thiz, FtkListener listener);
 
 + **单行代码的注释放在代码的右边**
 
-```
-#define MAX_ACT_TASK_NUMBER 1000 /* active statistic task number */
-```
+`#define MAX_ACT_TASK_NUMBER 1000 /* active statistic task number */`
 
 + **多行代码的注释放在代码的上方，且与上方的代码用空行隔开**
 
@@ -246,4 +244,30 @@ int length = strlen( strcpy(str, "Hello World") );
 **无返回值**
 
 无返回值，那么声明为void返回类型。
+
+### 参数的书写要完整，不要贪图省事只写参数的类型而省略参数名字。如果函数没有参数，则用void 填充。
+
+```
+void SetValue(int width, int height); // 良好的风格
+void SetValue(int, int); // 不良的风格
+float GetValue(void); // 良好的风格
+float GetValue(); // 不良的风格
+```
+
+### 参数命名要恰当，顺序要合理
+
+参数的设计本没有规则，只是前人的代码多了，慢慢出现了一些潜规则。
+
+如 //dest src
+
+### 避免函数有太多的参数，最多不能超过5个。
+
+### 如果参数是指针，且仅作输入用，则应在类型前加const，以防止该指针在函数体内被意外修改。
+
+### 函数参数合法性判断
+
+即要判断合法性，又要防止过度判断，代码才会健壮又简洁。
+
+// todo
+
 
