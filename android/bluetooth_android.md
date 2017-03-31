@@ -9,7 +9,7 @@
 
 ## Bluetooth Low Energy
 
-Android 4.3 (API level 18) 才支持BLE
+Android 4.3 (API level 18) 以上 才支持BLE
 
 ### BLE关键术语和概念
 
@@ -43,7 +43,11 @@ Android 4.3 (API level 18) 才支持BLE
 
 ### android advertise
 
-* [AdvertiserActivity.java - Github](https://github.com/devunwired/accessory-samples/blob/master/bluetoothadvertiser/src/main/java/com/example/android/bluetoothadvertiser/AdvertiserActivity.java)
+如何使android设备发送广播包，参考
+* [qw8880000/android-samples](https://github.com/qw8880000/android-samples) 中的 `BluetoothScanner`
+
+收与发，参考
+* [googlesamples/android-BluetoothAdvertisements](https://github.com/googlesamples/android-BluetoothAdvertisements)
 
 ### 手机与手机是如何连接
 
@@ -63,9 +67,10 @@ Android 4.3 (API level 18) 才支持BLE
 ## 参考
 
 * [bluetooth api guides](https://developer.android.google.cn/guide/topics/connectivity/bluetooth.html?hl=zh-cn)
-* [Bluetooth guide](https://developer.android.com/guide/topics/connectivity/bluetooth.html)
 * [Bluetooth Low Energy](https://developer.android.google.cn/guide/topics/connectivity/bluetooth-le.html?hl=zh-cn)
-* [BluetoothAdapter](https://developer.android.com/reference/android/bluetooth/BluetoothAdapter.html)
-* [Android经典蓝牙开发简介](http://www.jianshu.com/p/fc46c154eb77)
-* [Android蓝牙实例（和单片机蓝牙模块通信）](http://www.cnblogs.com/luoxn28/p/5440882.html)
+* [Bluetooth guide](https://developer.android.com/guide/topics/connectivity/bluetooth.html)
+* [Bluetooth guide - 中文](http://www.jianshu.com/p/fc46c154eb77)
+* [googlesamples/android-BluetoothChat](https://github.com/googlesamples/android-BluetoothChat)
+* [googlesamples/android-BluetoothLeGatt](https://github.com/googlesamples/android-BluetoothLeGatt)
+* [googlesamples/android-BluetoothAdvertisements](https://github.com/googlesamples/android-BluetoothAdvertisements)
 
