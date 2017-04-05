@@ -37,9 +37,7 @@ Android 4.3 (API level 18) 以上 才支持BLE
 
 ### android 手机 创建 GATT server
 
-* [ble-android-gatt-server/BluetoothLeService.java](https://github.com/jeffddrake/ble-android-gatt-server/blob/master/BluetoothLeGattSample/src/main/java/com/example/android/bluetoothlegatt/BluetoothLeService.java)
-* [PeripheralActivity.java - GitHub]( https://github.com/devunwired/accessory-samples/blob/master/BluetoothGattPeripheral/src/main/java/com/example/android/bluetoothgattperipheral/PeripheralActivity.java )
-* [Android as Bluetooth Low Energy Peripheral (GATT server).]( http://blog.csdn.net/u013606170/article/details/46038283 )
+* [qw8880000/android-samples](https://github.com/qw8880000/android-samples) 中的 `BluetoothGatt`
 
 ### android advertise
 
@@ -48,6 +46,8 @@ Android 4.3 (API level 18) 以上 才支持BLE
 
 收与发，参考
 * [googlesamples/android-BluetoothAdvertisements](https://github.com/googlesamples/android-BluetoothAdvertisements)
+
+## 问题
 
 ### 手机与手机是如何连接
 
@@ -63,6 +63,18 @@ Android 4.3 (API level 18) 以上 才支持BLE
 
 两边的 UUID 必须是一样的，这是一个服务的唯一标识，而且这个 UUID 的值必须是 `00001101-0000-1000-8000-00805F9B34FB`。
 为什么呢？因为这个是 Android 的 API 上面说明的，用于普通蓝牙适配器和 Android 手机蓝牙模块连接的。
+
+### 为什么发送advertise包，device address地址不是蓝牙的地址
+
+安卓5后，android 的 Bluetooth api增加了 `BluetoothLeAdvertiser` 接口用来发送广播包。
+其中有一个保护隐私的特性就是：广播包的device address每隔一段时间就会改变一次。
+
+这是为了安全考虑，其他人无法通过device address来追踪你的蓝牙设备。
+
+
+参考：
+* [Android 5 static bluetooth MAC address for BLE advertising](http://stackoverflow.com/questions/28602672/android-5-static-bluetooth-mac-address-for-ble-advertising)
+* [Why the address of my BluetoothDevice changes every time I relaunch the app?](http://stackoverflow.com/questions/36180407/why-the-address-of-my-bluetoothdevice-changes-every-time-i-relaunch-the-app)
 
 ## 参考
 
