@@ -76,6 +76,10 @@ Android 4.3 (API level 18) 以上 才支持BLE
 * [Android 5 static bluetooth MAC address for BLE advertising](http://stackoverflow.com/questions/28602672/android-5-static-bluetooth-mac-address-for-ble-advertising)
 * [Why the address of my BluetoothDevice changes every time I relaunch the app?](http://stackoverflow.com/questions/36180407/why-the-address-of-my-bluetoothdevice-changes-every-time-i-relaunch-the-app)
 
+### BR/EDR模式下，为什么很久才会被发现
+
+**因为一段时间内进行inquiry的频点范围是有限的，若想搜索到所有频点的设备，需要保证inquiry的最短时间是10.24s**。
+
 ## 参考
 
 * [bluetooth api guides](https://developer.android.google.cn/guide/topics/connectivity/bluetooth.html?hl=zh-cn)
