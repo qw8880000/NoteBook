@@ -80,6 +80,17 @@ Android 4.3 (API level 18) 以上 才支持BLE
 
 **因为一段时间内进行inquiry的频点范围是有限的，若想搜索到所有频点的设备，需要保证inquiry的最短时间是10.24s**。
 
+### BluetoothAdapter.getAddress() 获取不到蓝牙mac地址
+
+使用`BluetoothAdapter.getAddress()` 得到的mac地址为 `02:00:00:00:00:00`
+
+原因：mac地址的保密性
+
+解决方法：
+```
+String macAddress = android.provider.Settings.Secure.getString(context.getContentResolver(), "bluetooth_address");
+```
+
 ## 参考
 
 * [bluetooth api guides](https://developer.android.google.cn/guide/topics/connectivity/bluetooth.html?hl=zh-cn)
