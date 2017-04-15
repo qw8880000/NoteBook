@@ -3,14 +3,13 @@ boxes
 =========================
 
  
-> Boxes is a command line program that draws a box around its input text. 
-It can remove and repair those boxes, too. 
-You can easily make your own box designs if you wish, but many designs are already provided.
+> Boxes is a command line program that draws a box around its input text. It can remove and repair those boxes, too. You can easily make your own box designs if you wish, but many designs are already provided.
     
 
 boxex 是 linux 下的一款命令行工具，可以用字符组成盒子把你的文字包围在里面。
 就像下面这样：
 
+```
     Hello World!  ==>
 
      __________________
@@ -41,7 +40,7 @@ boxex 是 linux 下的一款命令行工具，可以用字符组成盒子把你�
            \_)    ) /
                  (_/
 
-
+```
     
 
 安装
