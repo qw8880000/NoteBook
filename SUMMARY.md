@@ -16,5 +16,8 @@
 
 [目录](./basic/SUMMARY.md)
 
+## 其他
+
+* [像极客一样写作](./write_as_a_geek.md)
 
 
