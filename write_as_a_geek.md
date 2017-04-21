@@ -1,4 +1,7 @@
 
+> 作者：nicer  
+> 微信公众号：好好编程
+
 像极客一样写作
 ====================================
 
@@ -80,8 +83,7 @@ markdown + git
 
 `gitbook editor` 使用Github/Git + markdown创建漂亮的图书。
 
-它是集markdown编辑、markdown预览、git管理于一身的一个软件。
-还支持生成静态网站、输出PDF。
+它是集markdown编辑、markdown预览、git管理于一身的一个软件。还支持生成静态网站、输出PDF。
 
 界面很清爽，就像这样：
 
@@ -89,6 +91,6 @@ markdown + git
 
 有兴趣的同学可以搜索`gitbook`、`github editor`。
 
-总之，万变不离其中，选一个最适合你的才是最好的。
+总之，万变不离其宗，选一个最适合你的才是最好的。
 
 
