@@ -35,15 +35,37 @@
 
 ## android 技术栈 (android stack)
 
-[目录](./android/SUMMARY.md)
+* android IDE
+    * eclipse
+    * [ android studio ](./android/IDE_android_studio.md)
+* 蓝牙(bluetooth)
+    * [ bluetooth in android ](./android/bluetooth_android.md)
 
 ## C语言
 
-[目录](./C/SUMMARY.md)
+* [ C语言书单 ](./C/C_books.md)
+* [ 常见的命名规则 ](./C/C_naming_rule.md)
+* [ C风格要素 ]
+    * [ 程序结构 ](./C/C_style_program_organization.md)
+    * [ 排版与格式 ](C_style_program_format.md)
+    * [ 表达式 ](./C/C_style_statement.md)
+    * [ 注释 ](./C/C_style_comment.md)
+* [字节对齐]
+* [strcpy 与 strncpy各自的问题，使用strlcpy,snprintf来代替]
 
 ## 基础技术
 
-[目录](./basic/SUMMARY.md)
+* 蓝牙(bluetooth)
+    * [ 蓝牙简介 ](./basic/bluetooth.md)
+    * [ 简介 ](./basic/bluetooth_general_description.md)
+        * [ BR/EDR 简介 ](./basic/bluetooth_overview_of_BR_EDR_operation.md)
+        * [ LE 简介 ](./basic/bluetooth_overview_of_LE_operation.md)
+        * AMP 简介
+        * [BR/EDR vs LE vs AMP](http://www.wowotech.net.img.800cdn.com/content/uploadfile/201406/eaf01404028766.gif)
+    * [ 蓝牙核心框架 ](./basic/Bluetooth_core_system_architecture.md)
+    * 蓝牙通信和连接
+        * [ 通信拓扑 ](./basic/bluetooth_communication_topology.md)
+        * [ 连接和模式 ](./basic/bluetooth_connection_and_mode.md)
 
 ## 其他
 
