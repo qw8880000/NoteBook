@@ -53,6 +53,11 @@
 * [字节对齐]
 * [strcpy 与 strncpy各自的问题，使用strlcpy,snprintf来代替]
 
+## Java
+
+* [java学习路线](./java/java学习路线.md)
+* [初学java](./java/初学java.md)
+
 ## 基础技术
 
 * 蓝牙(bluetooth)
