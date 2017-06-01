@@ -25,6 +25,7 @@
     * [ CMake ](./linux/CMake.md)
 * linux shell
     * [ shell example ](./linux/shell_example.md)
+    * [ 在命令行中快速移动 ](./linux/shell_fast_move.md)
 * 自动化测试
     * [ TDD ](./linux/TDD.md)
     * [ TDD 要点 ](./linux/TDD_tips.md)
