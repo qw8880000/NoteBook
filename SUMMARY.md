@@ -34,6 +34,8 @@
     * [boxex](./linux/tools_boxes.md)
 * LFS
     * [LFS](./linux/LFS.md)
+* socket 编程
+    * [ socket 编程](./linux/socket.md)
 
 
 ## android 技术栈 (android stack)
