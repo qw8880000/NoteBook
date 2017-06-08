@@ -25,14 +25,18 @@
     * [ CMake ](./linux/CMake.md)
 * linux shell
     * [ shell example ](./linux/shell_example.md)
+    * [ 在命令行中快速移动 ](./linux/shell_fast_move.md)
 * 自动化测试
     * [ TDD ](./linux/TDD.md)
     * [ TDD 要点 ](./linux/TDD_tips.md)
-    * [ TDD 工具 - gtest ](./linux/TDD_gtest.md)
+    * [ 自动化测试工具 - gtest ](./linux/UnitTest_gtest.md)
+    * [ 自动化测试的一些术语 ](./linux/UnitTest_terminology.md)
 * linux tools
     * [boxex](./linux/tools_boxes.md)
 * LFS
     * [LFS](./linux/LFS.md)
+* socket 编程
+    * [ socket 编程](./linux/socket.md)
 
 
 ## android 技术栈 (android stack)
