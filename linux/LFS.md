@@ -7,3 +7,9 @@
 
 LFS(Linux From Scratch)
 ===============================
+
+硬盘分区
+----------------
+
+* [学习 Linux，101: 硬盘布局](https://www.ibm.com/developerworks/cn/linux/l-lpic1-v3-102-1/)
+* [学习 Linux，101: 创建分区和文件系统](https://www.ibm.com/developerworks/cn/linux/l-lpic1-v3-104-1/index.html)
