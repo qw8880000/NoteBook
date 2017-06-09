@@ -34,6 +34,7 @@ TDD的基本思路就是通过测试来推动整个开发的进行，但测试�
 * [《Test-Driven Development for Embedded C》](ftp://ftp.micronet-rostov.ru/linux-support/books/programming/C/Grenning%20-%20Test%20Driven%20Development%20for%20Embedded%20C%20-%202011.pdf)
 * 《测试驱动的嵌入式C语言开发》
 * [测试驱动的嵌入式C语言开发-源码](https://pragprog.com/titles/jgade/source_code)
+* [测试驱动的嵌入式C语言开发-源码2](https://github.com/jwgrenning/tddec-code)
 
 ## 参考
 
