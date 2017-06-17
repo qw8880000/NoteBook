@@ -31,6 +31,11 @@ googletest
     \-- xcode/              // 针对Xcode projects on Mac OS X 的 gtest 工程文件
 ```
 
+
+## googlemock 在 C 上的使用
+
+* [Using GoogleTest and GoogleMock frameworks for embedded C](https://www.codeproject.com/articles/1040972/using-googletest-and-googlemock-frameworks-for-emb)
+
 ## 参考
 
 * [Linux下Google Test （GTest）测试环境搭建步骤](http://www.linuxidc.com/Linux/2015-05/116894.htm)
