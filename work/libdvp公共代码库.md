@@ -81,7 +81,7 @@ git pull & push
 
 git subtree pull & push
 ```
-本地ds2600.git                          服务器ds2600.git
+本地ds2600.git                          服务器libdvp.git
     |                                       |
   libdvp      ---git subtree push-->       libdvp
               <---git subtree pull--  
