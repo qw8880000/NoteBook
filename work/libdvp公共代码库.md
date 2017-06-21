@@ -1,8 +1,6 @@
 
-```
-@author: wangjl
-@date: 2017-06-20
-```
+> 作者：nicer  
+> 微信公众号：好好编程
 
 # libdvp
 
