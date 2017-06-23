@@ -79,6 +79,8 @@
         * [ 通信拓扑 ](./basic/bluetooth_communication_topology.md)
         * [ 连接和模式 ](./basic/bluetooth_connection_and_mode.md)
 
+## 工作
+
 ## 其他
 
 * [像极客一样写作](./write_as_a_geek.md)
