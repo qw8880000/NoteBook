@@ -37,6 +37,7 @@
     * [LFS](./linux/LFS.md)
 * socket 编程
     * [ socket 编程](./linux/socket.md)
+* [ 交叉编译 ](https://crifan.com/files/doc/docbook/cross_compile/release/html/cross_compile.html)
 
 
 ## android 技术栈 (android stack)
@@ -58,7 +59,9 @@
     * [ 注释 ](./C/C_style_comment.md)
     * [ 函数 ](./C/C_style_function.md)
 * [字节对齐]
+* sizeof
 * [strcpy 与 strncpy各自的问题，使用strlcpy,snprintf来代替]
+* C语言的面向对象编程
 
 ## Java
 
@@ -78,8 +81,12 @@
     * 蓝牙通信和连接
         * [ 通信拓扑 ](./basic/bluetooth_communication_topology.md)
         * [ 连接和模式 ](./basic/bluetooth_connection_and_mode.md)
+* 计算机体系结构
+    * x86/x64
 
-## 工作
+## 移动互联网
+
+* [spring cloud 入门](./mobile_internet/spring_cloud_how_to_start.md)
 
 ## 其他
 
