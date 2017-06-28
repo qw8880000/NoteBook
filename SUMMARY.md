@@ -37,8 +37,10 @@
     * [LFS](./linux/LFS.md)
 * socket 编程
     * [ socket 编程](./linux/socket.md)
-* [ 交叉编译 ](https://crifan.com/files/doc/docbook/cross_compile/release/html/cross_compile.html)
 
+## 嵌入式
+
+* [ 交叉编译 ](https://crifan.com/files/doc/docbook/cross_compile/release/html/cross_compile.html)
 
 ## android 技术栈 (android stack)
 
