@@ -1,6 +1,6 @@
 
 
-## linux技术栈 (linux stack)
+## 嵌入式linux 技术栈
 
 * [ linux思维导图 ](./linux/linux_guide.md)
 * 计算机相关知识
@@ -15,11 +15,6 @@
     * 设备驱动
     * 文件系统
     * Bootloaders
-* linux 嵌入式开发
-    * ARM体系结构
-    * ftk
-        * [ 在ubuntu编译ftk ](./linux/ftk_build_in_Ubuntu.md)
-        * [ ftk的移植 ](./linux/ftk_port_to_Ubuntu.md)
 * Makefile
     * [ automake ](./linux/automake.md)
     * [ CMake ](./linux/CMake.md)
@@ -37,10 +32,24 @@
     * [LFS](./linux/LFS.md)
 * socket 编程
     * [ socket 编程](./linux/socket.md)
-
-## 嵌入式
-
 * [ 交叉编译 ](https://crifan.com/files/doc/docbook/cross_compile/release/html/cross_compile.html)
+* C语言
+    * [ C语言书单 ](./C/C_books.md)
+    * [ 常见的命名规则 ](./C/C_naming_rule.md)
+    * C风格要素
+        * [ 程序结构 ](./C/C_style_program_organization.md)
+        * [ 排版与格式 ](./C/C_style_program_format.md)
+        * [ 表达式 ](./C/C_style_statement.md)
+        * [ 注释 ](./C/C_style_comment.md)
+        * [ 函数 ](./C/C_style_function.md)
+    * [字节对齐]
+    * sizeof
+    * [strcpy 与 strncpy各自的问题，使用strlcpy,snprintf来代替]
+    * C语言的面向对象编程
+* ARM体系结构
+* ftk
+    * [ 在ubuntu编译ftk ](./linux/ftk_build_in_Ubuntu.md)
+    * [ ftk的移植 ](./linux/ftk_port_to_Ubuntu.md)
 
 ## android 技术栈 (android stack)
 
@@ -49,21 +58,6 @@
     * [ android studio ](./android/IDE_android_studio.md)
 * 蓝牙(bluetooth)
     * [ bluetooth in android ](./android/bluetooth_android.md)
-
-## C语言
-
-* [ C语言书单 ](./C/C_books.md)
-* [ 常见的命名规则 ](./C/C_naming_rule.md)
-* C风格要素
-    * [ 程序结构 ](./C/C_style_program_organization.md)
-    * [ 排版与格式 ](./C/C_style_program_format.md)
-    * [ 表达式 ](./C/C_style_statement.md)
-    * [ 注释 ](./C/C_style_comment.md)
-    * [ 函数 ](./C/C_style_function.md)
-* [字节对齐]
-* sizeof
-* [strcpy 与 strncpy各自的问题，使用strlcpy,snprintf来代替]
-* C语言的面向对象编程
 
 ## Java
 
@@ -88,7 +82,7 @@
 
 ## 移动互联网
 
-* [spring cloud 入门](./mobile_internet/spring_cloud_how_to_start.md)
+* [spring cloud 入门](./mobile_internet/web_server_how_to_start.md)
 
 ## 其他
 
