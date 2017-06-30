@@ -22,6 +22,10 @@
     |   |     |
     |   |     \-- [json语法](http://www.w3school.com.cn/json/json_syntax.asp)
     |   |
+    |   |-- HTTP
+    |   |     |
+    |   |     \-- [http协议教程](http://www.runoob.com/http/http-messages.html)
+    |   |
     |   \-- RESTful api
     |           |
     |           |-- Representational State Transfer，又称具象状态传输
