@@ -1,14 +1,13 @@
 
 
-## 嵌入式linux 技术栈
+## 嵌入式linux
 
 * [ linux思维导图 ](./linux/linux_guide.md)
 * 计算机相关知识
     * [ 微机原理 ](./linux/microcomputer_theory.md)
     * [微型计算机硬件系统](http://wjyl.csxupt.com/wjyl/OnlineClass/1.4.html)
     * [微型计算机的工作过程](http://wjyl.csxupt.com/wjyl/OnlineClass/1.5.html)
-* Ubuntu
-    * [ apt-get ](./linux/apt-get.md)
+* ARM体系结构
 * linux 内核
     * 内核初始化
     * 系统初始化
@@ -28,15 +27,11 @@
         * [ ftk的移植 ](./linux/ftk_port_to_Ubuntu.md)
     * socket 编程
         * [ socket 编程](./linux/socket.md)
-* 自动化测试
-    * [ TDD ](./linux/TDD.md)
-    * [ TDD 要点 ](./linux/TDD_tips.md)
-    * [ 自动化测试工具 - gtest ](./linux/UnitTest_gtest.md)
-    * [ 自动化测试的一些术语 ](./linux/UnitTest_terminology.md)
-* linux tools
-    * [boxex](./linux/tools_boxes.md)
-* LFS
-    * [LFS](./linux/LFS.md)
+    * 自动化测试
+        * [ TDD ](./linux/TDD.md)
+        * [ TDD 要点 ](./linux/TDD_tips.md)
+        * [ 自动化测试工具 - gtest ](./linux/UnitTest_gtest.md)
+        * [ 自动化测试的一些术语 ](./linux/UnitTest_terminology.md)
 * C语言
     * [ C语言推荐书单 ](./C/C_books.md)
     * [ 常见的命名规则 ](./C/C_naming_rule.md)
@@ -50,7 +45,19 @@
     * sizeof
     * [strcpy 与 strncpy各自的问题，使用strlcpy,snprintf来代替]
     * C语言的面向对象编程
-* ARM体系结构
+* 书籍阅读
+    * 鸟哥的linux私房菜
+    * 测试驱动的嵌入式C语言开发
+    * C elements of style
+    * 华为技术有限公司c语言编程规范
+    * 系统程序员成长之路
+* 其他
+    * linux tools
+        * [boxex](./linux/tools_boxes.md)
+    * LFS
+        * [LFS](./linux/LFS.md)
+    * Ubuntu
+        * [ apt-get ](./linux/apt-get.md)
 
 ## android 技术栈 (android stack)
 
