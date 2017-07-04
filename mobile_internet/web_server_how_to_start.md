@@ -5,8 +5,6 @@
 ```
 服务器后端
     |
-    |-- 什么是spring cloud
-    |
     |-- 基本概念
     |   |
     |   |-- sevlet容器
@@ -28,6 +26,8 @@
     |   |
     |   |-- [Web服务器、应用程序服务器、HTTP服务器区别](http://www.admin10000.com/document/10377.html)
     |   |
+    |   |-- war
+    |   |
     |   \-- RESTful api
     |           |
     |           |-- Representational State Transfer，又称具象状态传输
@@ -43,7 +43,16 @@
     |   |
     |   |-- [Spring MVC 解读——@RequestMapping 1](https://my.oschina.net/HeliosFly/blog/212329)
     |   |
+    |   |-- 创建可执行jar
+    |   |   |
+    |   |   \-- spring-boot-gradle-plugin
+    |   |
     |   \-- 常用注解
+    |       |
+    |       |-- @RestController
+    |       |-- @EnableAutoConfiguration
+    |       |
+    |
     |
     |-- 学习材料
     |   |-- http://blog.didispace.com/archives/
@@ -66,6 +75,11 @@
     |
     |-- 问题
     |   |
+    |   |
+    |   |-- @Restcontroller所对应的gradle依赖
+    |   |   |
+    |   |   \-- [spring-boot-starter-*]( https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/III.%20Using%20Spring%20Boot/13.5.%20Starters.html )
+    |   |   
     |   \-- 链接如何对应到一个类中的方法(实现原理)
     |
     |
