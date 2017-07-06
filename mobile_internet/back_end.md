@@ -36,7 +36,8 @@
     |-- spring boot 
     |   |
     |   |-- [spring boot 教程](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/)
-    |   |
+    |   |-- [Spring Boot开发：从0到1](https://kotlintc.com/articles/191)
+    |   |-- [springboot学习笔记](https://github.com/zsl131/spring-boot-test)
     |   |-- [Spring Boot快速入门]( http://blog.didispace.com/spring-boot-learning-1/ )
     |   |
     |   |-- [使用Intellij中的Spring Initializr来快速构建Spring Boot/Cloud工程]( http://blog.didispace.com/spring-initializr-in-intellij/ )
@@ -51,13 +52,9 @@
     |       |
     |       |-- @RestController
     |       |-- @EnableAutoConfiguration
-    |       |
-    |
-    |
-    |-- 学习材料
-    |   |-- http://blog.didispace.com/archives/
-    |   \-- https://github.com/zsl131/spring-boot-test
-    |
+    |       |-- @ComponentScan
+    |       |-- @Autowired
+    |       \-- @SpringBootApplication
     |
     |-- docker
     |   |
