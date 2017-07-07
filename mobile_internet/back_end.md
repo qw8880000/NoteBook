@@ -48,6 +48,11 @@
     |   |   |
     |   |   \-- spring-boot-gradle-plugin
     |   |
+    |   |-- spring boot Junit单元测试
+    |   |   |
+    |   |   \-- [Spring Boot Junit单元测试](https://yq.aliyun.com/articles/6925)
+    |   |
+    |   |
     |   \-- 常用注解
     |       |
     |       |-- @RestController
