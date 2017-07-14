@@ -19,6 +19,7 @@
     |   |   |
     |   |   \-- 统一资源标识符（英语：Uniform Resource Identifier，或URI）是一个用于标识某一互联网资源名称的字符串
     |   |
+    |   |-- Ajax
     |   |
     |   |-- json
     |   |     |
@@ -92,8 +93,18 @@
     |   |   
     |   \-- 链接如何对应到一个类中的方法(实现原理)
     |
+    |-- 开发工具
+    |   |
+    |   |-- idea
+    |   \-- webstrom
+    |
+    |
     |-- node.js
     |   |
+    |   |-- 教程
+    |   |   |
+    |   |   |-- [node 入门](https://www.nodebeginner.org/index-zh-cn.html)
+    |   |   \-- node.js 开发指南
     |   |
     |   |-- pm2
     |   |   |
@@ -114,12 +125,16 @@
     |
     |-- JavaScript
     |   |
+    |   |-- 函数式编程
+    |   |
     |   |-- [Javascript 严格模式 "" ](http://www.ruanyifeng.com/blog/2013/01/javascript_strict_mode.html)
     |   |-- [JavaScript this](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/this)
     |   |-- [JavaScript 闭包](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
     |   \-- [JavaScript 闭包](http://www.runoob.com/js/js-function-closures.html)
     |
     \-- java
+        |
+        |-- [关于依赖注入](https://martinfowler.com/articles/injection.html)
         |
         |-- java 注解
         |       |
