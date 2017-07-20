@@ -7,6 +7,13 @@
     |
     |-- 基本概念
     |   |
+    |   |-- JPA(Java Persistence API)
+    |   |   |
+    |   |   |-- 是Sun官方提出的Java持久化规范。它为Java开发人员提供了一种对象/关联映射工具来管理Java应用中的关系数据
+    |   |
+    |   |-- ORM框架
+    |   |
+    |   |
     |   |-- sevlet容器
     |   |   |
     |   |   \-- Servlet（Server Applet），全称Java Servlet。是用Java编写的服务器端程序
@@ -41,6 +48,8 @@
     |
     |-- spring boot 
     |   |
+    |   |-- [spring boot 官网](https://projects.spring.io/spring-boot/)
+    |   |
     |   |-- [spring boot 教程 -- gitbook](https://qbgbook.gitbooks.io/spring-boot-reference-guide-zh/content/)
     |   |-- [Spring Boot开发：从0到1 -- kotlin中国](https://kotlintc.com/articles/191)
     |   |-- [springboot学习笔记 -- github](https://github.com/zsl131/spring-boot-test)
@@ -59,7 +68,10 @@
     |   |   \-- [Spring Boot Junit单元测试](https://yq.aliyun.com/articles/6925)
     |   |
     |   |
+    |   |
     |   \-- 常用注解
+    |       |
+    |       |-- [使用SpringMVC注解@RequestParam(value="XXX",required=false)时需要注意的问题](http://blog.csdn.net/hellostory/article/details/7519358)
     |       |
     |       |-- @RestController
     |       |-- @EnableAutoConfiguration
@@ -67,8 +79,10 @@
     |       |-- @Autowired
     |       \-- @SpringBootApplication
     |
-    |-- Swagger 
+    |
+    |-- Swagger2 
     |   |
+    |   |-- [Spring Boot中使用Swagger2构建强大的RESTful API文档](http://blog.didispace.com/springbootswagger2/)
     |   \-- 是一个规范和完整的框架，用于生成、描述、调用和可视化 RESTful 风格的 Web 文档
     |
     |-- docker
@@ -167,10 +181,12 @@
         |   |
         |   |-- [Java总结篇系列：Java泛型](http://www.cnblogs.com/lwbqqyumidi/p/3837629.html)
         |   |-- [Java泛型详解](https://www.ziwenxie.site/2017/03/01/java-generic/)
-        |   |-- [java 泛型详解（普通泛型、 通配符、 泛型接口）](http://iteye.blog.163.com/blog/static/18630809620131472312201/)
+        |   \-- [java 泛型详解（普通泛型、 通配符、 泛型接口）](http://iteye.blog.163.com/blog/static/18630809620131472312201/)
         |
         |-- java 注解
         |       |
+        |       |
+        |       |-- [The Java Annotation Tutorial](https://docs.oracle.com/javase/tutorial/java/annotations/index.html)
         |       |-- http://wiki.jikexueyuan.com/project/java-reflection/java-at.html
         |       \-- http://www.importnew.com/10294.html
         |
