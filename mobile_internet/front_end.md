@@ -8,6 +8,7 @@
     |
     |-- angular.js
     |   |
+    |   |
     |   |-- ui router
     |   |
     |   |-- $inject

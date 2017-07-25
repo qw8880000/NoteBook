@@ -20,7 +20,11 @@
     |   |
     |   |-- url
     |   |   |
-    |   |   \-- [URL的井号](http://www.ruanyifeng.com/blog/2011/03/url_hash.html)
+    |   |   \-- url 中的#号
+    |   |       |
+    |   |       |-- [angular.js 前端路由](http://www.runoob.com/angularjs/angularjs-routing.html)
+    |   |       |-- [URL中“#” “？” &“”号的作用](http://www.cnblogs.com/kaituorensheng/p/3776527.html)
+    |   |       \-- [URL的井号](http://www.ruanyifeng.com/blog/2011/03/url_hash.html)
     |   |
     |   |-- uri
     |   |   |
