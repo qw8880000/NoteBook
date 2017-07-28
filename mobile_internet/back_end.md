@@ -132,7 +132,10 @@
     |   |   |-- [node.js 中文网](http://nodejs.cn/api/path.html)
     |   |   |-- [node.js api 文档](http://nodejs.cn/api/modules.html)
     |   |   |-- [node 入门](https://www.nodebeginner.org/index-zh-cn.html)
-    |   |   \-- node.js 开发指南
+    |   |   |
+    |   |   |-- [node.js 学习路线图](http://www.open-open.com/lib/view/open1403574545233.html)
+    |   |   |
+    |   |   \-- 《node.js 开发指南》
     |   |       |
     |   |       |-- node.js是什么？
     |   |       |-- 异步式 I/O 与事件驱动

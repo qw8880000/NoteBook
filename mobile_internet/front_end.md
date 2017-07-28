@@ -8,8 +8,18 @@
     |
     |-- angular.js
     |   |
+    |   |-- [angularjs api](http://docs.ngnice.com/api)
+    |   |
+    |   |-- 依赖注入
+    |   |   |
+    |   |   |-- [什么是依赖注入](http://blog.csdn.net/taijianyu/article/details/2338311)
+    |   |   |-- [AngularJS依赖注入](http://yiibai.com/angularjs/angularjs_dependency_injection.html)
+    |   |   \-- [AngularJS开发指南14：依赖注入](http://www.angularjs.cn/A00z)
     |   |
     |   |-- ui router
+    |   |   |
+    |   |   |-- [UI-Router for AngularJS (1.x)](https://ui-router.github.io/ng1/)
+    |   |   \-- [AngularJS 路由](http://www.runoob.com/angularjs/angularjs-routing.html)
     |   |
     |   |-- $inject
     |   |   |
@@ -19,6 +29,10 @@
     |   |-- [AngularJS过滤器](http://www.angularjs.cn/A00K#!)
     |   \-- [Angular MVVM双向绑定]
     |
-    |
+    \-- 浏览器
+        |
+        \-- 加载和渲染
+            |
+            \-- [浏览器渲染页面过程](http://www.cnblogs.com/chenlogin/p/5221562.html)
 
 ```
