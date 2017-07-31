@@ -4,6 +4,20 @@
 
 前端
     |
+    |-- 如何上传文件
+    |   |
+    |   |-- [非常有用的文件上传脚本收集](https://www.qianduan.net/very-useful-collection-of-the-file-upload-script/)
+    |   |-- [文件各种上传离不开的表单](http://www.ibloger.net/article/2556.html)
+    |   |-- [文件上传那些事儿](https://juejin.im/entry/590ad4682f301e00582a78b5)
+    |   |-- [前端文件上传基础](http://www.jianshu.com/p/374e9b9d1fb1)
+    |   \-- 1. html 的 form input 元素 2. XMLHttpRequest 里的 FormData
+    |
+    |
+    |-- html DOM
+    |   |
+    |   \-- [JavaScript HTML DOM](http://www.runoob.com/js/js-htmldom.html)
+    |
+    |
     |-- ajax
     |   |
     |   |-- [ajax 教程](http://www.w3school.com.cn/ajax/index.asp)
