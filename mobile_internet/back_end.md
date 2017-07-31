@@ -30,8 +30,6 @@
     |   |   |
     |   |   \-- 统一资源标识符（英语：Uniform Resource Identifier，或URI）是一个用于标识某一互联网资源名称的字符串
     |   |
-    |   |-- Ajax
-    |   |
     |   |-- json
     |   |     |
     |   |     \-- [json语法](http://www.w3school.com.cn/json/json_syntax.asp)
@@ -168,6 +166,8 @@
     |   |
     |   |-- bower
     |   |   |
+    |   |   |-- 为前端而生
+    |   |   |-- [bower -- github](https://github.com/bower/bower)
     |   |   \-- [bower简明入门教程](https://segmentfault.com/a/1190000002971135)
     |   |
     |   \-- grunt

@@ -10,7 +10,11 @@
     |   |-- [文件各种上传离不开的表单](http://www.ibloger.net/article/2556.html)
     |   |-- [文件上传那些事儿](https://juejin.im/entry/590ad4682f301e00582a78b5)
     |   |-- [前端文件上传基础](http://www.jianshu.com/p/374e9b9d1fb1)
+    |   |
     |   \-- 1. html 的 form input 元素 2. XMLHttpRequest 里的 FormData
+    |       |
+    |       |-- [HTML DOM Form 对象](http://www.w3school.com.cn/jsref/dom_obj_form.asp)
+    |       \-- [HTML DOM FileUpload 对象](http://www.w3school.com.cn/jsref/dom_obj_fileupload.asp)
     |
     |
     |-- html DOM
@@ -46,6 +50,11 @@
     |   |   
     |   |-- [AngularJS过滤器](http://www.angularjs.cn/A00K#!)
     |   \-- [Angular MVVM双向绑定]
+    |
+    |-- angular.js 插件
+    |   |
+    |   \-- [angular-file-upload](https://github.com/nervgh/angular-file-upload)
+    |
     |
     \-- 浏览器
         |
