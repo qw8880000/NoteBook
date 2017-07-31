@@ -4,6 +4,10 @@
 
 前端
     |
+    |-- ajax
+    |   |
+    |   |-- [ajax 教程](http://www.w3school.com.cn/ajax/index.asp)
+    |   \-- AJAX 是一种在无需重新加载整个网页的情况下，能够更新部分网页的技术。
     |
     |
     |-- angular.js
