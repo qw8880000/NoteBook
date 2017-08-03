@@ -36,6 +36,7 @@
     |
     |-- angular.js
     |   |
+    |   |-- [angular.js code style](http://codestyle.co/Guidelines/angularjs)
     |   |-- [angular.js code style](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
     |   |
     |   |-- [angularjs api](http://docs.ngnice.com/api)
