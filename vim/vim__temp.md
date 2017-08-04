@@ -2,13 +2,9 @@
 
 用来放一些vim遇到的问题或其他不好归类的知识。
 
+## 查看vimrc路径
 
-## 获取当前光标下单词
-
-```
-1. <C-R><C-W>
-2. <C-R>=expand("<cword>")
-```
+`:echo $MYVIMRC`
 
 ## 遇到的问题
 
@@ -26,36 +22,11 @@
 
     解决：
 
-## vim 配色
-
-* solarized
-* molokai
-
-    [挑選 Vim 顏色(Color Scheme)](http://blog.longwin.com.tw/2009/03/choose-vim-color-scheme-2009/)
 
 ## 查看vim打开时的加载时间
 ```
 vim --startuptime timefile the_file_you_want_to_edit
 ```
-
-## 查看快捷键映射
-
-查看所有                :map
-查看normal模式下快捷键  :nmap
-查看insert模式下快捷键  :imap
-
-查看某快捷键映射：
-    :verbose map <所要查找的快捷键> 
-
-## 常用按键的表示
-
-文／MidSummer（简书作者）
-原文链接：http://www.jianshu.com/p/2c9a85277d49
-著作权归作者所有，转载请联系作者获得授权，并标注“简书作者”。
-
-    <Esc>代表Escape键:<CR>代表Enter键；<D>代表Command键。
-    Alt键可以使用<M-key>或<A-key>来表示。<C>代表Ctrl.
-    对于组合键，可以用<C-Esc>代表Ctrl-Esc；使用<S-F1>表示Shift-F1
 
 ## 为什么 VIM 编辑变慢
 
@@ -79,6 +50,7 @@ vim --startuptime timefile the_file_you_want_to_edit
 ## 查看vim使用的插件
 
     :scriptnames
+
 ## 查看文件全路径
 
 按1 然后 ctrl + g
