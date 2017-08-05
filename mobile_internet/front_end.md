@@ -64,6 +64,12 @@
     |   |
     |   \-- [angular-file-upload](https://github.com/nervgh/angular-file-upload)
     |
+    |-- 问题
+    |   |
+    |   \-- 前端使用后端node.js代码
+    |       |
+    |       \-- node browserify
+    |
     |
     \-- 浏览器
         |
