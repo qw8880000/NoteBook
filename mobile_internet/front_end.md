@@ -69,7 +69,9 @@
     |   \-- 前端使用后端node.js代码
     |       |
     |       \-- node browserify
-    |
+    |           |
+    |           |-- [substack/browserify-handbook](https://github.com/substack/browserify-handbook)
+    |           \-- [通过 Browserify 在浏览器中使用 NodeJS 模块](https://www.ibm.com/developerworks/cn/web/1501_chengfu_browserify/)
     |
     \-- 浏览器
         |
