@@ -192,6 +192,10 @@ dtx # 删除文本直到字符“x”（不包括字符“x”）: delete to x
 dfx # 删除文本直到字符“x”（包括字符“x”）: delete forward x
 ```
 
+# vimscript - vim编程语言
+
+查看帮助：`:help vim-script-intro`
+
 
 # 参考 
 

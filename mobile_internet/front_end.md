@@ -36,6 +36,8 @@
     |
     |-- angular.js
     |   |
+    |   |-- [angularjs 教程](http://www.angularjs.net.cn/tutorial/)
+    |   |
     |   |-- [angular.js code style](http://codestyle.co/Guidelines/angularjs)
     |   |-- [angular.js code style](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
     |   |
@@ -56,6 +58,12 @@
     |   |   |
     |   |   |-- [use of $inject in angular.js](https://stackoverflow.com/questions/18698963/i-dont-understand-the-use-of-inject-in-controllers)
     |   |   \-- [Dependency Injection](https://docs.angularjs.org/guide/di)
+    |   |   
+    |   |-- providers  
+    |   |   |
+    |   |   |-- [AngularJS：factory，service与provider的区别](https://segmentfault.com/a/1190000004602085)
+    |   |   |-- [Angularjs 中的 provider, factory 和 service](http://zhex.me/blog/2013/08/03/provider-factory-and-service-in-angularjs/)
+    |   |   \-- [伤不起的providers](http://hellobug.github.io/blog/angularjs-providers/)
     |   |   
     |   |-- [AngularJS过滤器](http://www.angularjs.cn/A00K#!)
     |   \-- [Angular MVVM双向绑定]
