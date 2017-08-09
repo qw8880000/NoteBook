@@ -4,6 +4,12 @@
 
 前端
     |
+    |-- 侧边栏
+    |   |
+    |   |-- [HTML5+CSS3点击显示网页侧边栏的效果](http://www.codefans.net/jscss/code/4266.shtml)
+    |   |-- [9种html5+css3隐藏侧边栏导航菜单动画效果](http://www.htmleaf.com/css3/daohangcaidan/20141019235.html)
+    |   \-- [6种css3和js显示/隐藏侧边栏效果](http://www.htmleaf.com/css3/daohangcaidan/20141114476.html)
+    |
     |-- css
     |   |
     |   \-- [css 可用性查询](http://caniuse.com/)
