@@ -12,6 +12,16 @@
     |
     |-- css
     |   |
+    |   |-- css 居中对齐
+    |   |   |
+    |   |   |-- [6 Methods For Vertical Centering With CSS](http://vanseodesign.com/css/vertical-centering/)
+    |   |   |-- [CSS Layout - Horizontal & Vertical Align](https://www.w3schools.com/csS/css_align.asp)
+    |   |   \-- [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+    |   |
+    |   |-- position
+    |   |   |
+    |   |   \-- [position - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+    |   |
     |   \-- [css 可用性查询](http://caniuse.com/)
     |
     |-- bootstrap
@@ -21,6 +31,9 @@
     |   \-- [bootstrap 中文网](http://www.bootcss.com/)
     |
     |-- jQuery
+    |   |
+    |   \-- [jquery api](http://api.jquery.com/)
+    |
     |
     |-- 工具
     |   |
@@ -54,6 +67,7 @@
     |
     |-- angular.js
     |   |
+    |   |-- [angular tutorial](http://learnkode.com/Tutorial/Angular/angular-introduction)
     |   |-- [angularjs 教程](http://www.angularjs.net.cn/tutorial/)
     |   |
     |   |-- [angular.js code style](http://codestyle.co/Guidelines/angularjs)
