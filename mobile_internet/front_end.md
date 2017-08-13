@@ -19,6 +19,11 @@
     |
     |-- css
     |   |
+    |   |-- input 美化
+    |   |   |
+    |   |   \-- [css input[type=file] 样式美化，input上传按钮美化](http://www.haorooms.com/post/css_input_uploadmh)
+    |   |
+    |   |
     |   |-- css 居中对齐
     |   |   |
     |   |   |-- [6 Methods For Vertical Centering With CSS](http://vanseodesign.com/css/vertical-centering/)
