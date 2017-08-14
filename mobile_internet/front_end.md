@@ -4,6 +4,41 @@
 
 前端
     |
+    |-- javascript
+    |   |
+    |   |-- html DOM
+    |   |   |
+    |   |   \-- [JavaScript HTML DOM](http://www.runoob.com/js/js-htmldom.html)
+    |   |
+    |   \-- [javascript 事件机制－冒泡与捕获](http://www.cnblogs.com/hustskyking/p/problem-javascript-event.html)
+    |
+    |-- css
+    |   |
+    |   |-- input 美化
+    |   |   |
+    |   |   \-- [css input[type=file] 样式美化，input上传按钮美化](http://www.haorooms.com/post/css_input_uploadmh)
+    |   |
+    |   |
+    |   |-- css 居中对齐
+    |   |   |
+    |   |   |-- [6 Methods For Vertical Centering With CSS](http://vanseodesign.com/css/vertical-centering/)
+    |   |   |-- [CSS Layout - Horizontal & Vertical Align](https://www.w3schools.com/csS/css_align.asp)
+    |   |   \-- [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
+    |   |
+    |   |-- position
+    |   |   |
+    |   |   \-- [position - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+    |   |
+    |   \-- [css 可用性查询](http://caniuse.com/)
+    |
+    |-- html
+    |   |
+    |   |
+    |   \-- form
+    |       |
+    |       |-- [HTML5之表单详解](http://www.cnblogs.com/mrthink/archive/2011/02/23/1961998.html)
+    |       |-- [细说 Form (表单)](http://www.cnblogs.com/fish-li/archive/2011/07/17/2108884.html)
+    |       \-- [HTML 中表单form 的相关知识 ](http://www.cnblogs.com/xugang/archive/2010/08/12/1798005.html)
     |
     |-- web storage
     |   |
@@ -24,24 +59,6 @@
     |   |-- [9种html5+css3隐藏侧边栏导航菜单动画效果](http://www.htmleaf.com/css3/daohangcaidan/20141019235.html)
     |   \-- [6种css3和js显示/隐藏侧边栏效果](http://www.htmleaf.com/css3/daohangcaidan/20141114476.html)
     |
-    |-- css
-    |   |
-    |   |-- input 美化
-    |   |   |
-    |   |   \-- [css input[type=file] 样式美化，input上传按钮美化](http://www.haorooms.com/post/css_input_uploadmh)
-    |   |
-    |   |
-    |   |-- css 居中对齐
-    |   |   |
-    |   |   |-- [6 Methods For Vertical Centering With CSS](http://vanseodesign.com/css/vertical-centering/)
-    |   |   |-- [CSS Layout - Horizontal & Vertical Align](https://www.w3schools.com/csS/css_align.asp)
-    |   |   \-- [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/)
-    |   |
-    |   |-- position
-    |   |   |
-    |   |   \-- [position - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
-    |   |
-    |   \-- [css 可用性查询](http://caniuse.com/)
     |
     |-- bootstrap
     |   |
@@ -73,9 +90,6 @@
     |       \-- [HTML DOM FileUpload 对象](http://www.w3school.com.cn/jsref/dom_obj_fileupload.asp)
     |
     |
-    |-- html DOM
-    |   |
-    |   \-- [JavaScript HTML DOM](http://www.runoob.com/js/js-htmldom.html)
     |
     |
     |-- ajax
@@ -86,6 +100,7 @@
     |
     |-- angular.js
     |   |
+    |   |-- [angular.js](https://angularjs.org/)
     |   |-- [angular tutorial](http://learnkode.com/Tutorial/Angular/angular-introduction)
     |   |-- [angularjs 教程](http://www.angularjs.net.cn/tutorial/)
     |   |
@@ -115,6 +130,10 @@
     |   |   |-- [AngularJS：factory，service与provider的区别](https://segmentfault.com/a/1190000004602085)
     |   |   |-- [Angularjs 中的 provider, factory 和 service](http://zhex.me/blog/2013/08/03/provider-factory-and-service-in-angularjs/)
     |   |   \-- [伤不起的providers](http://hellobug.github.io/blog/angularjs-providers/)
+    |   |   
+    |   |-- how to override ng-click   
+    |   |   |  
+    |   |   \-- [AngularJS - how to override directive ngClick](https://stackoverflow.com/questions/18421732/angularjs-how-to-override-directive-ngclick) 
     |   |   
     |   |-- [AngularJS过滤器](http://www.angularjs.cn/A00K#!)
     |   \-- [Angular MVVM双向绑定]
