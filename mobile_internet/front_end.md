@@ -6,6 +6,11 @@
     |
     |-- javascript
     |   |
+    |   |-- input 加载本地文件
+    |   |   |
+    |   |   |-- [Reading files in JavaScript using the File APIs](https://www.html5rocks.com/en/tutorials/file/dndfiles/)
+    |   |   \-- [Using files from web applications](https://developer.mozilla.org/en-US/docs/Using_files_from_web_applications)
+    |   |
     |   |-- html DOM
     |   |   |
     |   |   \-- [JavaScript HTML DOM](http://www.runoob.com/js/js-htmldom.html)
@@ -130,6 +135,12 @@
     |   |   |-- [AngularJS：factory，service与provider的区别](https://segmentfault.com/a/1190000004602085)
     |   |   |-- [Angularjs 中的 provider, factory 和 service](http://zhex.me/blog/2013/08/03/provider-factory-and-service-in-angularjs/)
     |   |   \-- [伤不起的providers](http://hellobug.github.io/blog/angularjs-providers/)
+    |   |   
+    |   |-- angular form
+    |   |   |
+    |   |   |
+    |   |   |-- [form 进阶](https://github.com/tiw/angularjs-tutorial/blob/master/ng-form2.markdown)
+    |   |   \-- [angularjs form简单入门](http://www.angularjs.cn/A08j)   
     |   |   
     |   |-- how to override ng-click   
     |   |   |  
