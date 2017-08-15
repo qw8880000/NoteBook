@@ -146,6 +146,11 @@
     |   |   |  
     |   |   \-- [AngularJS - how to override directive ngClick](https://stackoverflow.com/questions/18421732/angularjs-how-to-override-directive-ngclick) 
     |   |   
+    |   |-- angular.element   
+    |   |   |   
+    |   |   \-- If jQuery is available, angular.element is an alias for the jQuery function. If jQuery is not available, angular.element delegates to AngularJS's built-in subset of jQuery, called "jQuery lite" or jqLite.
+    |   |   
+    |   |   
     |   |-- [AngularJS过滤器](http://www.angularjs.cn/A00K#!)
     |   \-- [Angular MVVM双向绑定]
     |
