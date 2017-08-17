@@ -12,3 +12,11 @@
 
 
 * [非常有用的 Markdown 编辑器和工具](http://www.oschina.net/news/50322/markdown-editors-and-tools)
+
+* [ace editor example](https://codepen.io/ByScripts/pen/fzucK)
+* [thlorenz/browserify-markdown-editor](https://github.com/thlorenz/browserify-markdown-editor)
+
+
+* [各种Markdown处理器的列表](http://www.cnblogs.com/fresky/p/3198756.html)
+* [markdown-converter](https://www.npmjs.com/package/markdown-converter)
+* [cwjohan/markdown-to-html](https://github.com/cwjohan/markdown-to-html)
