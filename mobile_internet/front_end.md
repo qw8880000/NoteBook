@@ -138,6 +138,11 @@
     |   |   |-- [Angularjs 中的 provider, factory 和 service](http://zhex.me/blog/2013/08/03/provider-factory-and-service-in-angularjs/)
     |   |   \-- [伤不起的providers](http://hellobug.github.io/blog/angularjs-providers/)
     |   |   
+    |   |-- directive scope   
+    |   |   |
+    |   |   |-- [一招制敌 - 玩转 AngularJS 指令的 Scope (作用域)](https://segmentfault.com/a/1190000002773689)
+    |   |   \-- [ngularJS Directive 隔离 Scope 数据交互](https://blog.coding.net/blog/angularjs-directive-isolate-scope?type=early)
+    |   |
     |   |-- angular form
     |   |   |
     |   |   |
