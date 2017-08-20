@@ -38,6 +38,9 @@
     |
     |-- html
     |   |
+    |   |-- 常见组件
+    |   |   |
+    |   |   \-- [w3 how to](https://www.w3schools.com/howto/default.asp)
     |   |
     |   \-- form
     |       |
@@ -106,6 +109,11 @@
     |
     |
     |-- angular.js
+    |   |
+    |   |-- angular 调试
+    |   |   |
+    |   |   \-- [在控制台中调试 AngularJS 应用（译/改）](https://lyfeyaj.com/2015/01/07/debugging-angularjs-apps-from-the-console/)
+    |   |
     |   |
     |   |-- [angular.js](https://angularjs.org/)
     |   |-- [angular tutorial](http://learnkode.com/Tutorial/Angular/angular-introduction)
