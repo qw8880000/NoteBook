@@ -9,10 +9,14 @@
     |   |
     |   |-- JPA(Java Persistence API)
     |   |   |
-    |   |   |-- 是Sun官方提出的Java持久化规范。它为Java开发人员提供了一种对象/关联映射工具来管理Java应用中的关系数据
+    |   |   \-- 是Sun官方提出的Java持久化规范。它为Java开发人员提供了一种对象/关联映射工具来管理Java应用中的关系数据
     |   |
     |   |-- ORM框架
     |   |
+    |   |-- JSON Web Token (JWT)
+    |   |   |
+    |   |   |-- [基于JWT(Json Web Token)的授权方式](http://www.cnblogs.com/grissom007/p/6294746.html)
+    |   |   \-- [JSON Web Token (JWT) 简介](https://mozillazg.github.io/2015/06/hello-jwt.html)
     |   |
     |   |-- sevlet容器
     |   |   |
@@ -101,6 +105,13 @@
     |-- gradle
     |
     |
+    |-- database
+    |   |
+    |   \-- mongodb
+    |       |
+    |       |-- [mongodb docs](https://docs.mongodb.com/manual/?_ga=2.144241781.1997094620.1503452776-1411300187.1503452776)
+    |       \-- [mongoose docs](http://mongoosejs.com/docs/index.html)
+    |
     |-- 问题
     |   |
     |   |-- onkeypress="return (/[\d]/.test(String.fromCharCode(event.keyCode)))"
@@ -150,8 +161,18 @@
     |   |       |-- var n = require('test.js') 等于 var n = module.exports，即最终使用的是module.exports指向的对象
     |   |       \-- 如果改变module.exports引用的对象，则exports失效
     |   |
+    |   |-- promise
+    |   |   |
+    |   |   |-- [promise 简单实现](https://www.promisejs.org/implementing/)
+    |   |   |-- [promise 简单实现](http://www.tuicool.com/articles/fe6Jbyz)
+    |   |   |-- [promise 简单实现](https://segmentfault.com/a/1190000003028634)
+    |   |   |-- [Promise对象](http://javascript.ruanyifeng.com/advanced/promise.html)
+    |   |   \-- [bluebird与原生Promise对象及bluebird模块的中文API文档](https://itbilu.com/nodejs/npm/VJHw6ScNb.html#api-then)
+    |   |
+    |   |
     |   |-- lodash
     |   |   |
+    |   |   |-- [lodash 中文文档](https://wizardforcel.gitbooks.io/lodash-doc-45/content/)
     |   |   \-- [lodash 中文文档](http://lodashjs.com/docs/)
     |   |
     |   |-- express
