@@ -136,10 +136,6 @@
     |   |-- idea
     |   \-- webstrom
     |
-    |-- nginx
-    |   |
-    |   |-- [Nginx中文文档](http://www.nginx.cn/doc/)
-    |   \-- nginx 反向代理
     |
     |-- node.js
     |   |

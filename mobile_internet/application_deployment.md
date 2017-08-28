@@ -4,6 +4,9 @@
 应用部署
     |
     |-- nginx
+    |   |
+    |   |-- [Nginx中文文档](http://www.nginx.cn/doc/)
+    |   \-- nginx 反向代理
     |
     \-- 虚拟主机
         | 
