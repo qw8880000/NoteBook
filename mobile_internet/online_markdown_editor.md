@@ -15,3 +15,11 @@
 * [各种Markdown处理器的列表](http://www.cnblogs.com/fresky/p/3198756.html)
 * [markdown-converter](https://www.npmjs.com/package/markdown-converter)
 * [cwjohan/markdown-to-html](https://github.com/cwjohan/markdown-to-html)
+
+sava webpage to pdf using javascript
+-------------------------------------------------
+
+* [Client-side JavaScript PDF generation ](https://github.com/MrRio/jsPDF)
+* [html2canvas](http://html2canvas.hertzen.com/)
+* [How to convert HTML(CSS) To PDF Using JavaScript](http://www.techumber.com/html-to-pdf-conversion-using-javascript/)
+* [marcbachmann/node-html-pdf](https://github.com/marcbachmann/node-html-pdf)

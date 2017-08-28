@@ -52,6 +52,12 @@
     |           |-- Representational State Transfer，又称具象状态传输
     |           \-- [restful api 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
     |
+    |-- spring
+    |   |
+    |   |-- [Spring 教程](https://www.w3cschool.cn/wkspring/index.html)
+    |   |-- [Spring 教程](http://wiki.jikexueyuan.com/project/spring/)
+    |   \-- [spring core](https://www.tutorialspoint.com/spring/index.htm)
+    |
     |-- spring boot 
     |   |
     |   |-- [spring boot 官网](https://projects.spring.io/spring-boot/)
@@ -132,7 +138,8 @@
     |
     |-- nginx
     |   |
-    |   |-- nginx 反向代理
+    |   |-- [Nginx中文文档](http://www.nginx.cn/doc/)
+    |   \-- nginx 反向代理
     |
     |-- node.js
     |   |
