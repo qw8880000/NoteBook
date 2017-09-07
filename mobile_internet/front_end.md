@@ -6,6 +6,11 @@
     |
     |-- javascript
     |   |
+    |   |-- web api 接口
+    |   |   |
+    |   |   |-- 当使用JavaScript编写网页代码时，有很多API可以使用。以下是所有对象、类型等接口的列表,你在开发网页应用程序或站点时使用它们
+    |   |   \-- [Web API 接口](https://developer.mozilla.org/zh-CN/docs/Web/API)
+    |   |
     |   |-- input 加载本地文件
     |   |   |
     |   |   |-- [Reading files in JavaScript using the File APIs](https://www.html5rocks.com/en/tutorials/file/dndfiles/)
@@ -84,6 +89,10 @@
     |-- jQuery
     |   |
     |   \-- [jquery api](http://api.jquery.com/)
+    |
+    |-- 日期与时间格式
+    |   |
+    |   \-- [Date and Time Formats](https://www.w3.org/TR/NOTE-datetime)
     |
     |
     |-- 工具
