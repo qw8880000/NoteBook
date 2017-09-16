@@ -6,6 +6,10 @@
     |
     |-- javascript
     |   |
+    |   |-- javascript window 对象
+    |   |   |
+    |   |   \-- [Window](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+    |   |
     |   |-- input 加载本地文件
     |   |   |
     |   |   |-- [Reading files in JavaScript using the File APIs](https://www.html5rocks.com/en/tutorials/file/dndfiles/)
