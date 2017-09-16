@@ -7,6 +7,14 @@
     |
     |-- 基本概念
     |   |
+    |   |
+    |   |-- cache
+    |   |   |
+    |   |   \-- ehcache
+    |   |       |
+    |   |       |-- 提供数据缓存与文件缓存功能
+    |   |       \-- [ehcache](http://www.ehcache.org/)
+    |   |
     |   |-- JPA(Java Persistence API)
     |   |   |
     |   |   \-- 是Sun官方提出的Java持久化规范。它为Java开发人员提供了一种对象/关联映射工具来管理Java应用中的关系数据
@@ -115,7 +123,8 @@
     |   |
     |   \-- mongodb
     |       |
-    |       |-- [mongodb docs](https://docs.mongodb.com/manual/?_ga=2.144241781.1997094620.1503452776-1411300187.1503452776)
+    |       |-- [mongodb docs](https://docs.mongodb.com/)
+    |       |-- [mongodb manual docs](https://docs.mongodb.com/manual/?_ga=2.144241781.1997094620.1503452776-1411300187.1503452776)
     |       \-- [mongoose docs](http://mongoosejs.com/docs/index.html)
     |
     |-- 问题
@@ -204,6 +213,11 @@
     |           \-- package.json
     |
     |-- JavaScript
+    |   |
+    |   |-- javascript 与 ECMAScript  
+    |   |   |
+    |   |   |-- [ES5, ES6, ES2016, ES.Next: JavaScript 的版本是怎么回事？「译」](https://huangxuan.me/2015/09/22/js-version/)
+    |   |   \-- 现实中我们只用 ECMAScript 称呼标准，平时都还是使用 JavaScript 来称呼这个语言
     |   |
     |   |-- 函数式编程
     |   |

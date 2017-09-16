@@ -6,7 +6,6 @@ Emmet (前身为 Zen Coding) 是一个能大幅度提高前端开发效率的一
 
 # 参考
 [Emmet.vim 教程](https://www.zfanw.com/blog/zencoding-vim-tutorial-chinese.html)
-[Emmet 教程--简书](http://www.jianshu.com/p/67fa1e2114c5)
 [ Emmet：HTML/CSS代码快速编写神器](http://www.iteye.com/news/27580)
 [前端开发必备！Emmet使用手册](http://www.w3cplus.com/tools/emmet-cheat-sheet.html)
 

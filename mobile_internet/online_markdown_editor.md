@@ -23,3 +23,7 @@ sava webpage to pdf using javascript
 * [html2canvas](http://html2canvas.hertzen.com/)
 * [How to convert HTML(CSS) To PDF Using JavaScript](http://www.techumber.com/html-to-pdf-conversion-using-javascript/)
 * [marcbachmann/node-html-pdf](https://github.com/marcbachmann/node-html-pdf)
+
+* [phantomjs](http://phantomjs.org/screen-capture.html)
+* [HTML to PDF converter that uses phantomjs](https://www.npmjs.com/package/html-pdf)
+
