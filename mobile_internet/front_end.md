@@ -139,6 +139,8 @@
     |   |-- [angular tutorial](http://learnkode.com/Tutorial/Angular/angular-introduction)
     |   |-- [angularjs 教程](http://www.angularjs.net.cn/tutorial/)
     |   |
+    |   |
+    |   |-- [angular.js code style - 中文](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/zh-CN.md)
     |   |-- [angular.js code style](http://codestyle.co/Guidelines/angularjs)
     |   |-- [angular.js code style](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md)
     |   |
