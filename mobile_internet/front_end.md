@@ -6,6 +6,10 @@
     |
     |-- javascript
     |   |
+    |   |-- javascript window 对象
+    |   |   |
+    |   |   \-- [Window](https://developer.mozilla.org/en-US/docs/Web/API/Window)
+    |   |
     |   |-- web api 接口
     |   |   |
     |   |   |-- 当使用JavaScript编写网页代码时，有很多API可以使用。以下是所有对象、类型等接口的列表,你在开发网页应用程序或站点时使用它们
