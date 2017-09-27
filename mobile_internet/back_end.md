@@ -146,6 +146,10 @@
     |   \-- webstrom
     |
     |
+    |-- webpack
+    |   |
+    |   \-- [webpack 中文](https://doc.webpack-china.org/)
+    |
     |-- node.js
     |   |
     |   |-- 教程

@@ -14,3 +14,42 @@
         \-- 为了共享80端口
 
 ```
+
+
+# 应用部署
+
+### 安装Git
+
+### 安装VIM
+
+### nginx 安装
+
+### 设置nginx开机启动
+
+方法一：
+把启动脚本放入 `/etc/rc.local`
+
+方法二： 
+1. `vi /etc/init.d/myscript`
+1. `chmod ugo+x /etc/init.d/myscript`
+1. `update-rc.d myscript defaults`
+
+### 安装node.js
+
+### node.js 版本升级
+
+1. `npm install -g n`
+1. `n latest`
+
+### npm 相关
+
+指定npm安装源
+`npm install -g --registry=https://registry.npm.taobao.org`
+
+使用`nrm` 切换npm 默认源：
+1. `npm install -g nrm`
+1. `nrm use taobao`
+
+### 安装PM2
+
+`$ npm install pm2 -g`
