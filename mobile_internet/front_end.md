@@ -66,6 +66,7 @@
     |
     |-- web storage
     |   |
+    |   |-- [Web Storage API](https://developer.mozilla.org/zh-CN/docs/Web/API/Web_Storage_API)
     |   \-- [详说 Cookie, LocalStorage 与 SessionStorage](http://jerryzou.com/posts/cookie-and-web-storage/)
     |
     |
