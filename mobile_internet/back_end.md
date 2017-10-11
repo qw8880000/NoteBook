@@ -145,8 +145,20 @@
     |   |-- idea
     |   \-- webstrom
     |
+    |-- nginx
+    |   |
+    |   |-- [nginx 配置指南](http://nginx.org/en/docs/beginners_guide.html)
+    |   |-- [nginx config 指令](http://nginx.org/en/docs/http/ngx_http_core_module.html#directives)
+    |   \-- [nginx 指南](https://www.ctolib.com/docs-nginx-c-index.html)
+    |
     |
     |-- webpack
+    |   |
+    |   |
+    |   |-- source map
+    |   |   |
+    |   |   |-- [JavaScript Source Map 详解](http://www.ruanyifeng.com/blog/2013/01/javascript_source_map.html)
+    |   |   \-- [[webpack] devtool配置对比](http://www.cnblogs.com/hhhyaaon/p/5657469.html)
     |   |
     |   \-- [webpack 中文](https://doc.webpack-china.org/)
     |
