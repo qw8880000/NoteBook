@@ -28,6 +28,7 @@
 * 卡片式主页 [snippet](https://github.com/shenliyang/hexo-theme-snippet)
 
 * 主页大图[miccall](http://miccall.tech/)
+* http://sora1.coding.me/
 
 ## 常见错误
 
