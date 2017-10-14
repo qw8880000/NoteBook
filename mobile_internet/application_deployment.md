@@ -53,3 +53,8 @@
 ### 安装PM2
 
 `$ npm install pm2 -g`
+
+### ftp
+
+http://www.cnblogs.com/angus1121/p/5056398.html
+https://help.aliyun.com/document_detail/51998.html?spm=5176.doc58746.2.10.pltfPp

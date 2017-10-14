@@ -68,7 +68,7 @@ markdown + git
 然后可以使用markdown转换软件来预览转换成HTML的效果。
 我使用的转换软件是chrome + markdown preview plus插件，效果如下
 
-![image](./images/markdown.png)
+![image](http://oxnimkw03.bkt.clouddn.com/markdown.png)
 
 接着，我把文章上传到github服务器上，等我回到家，我可以把文章从服务器同步到我个人电脑上。
 
@@ -87,4 +87,5 @@ markdown + git
 
 有兴趣的同学可以搜索`gitbook`、`github editor`。
 总之，万变不离其宗，选一个最适合你的才是最好的。
+
 
