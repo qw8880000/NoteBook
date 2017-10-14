@@ -1,10 +1,15 @@
+---
+title: linux tool boxes
+date: 2017-10-14 14:39:25
+categories:
+- 编程
+tags:
+- linux
+- tools
+- ascii art
+---
 
-boxes
-=========================
-
- 
 > Boxes is a command line program that draws a box around its input text. It can remove and repair those boxes, too. You can easily make your own box designs if you wish, but many designs are already provided.
-    
 
 boxex 是 linux 下的一款命令行工具，可以用字符组成盒子把你的文字包围在里面。
 就像下面这样：
@@ -55,9 +60,7 @@ boxex 是 linux 下的一款命令行工具，可以用字符组成盒子把你�
 -----------------------
 
 `boxes --help`  查看帮助。linux工具使用大法，先看帮助。
-
 `boxes -l`  查看有多少可以使用的盒子格式。 已知有个叫`dog`的盒子模型。
-
 输入`echo "I am testing" | boxes -d dog -a c` 将生成：
 ```
           __   _,--="=--,_   __
