@@ -1,6 +1,12 @@
+---
+title: C语言推荐书单
+date: 2017-10-15 14:39:25
+categories:
+- 编程
+tags:
+- c语言
+---
 
-> 作者：nicer  
-> 微信公众号：好好编程
 
 关于C
 ==========================================
@@ -18,6 +24,8 @@
 
 《系统程序员成长计划》
 -----------------------------
+
+![image](http://oxnimkw03.bkt.clouddn.com/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E5%91%98%E6%88%90%E9%95%BF%E8%AE%A1%E5%88%92.png)
 
 这本书的作者是李先静老师，这是他编程经验的总结，从事linux开发、嵌入式开发工作的工程师看后应该会有很多共鸣，墙裂推荐！！！
 
@@ -38,6 +46,7 @@
 * 第11章 分离用户界面与内部实现
 * 第12章 撰写设计文档
 * 附录C语言中接口定义的不同形式
+
 
 《华为技术有限公司c语言编程规范》
 ---------------------------------
@@ -73,7 +82,7 @@
 《C陷阱与缺陷》 
 -------------------------
 
-![image](https://img3.doubanio.com/lpic/s2870233.jpg)
+![image](http://oxnimkw03.bkt.clouddn.com/C%E9%99%B7%E9%98%B1%E4%B8%8E%E7%BC%BA%E9%99%B7.png)
 
 非常适合新手C程序员。
 
@@ -91,7 +100,7 @@
 《C专家编程》
 -------------------------
 
-![image](https://img5.doubanio.com/lpic/s5886086.jpg)
+![image](http://oxnimkw03.bkt.clouddn.com/C%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B.png)
 
 它适合有一定经验的C程序员。
 
@@ -115,7 +124,7 @@
 《C和指针》
 -------------------------
 
-![image](http://www.linuxidc.com/upload/2015_03/150315190873421.jpg)
+![image](http://oxnimkw03.bkt.clouddn.com/C%E5%92%8C%E6%8C%87%E9%92%88.png)
 
 C语言三部曲：C缺陷与陷阱、C专家编程、C与指针。
 
@@ -145,7 +154,7 @@ C语言三部曲：C缺陷与陷阱、C专家编程、C与指针。
 《C Elements of Style》
 -------------------------
 
-![image](https://img3.doubanio.com/lpic/s2974612.jpg)
+![image](http://oxnimkw03.bkt.clouddn.com/C%E9%A3%8E%E6%A0%BC%E8%A6%81%E7%B4%A0.png)
 
 
 C风格要素，把bug扼杀在萌芽中的一本书。
