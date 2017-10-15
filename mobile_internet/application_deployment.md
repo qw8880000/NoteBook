@@ -56,5 +56,25 @@
 
 ### ftp
 
-http://www.cnblogs.com/angus1121/p/5056398.html
-https://help.aliyun.com/document_detail/51998.html?spm=5176.doc58746.2.10.pltfPp
+[云服务器 ECS 配置：云服务器ECS下的FTP服务的安装配置与使用](https://yq.aliyun.com/articles/170003)
+
+1. ecs主机开启安全组 `20/21` 入方向端口
+1. `apt-get install vsftpd` 安装vsftpd
+
+
+1. `ufw disable` 确保防火墙关闭
+1. `/etc/ftpusers` 表示不能使用ftp的帐户
+1. `ftp localhost` 本地测试ftp服务是否正常
+1. `telnet [ip] [port]` 远程测试主机的端口是否打开
+1. `netstat -tnlp` 查看vsftpd 是否监听的是 `0.0.0.0` 的 `21` 端口
+
+相关文件：
+1. `/etc/pam.d/vsftpd`
+1. `/etc/vsftpd.conf`
+1. `/etc/ftpusers`
+1. `/etc/shells`
+
+vsftpd命令：
+1. `service vsftpd restart`
+
+
