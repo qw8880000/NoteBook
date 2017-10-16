@@ -35,6 +35,18 @@
 1. 修改配置文件时注意`YAML`语法，参数`冒号:`后一定要留` 空格`
 2. 中文乱码请修改文件编码格式为`UTF-8`
 
-## rsync 
+## next 主题
 
-https://blog.zscself.com/2017/03/02/fa677cb1/
+### 不蒜子 阅读统计 
+
+[不蒜子](http://busuanzi.ibruce.info/)
+
+1. `next\layout\_partials\footer.swig` 加入 `<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>`
+
+## 七牛贴图
+
+[windows版本markdown一键贴图工具（适用2.x及以上版本）](http://jverson.com/2017/05/28/qiniu-image-v2/)
+
+## seo
+
+[Hexo网站优化之SEO](http://www.jeyzhang.com/hexo-website-seo.html)
