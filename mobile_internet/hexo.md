@@ -50,3 +50,9 @@
 ## seo
 
 [Hexo网站优化之SEO](http://www.jeyzhang.com/hexo-website-seo.html)
+
+https://blog.paddings.cn/2016/08/16/blog/Hexo-NexT-SEO/
+* 添加蜘蛛协议 robots
+* 添加百度 sitemap
+* 出站链接添加 “nofollow” 标签
+* 永久链接
