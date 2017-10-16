@@ -1,28 +1,31 @@
-@Filename:       有趣的ASCII-Art.md  
-@Author:         wangjl  
-@Date:           2016-05-29 00:09  
-@Last modified:  2016-05-29 00:09  
-@Description:   
+---
+title: 有趣的ASCII-Art
+date: 2017-10-16 14:39:25
+categories:
+- 编程
+tags:
+- ascii art
+---
 
+ascii-art(文本艺术): 使用可显示的ASCII字符组成的图形。
 
-# ascii-art
+## 在线ascii art工具
 
-文本艺术。
+### [chris](http://www.chris.com/ascii/)
 
-ASCII art is a graphic design technique that uses computers for presentation and consists of pictures pieced together from the 95 printable (from a total of 128) characters defined by the ASCII Standard from 1963 and ASCII compliant character sets with proprietary extended characters (beyond the 128 characters of standard 7-bit ASCII).
+各种各样的文本图形
 
-# tools to Generate ASCII Art
+### [ASCII Art Generator](http://asciiart.club/)
 
-### online tools
-
--   各种各样的文本图形[chris](http://www.chris.com/ascii/)
-
--   图片转成ascii 码 [ASCII Art Generator](http://asciiart.club/)
-
--   [ ASCII art in one line](http://1lineart.kulaone.com/#/)
+图片转成ascii 码
 
 example:
+![image](http://my.asciiart.club/img/asciiart.jpg)
 
+### [ ASCII art in one line](http://1lineart.kulaone.com/#/)
+
+example:
+```
     ♪└(￣◇￣)┐♪└(￣◇￣)┐♪└(￣◇￣)┐♪
 
     ┻━┻ ︵ヽ(`Д´)ﾉ︵ ┻━┻
@@ -34,11 +37,14 @@ example:
     (╯°□°）╯︵ ┻━┻
 
     ¸.·´¯`·.´¯`·.¸¸.·´¯`·.¸><(((º>
+```
 
--   英文艺术化[Text to ASCII-ART Generator](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=just%20for%20%20test%20%20%20%20jasldfkajsldkfj)
+### [Text to ASCII-ART Generator](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=just%20for%20%20test%20%20%20%20jasldfkajsldkfj)
+
+英文艺术化
 
 example:  just for test
-
+```
      3D Diagonal
      Alpha
      Big
@@ -121,13 +127,10 @@ example:  just for test
           / / //   / / ((   ) )  / /        //   //   ) ) //  ) )     / /   //___) ) ((   ) )  / /    
          / / //   / /   \ \     / /        //   //   / / //          / /   //         \ \     / /     
     ((  / / ((___( ( //   ) )  / /        //   ((___/ / //          / /   ((____   //   ) )  / /      
-        
-    
-    
-         
-### linux command
+```
 
--   [如何制作纯 ASCII 文本流程图](https://www.digglife.net/articles/ascii-flowchart-how-to.html)
+### 更多
 
--   boxes
+- [如何制作纯 ASCII 文本流程图](https://www.digglife.net/articles/ascii-flowchart-how-to.html)
+- [linux boxes](http://blog.wangjinle.com/2017/10/14/JustBook/linux/tools_boxes/)
 
