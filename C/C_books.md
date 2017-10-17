@@ -5,7 +5,7 @@ categories:
   - 编程
 tags:
   - c语言
-abbrlink: @@abbrlink
+abbrlink: 3b34e9f03e707cf0
 ---
 
 

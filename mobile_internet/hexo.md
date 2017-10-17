@@ -37,11 +37,6 @@
 
 ## next 主题
 
-### 不蒜子 阅读统计 
-
-[不蒜子](http://busuanzi.ibruce.info/)
-
-1. `next\layout\_partials\footer.swig` 加入 `<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>`
 
 ## 七牛贴图
 
