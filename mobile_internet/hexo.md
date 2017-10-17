@@ -1,6 +1,5 @@
 
 
-[hexo高阶教程：教你怎么让你的hexo博客在搜索引擎中排第一](https://juejin.im/post/590b451a0ce46300588c43a0)
 [hexo的next主题个性化教程:打造炫酷网站](http://www.jianshu.com/p/f054333ac9e6)
 [hexo摸爬滚打之进阶教程](http://www.aichengxu.com/data/24652450.htm)
 
@@ -42,12 +41,4 @@
 
 [windows版本markdown一键贴图工具（适用2.x及以上版本）](http://jverson.com/2017/05/28/qiniu-image-v2/)
 
-## seo
 
-[Hexo网站优化之SEO](http://www.jeyzhang.com/hexo-website-seo.html)
-
-https://blog.paddings.cn/2016/08/16/blog/Hexo-NexT-SEO/
-* 添加蜘蛛协议 robots
-* 添加百度 sitemap
-* 出站链接添加 “nofollow” 标签
-* 永久链接
