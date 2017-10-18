@@ -1,5 +1,5 @@
 ---
-title: 搜索引擎收录hexo博客 | hexo
+title: 让搜索引擎收录hexo博客 | hexo
 date: 2017-10-17 21:39:45
 categories:
     - 编程
@@ -58,6 +58,9 @@ baidusitemap:
 * 配置成功后，hexo编译时会在hexo站点根目录生成`baidusitemap.xml`，部署网站后，提交到百度：
 
 ![image](http://oxnimkw03.bkt.clouddn.com/20171018150633.png)
+
+
+完成上述步骤后，我们可以在百度搜索框里输入`site:wangjinle.com`(这里换成你自己的域名)，来查看收录情况。
 
 ## 如何被谷歌收录
 
