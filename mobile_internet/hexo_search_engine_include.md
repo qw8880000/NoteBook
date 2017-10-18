@@ -69,6 +69,6 @@ baidusitemap:
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 [百度站长平台]:(http://zhanzhang.baidu.com)
-[站长工具]:(http://zhanzhang.baidu.com/dashboard/index)
-[链接提交]:(http://zhanzhang.baidu.com/linksubmit/index)
+[站长工具]: http://zhanzhang.baidu.com/dashboard/index
+[链接提交]: http://zhanzhang.baidu.com/linksubmit/index
 
