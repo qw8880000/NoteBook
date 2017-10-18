@@ -41,4 +41,6 @@
 
 [windows版本markdown一键贴图工具（适用2.x及以上版本）](http://jverson.com/2017/05/28/qiniu-image-v2/)
 
+## swig
 
+指南http://www.cnblogs.com/elementstorm/p/3142644.html
