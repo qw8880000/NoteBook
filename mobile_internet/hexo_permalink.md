@@ -33,7 +33,7 @@ module.exports = function(grunt) {
           hash.update(contents);
           var hashValue = hash.digest('hex');
 
-          return contents.replace(/abbrlink: 8573a3ede9b41c8a/g, "abbrlink: " + hashValue.substring(0, 16));
+          return contents.replace(/@@abbrlink/g, hashValue.substring(0, 16));
         }
       },
     },
