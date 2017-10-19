@@ -2,7 +2,7 @@
 title: SEO搜索引擎优化 | hexo
 date: 2017-10-17 17:44:46
 categories:
-    - 编程
+    - hexo
 tags:
     - hexo
     - hexo seo

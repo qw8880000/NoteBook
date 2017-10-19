@@ -2,7 +2,7 @@
 title: next主题文章目录的标题排列错误 | hexo
 date: 2017-10-18 17:46:32
 categories:
-    - 编程
+    - hexo
 tags:
     - hexo
     - hexo next

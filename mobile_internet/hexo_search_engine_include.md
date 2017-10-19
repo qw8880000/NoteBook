@@ -2,7 +2,7 @@
 title: 让搜索引擎收录hexo博客 | hexo
 date: 2017-10-17 21:39:45
 categories:
-    - 编程
+    - hexo
 tags:
     - hexo
 abbrlink: 27104d21b87c0633

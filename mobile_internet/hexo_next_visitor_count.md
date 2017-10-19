@@ -2,7 +2,7 @@
 title: 网站访问量统计 | hexo
 date: 2017-10-17 15:50:47
 categories:
-    - 编程
+    - hexo
 tags:
     - hexo
     - hexo next theme
