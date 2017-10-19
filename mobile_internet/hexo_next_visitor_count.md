@@ -5,7 +5,7 @@ categories:
     - hexo
 tags:
     - hexo
-    - hexo next theme
+    - hexo next
 abbrlink: 916d83182e15eeb1
 ---
 
