@@ -62,9 +62,10 @@ baidusitemap:
 
 完成上述步骤后，我们可以在百度搜索框里输入`site:wangjinle.com`(这里换成你自己的域名)，来查看收录情况。
 
-## 如何被谷歌收录
+## 如何被其他搜索引擎收录
 
-方法同上。
+无外乎`验证网站`与`链接提交`
+
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
