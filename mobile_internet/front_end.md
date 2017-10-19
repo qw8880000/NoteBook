@@ -34,7 +34,11 @@
     |   |   |-- [sass入门 - sass教程](http://www.w3cplus.com/sassguide/)
     |   |   \-- css 预处理
     |   |
-    |   |-- stylus https://segmentfault.com/a/1190000002712872#articleHeader6
+    |   |-- stylus 
+    |   |   |
+    |   |   |-- https://segmentfault.com/a/1190000002712872#articleHeader6
+    |   |   \-- http://www.zhangxinxu.com/jq/stylus/
+    |   |
     |   |
     |   |-- input 美化
     |   |   |
