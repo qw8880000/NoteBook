@@ -1,5 +1,5 @@
 ---
-title: 生成永久链接 | hexo
+title: 生成永久链接(permalink) | hexo
 date: 2017-10-18 22:31:52
 categories:
     - hexo
