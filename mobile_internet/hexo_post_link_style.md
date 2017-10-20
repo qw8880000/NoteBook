@@ -1,5 +1,5 @@
 ---
-title: 修改文章内链接样式
+title: 修改文章内链接样式 ｜ hexo
 date: 2017-10-20 11:17:29
 categories:
     - hexo
