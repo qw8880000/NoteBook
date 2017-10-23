@@ -8,3 +8,7 @@
 `spring` 学习材料：
 * [spring-w3c](https://www.w3cschool.cn/wkspring/index.html) 
 * [spring-sample](https://github.com/qw8880000/spring-samples)
+
+# spring boot jpa
+
+https://spring.io/guides/gs/accessing-data-jpa/
