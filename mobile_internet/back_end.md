@@ -66,6 +66,10 @@
     |   |-- [Spring 教程](http://wiki.jikexueyuan.com/project/spring/)
     |   \-- [spring core](https://www.tutorialspoint.com/spring/index.htm)
     |
+    |-- spring cloud 
+    |   |
+    |   \-- https://eacdy.gitbooks.io/spring-cloud-book/content/2%20Spring%20Cloud/2.1.1%20Eureka.html
+    |
     |-- spring boot 
     |   |
     |   |-- [spring boot 官网](https://projects.spring.io/spring-boot/)
