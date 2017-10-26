@@ -6,7 +6,7 @@ categories:
 tags:
     - git
     - git subtree
-abbrlink: @@abbrlink
+abbrlink: cbc4fb28d0e4dcb8
 ---
 
 git subtree 如何检出(checkout)指定的 tag呢？
