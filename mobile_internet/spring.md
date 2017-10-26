@@ -12,3 +12,7 @@
 # spring boot jpa
 
 https://spring.io/guides/gs/accessing-data-jpa/
+
+# 参考
+
+[Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-documentation)

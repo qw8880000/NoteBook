@@ -1,3 +1,11 @@
+funny markdown 
+===========================
+
+todo:
+
+* 代码高亮
+* 主题选择-https://github.com/jasonm23/markdown-css-themes
+
 
 参考
 ======================================
