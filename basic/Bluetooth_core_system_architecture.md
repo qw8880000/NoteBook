@@ -5,7 +5,7 @@ categories:
     - bluetooth
 tags:
     - bluetooth
-abbrlink: @@abbrlink
+abbrlink: c55b6301bd410d86
 ---
 ## Bluetooth core system architecture
 
@@ -30,7 +30,7 @@ A BR/EDR/LE Host combines the set of blocks from each respective Host.
 另外，Service Discovery Protocol (SDP)和Attribute Protocol (ATT)是应用层协议。
 
 
-## CORE ARCHITECTURAL BLOCKS
+## core architectural blocks
 
 ### Host Architectural Blocks
 

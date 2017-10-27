@@ -5,8 +5,10 @@ categories:
     - bluetooth
 tags:
     - bluetooth
-abbrlink: @@abbrlink
+abbrlink: 81fabadfb746fa0b
 ---
+
+
 ## piconet Topology
 
 ### BR/EDR Topology

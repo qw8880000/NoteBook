@@ -5,7 +5,7 @@ categories:
     - bluetooth
 tags:
     - bluetooth
-abbrlink: @@abbrlink
+abbrlink: babe1bcba164dc7d
 ---
 
 ## 简介

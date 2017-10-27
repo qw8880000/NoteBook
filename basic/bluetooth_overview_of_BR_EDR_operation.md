@@ -3,7 +3,7 @@ title:  BR/EDR 简介 | bluetooth
 date: 2017-10-27 17:50:41
 categories:
 tags:
-abbrlink: @@abbrlink
+abbrlink: 7e5873f2892af121
 ---
 
 ## BR/EDR 简介

@@ -5,10 +5,10 @@ categories:
     - bluetooth
 tags:
     - bluetooth
-abbrlink: @@abbrlink
+abbrlink: 3de043f805df1336
 ---
 
-## OPERATIONAL PROCEDURES AND MODES
+## operational procedures and modes
 
 蓝牙操作最常见的就是设备相互连接并交换数据。
 
