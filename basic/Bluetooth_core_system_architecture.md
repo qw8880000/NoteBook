@@ -1,4 +1,12 @@
-
+---
+title: 蓝牙核心框架 | bluetooth
+date: 2017-10-27 17:52:43
+categories:
+    - bluetooth
+tags:
+    - bluetooth
+abbrlink: @@abbrlink
+---
 ## Bluetooth core system architecture
 
 蓝牙核心系统由一个 Host，一个Primary Controller 和0个或多个Secondary Controllers组成。

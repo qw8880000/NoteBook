@@ -1,4 +1,12 @@
-
+---
+title: 通信拓扑 | bluetooth
+date: 2017-10-27 17:53:08
+categories:
+    - bluetooth
+tags:
+    - bluetooth
+abbrlink: @@abbrlink
+---
 ## piconet Topology
 
 ### BR/EDR Topology

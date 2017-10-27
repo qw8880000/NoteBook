@@ -1,5 +1,14 @@
+---
+title: 蓝牙简介 | bluetooth
+date: 2017-10-27 17:46:52
+categories:
+    - bluetooth
+tags:
+    - bluetooth
+abbrlink: @@abbrlink
+---
 
-## 前言
+# 前言
 
 在看了很多网上的蓝牙资料后，我发现自己对蓝牙技术还是很模糊。
 原因可能是这些资料选取的角度不一样或者说不太系统，导致我对蓝牙的认识有点东拼西凑。

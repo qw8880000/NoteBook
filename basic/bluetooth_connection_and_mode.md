@@ -1,3 +1,12 @@
+---
+title: 连接和模式 | bluetooth
+date: 2017-10-27 17:53:30
+categories:
+    - bluetooth
+tags:
+    - bluetooth
+abbrlink: @@abbrlink
+---
 
 ## OPERATIONAL PROCEDURES AND MODES
 
