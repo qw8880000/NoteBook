@@ -59,6 +59,7 @@
 [云服务器 ECS 配置：云服务器ECS下的FTP服务的安装配置与使用](https://yq.aliyun.com/articles/170003)
 
 1. ecs主机开启安全组 `20/21` 入方向端口
+1. ecs主机开启安全组 `1024-65535` 入方向端口(由于ftp在服务器中只能使用主动模式，所以外往连接时使用的随机端口进行连接)
 1. `apt-get install vsftpd` 安装vsftpd
 
 
@@ -69,7 +70,6 @@
 1. `netstat -tnlp` 查看vsftpd 是否监听的是 `0.0.0.0` 的 `21` 端口
 
 相关文件：
-1. `/etc/pam.d/vsftpd`
 1. `/etc/vsftpd.conf`
 1. `/etc/ftpusers`
 1. `/etc/shells`
