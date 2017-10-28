@@ -8,10 +8,11 @@ tags:
 abbrlink: 81fabadfb746fa0b
 ---
 
+## piconet Topology(微微网拓扑结构)
 
-## piconet Topology
+piconet Topology(微微网拓扑结构) 分两种，一种是`BR/EDR` 拓扑，一种是`LE`拓扑。
 
-### BR/EDR Topology
+### BR/EDR Topology(BR/EDR 拓扑)
 
 工作在同一物理信道的2个或更多设备相互连接组成**piconet**。
 一个piconet由一个master和多个slave组成。
@@ -25,7 +26,7 @@ master提供时钟和跳频模式的参照标准给slaves去同步。
 一个设备在一个piconet中，又在另一个piconet中，那么这个设备处于**scatternet**。
 蓝牙核心系统没有提供这样的功能，这是由更上层协议实现的。
 
-![image](../images/BR_EDR_topology.gif)
+![image](http://oxnimkw03.bkt.clouddn.com/BR_EDR_topology.gif)
 
 In Figure 4.1 an example topology is shown that demonstrates a number of the
 architectural features described below. Device A is a master in a piconet
@@ -64,9 +65,9 @@ member of a piconet, but is currently listening on its Synchronization scan
 physical channel (represented by the brown enclosure), awaiting a
 synchronization train from another device.
 
-### LE Topology
+### LE Topology(LE拓扑)
 
-![image](../images/LE_topology.gif)
+![image](http://oxnimkw03.bkt.clouddn.com/LE_topology.gif)
 
 In Figure 4.2 an example topology is shown that demonstrates a number of the
 LE architectural features described below. Device A is a master in a piconet

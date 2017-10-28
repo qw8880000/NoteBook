@@ -31,7 +31,7 @@ advertiser 使用同一advertising PHY channel回复数据。
 advertiser 可以在advertising event中的任意时间结束这次event。
 在这次advertising event 中使用的第一个advertising PHY channel将会是下一个advertising event的第一个channel。
 
-![image](../images/advertising_events.jpg)
+![image](http://oxnimkw03.bkt.clouddn.com/advertising_events.jpg)
 
 
 LE 设备可以使用advertising events 来进行无连接或广播通信(use advertising channels)，也可以使用advertising events 在设备之间建立双向通信(use data channels)。
@@ -44,7 +44,7 @@ connection event 用来在master 与 slave 之间传输数据。
 在一个connection event 中只会使用一个物理信道。
 每一个connection event都是由master 发起，并且它可以在任意时间结束。
 
-![image](../images/connection_events.jpg)
+![image](http://oxnimkw03.bkt.clouddn.com/connection_events.jpg)
 
 
 piconet中的设备使用特定的跳频模式，其算法由包含在由initiator发送的连接请求中的字段确定。

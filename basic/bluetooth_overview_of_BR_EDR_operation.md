@@ -16,7 +16,7 @@ Basic Rate / Enhanced Data Rate (BR/EDR) 射频工作在 2.4 GHz 的 ISM 频段�
 这样一组设备组成一个微微网(**piconet**)。
 这是BR/EDR技术中设备通信的基础。
 
-![piconet](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/BluetoothPiconet-de.svg/304px-BluetoothPiconet-de.svg.png)
+![piconet](http://oxnimkw03.bkt.clouddn.com/BluetoothPiconet-de.png)
 
 微微网中的设备使用一个特定的跳频模式，该算法通过主设备的蓝牙地址和时钟频率来确定。
 基本跳频模式是一个伪随机序，有79个频率，被1MHz相分离，在ISM频段。
@@ -55,5 +55,5 @@ The LMP protocol is only carried on the primary ACL logical transport and the de
 **L2CAP**，在基带层之上，为应用和服务提供基于通道的抽象(channel-based abstraction)。
 它执行应用数据的分割和重组以及通过共享逻辑链路(logical link)对多个信道(channels)的复用和解复用。
 
-![image](http://www.rfwireless-world.com/images/bluetooth-protocol-stack.jpg)
+![image](http://oxnimkw03.bkt.clouddn.com/bluetooth-protocol-stack.jpg)
 

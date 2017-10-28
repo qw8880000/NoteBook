@@ -1,5 +1,5 @@
 ---
-title: 蓝牙技术体系简介 | bluetooth
+title: 蓝牙简介 | bluetooth
 date: 2017-10-27 17:49:14
 categories:
     - bluetooth
@@ -27,7 +27,7 @@ Low Energy(LE)技术体系相比BR技术具有低功耗，低复杂度，开支�
 
 蓝牙核心系统(Bluetooth Core system)由 一个 **Host** 和 一个或多个 **Controller** 组成。
 
-![image](http://www.wowotech.net/content/uploadfile/201405/8ef568eb90bdb6aa4e9cff885734fe2620140523101501.gif)
+![image](http://oxnimkw03.bkt.clouddn.com/8ef568eb90bdb6aa4e9cff885734fe2620140523101501.gif)
 
 Host 指规范(profiles)以下 **HCI**(Host Controller Interface)以上的各层组成的逻辑实体。
 Controller 指 HCI以下各层组成的逻辑实体。
@@ -42,6 +42,6 @@ Controller 包括：主控制器(Primary Controllers)和次控制器(Secondary C
 包含主控制器和次控制器的蓝牙核心有：
 * an Alternate MAC/PHY (AMP) Controller including an 802.11 PAL (Protocol Adaptation Layer), 802.11 MAC and PHY, and optionally HCI。
 
-![image](../images/bluetooth_host_and_controller.jpg)
-![image](../images/bluetooth_host_and_controller2.jpg)
+![image](http://oxnimkw03.bkt.clouddn.com/bluetooth_host_and_controller.jpg)
+![image](http://oxnimkw03.bkt.clouddn.com/bluetooth_host_and_controller2.jpg)
 

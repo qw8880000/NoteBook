@@ -48,7 +48,9 @@ Extended Inquiry Response 兼容 standard inquiry response。
 ### LE 操作
 
 #### Device Filtering
+
 // to do 
+
 #### Advertising
 
 advertising device使用advertising操作向外发送无连接的广播数据。
