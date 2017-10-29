@@ -8,7 +8,6 @@ tags:
 abbrlink: 81fabadfb746fa0b
 ---
 
-## piconet Topology(微微网拓扑结构)
 
 piconet Topology(微微网拓扑结构) 分两种，一种是`BR/EDR` 拓扑，一种是`LE`拓扑。
 
