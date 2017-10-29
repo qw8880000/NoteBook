@@ -32,7 +32,7 @@ A BR/EDR/LE Host combines the set of blocks from each respective Host.
 
 ## core architectural blocks
 
-核心体系结构有以下部分
+核心体系结构主要有
 
 ### Host Architectural Blocks
 
@@ -64,3 +64,4 @@ BR/EDR and LE 体系有一部分是共用，有一部分是各自实现。
 * AMP PAL
 * AMP MAC
 * AMP PHY
+

@@ -6,7 +6,6 @@ tags:
 abbrlink: 7e5873f2892af121
 ---
 
-## BR/EDR 简介
 
 Basic Rate / Enhanced Data Rate (BR/EDR) 射频工作在 2.4 GHz 的 ISM 频段。
 

@@ -8,7 +8,6 @@ tags:
 abbrlink: babe1bcba164dc7d
 ---
 
-## 简介
 
 有两种蓝牙技术体系：Basic Rate (BR) 和 Low Energy (LE)。
 两种体系都包括 设备搜索，建立连接，连接管理。
