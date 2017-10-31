@@ -1,5 +1,5 @@
 ---
-title: 我的vim配置
+title: 一份适合C/C++的vim配置
 date: 2017-10-30 21:35:25
 categories:
     - vim
