@@ -59,8 +59,8 @@ linux下安装vim常见的步骤。
 # 编译安装
 
 ```shell
-    make 
-    sudo make install
+make 
+sudo make install
 ```
 
 # 确认是否安装成功
@@ -69,64 +69,30 @@ linux下安装vim常见的步骤。
 
 # 把vim作为默认编辑器
 
-```
-    sudo update-alternatives --install /usr/bin/editor editor /usr/bin/vim 1 
-    sudo update-alternatives --set editor /usr/bin/vim
-    sudo update-alternatives --install /usr/bin/vi vi /usr/bin/vim 1 
-    sudo update-alternatives --set vi /usr/bin/vim
+```shell
+sudo update-alternatives --install /usr/bin/editor editor /usr/bin/vim 1 
+sudo update-alternatives --set editor /usr/bin/vim
+sudo update-alternatives --install /usr/bin/vi vi /usr/bin/vim 1 
+sudo update-alternatives --set vi /usr/bin/vim
 ```
 
 # 更换配色方案
 
-方法：
+参考: [vim设置配色主题](http://www.wangjinle.com/posts/207a3e1fac90dec3.html)
 
-1. `mkdir ~/.vim/colors`
-1. 把配色方案放到这下面
-1. `.vimrc`中加入 colorscheme  方案名
-```
-syntax on
-syntax enable
-set t_Co=256
-colorscheme molokai
-```
-
-我喜欢的配色方案：
-
-* molokai.vim
-* jellybeans.vim
-* Tomorrow-Night-Eighties.vim
-    
 # 安装vundle插件
-```
-    mkdir ~/.vim
-    git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
-```
 
-安装完vundle插件后，就可以用来管理其他插件了
+参考: [vim第一个要安装的插件 - vundle](http://www.wangjinle.com/posts/5faad70a8691ab64.html)
 
 # 安装中文帮助
 
-1. 下载vimcdoc安装包
-`wget http://sourceforge.net/projects/vimcdoc/files/vimcdoc/1.8.0/vimcdoc-1.8.0.tar.gz`
-
-2. 解压
-`tar -zxvf vimcdoc-1.8.0.tar.gz`
-
-3. 然后进入 vimcdoc-1.8.0 目录并执行
-`./vimcdoc.sh -i`
-
-NOTE: 使用`-i`选项的话，缺省同时安装 vimcdoc.vim 全局插件，该插件会在.vim下生成一个plugin目录。
-由于我们使用pathgeon来管理插件，而plugin下的插件在pathgeon管理之外。为此可以在安装时跳过 vimcdoc.vim 插件。 
-可以使用 -I选项来安装：`./vimcdoc.sh -I`
-
-4. 优先使用中文帮助
-`set helplang=cn`
+参考: [vim安装中文帮助](http://www.wangjinle.com/posts/0d1f184e23815ff1.html)
 
 # 安装ctags cscope
 
-```
-    sudo apt-get install ctags
-    sudo apt-get install cscope
+```shell
+sudo apt-get install ctags
+sudo apt-get install cscope
 ```
 
 # 常见问题

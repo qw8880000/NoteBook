@@ -84,3 +84,7 @@ linux 下的vim 与 windows 下的gvim 通用。
 * 在 `/**/` 与 `//` 之间切换 `,ca`
 ![image](http://oxnimkw03.bkt.clouddn.com/comment4.gif)
 
+# 其他
+
+* [其他配置参考](https://github.com/VundleVim/Vundle.vim/wiki/Examples)
+

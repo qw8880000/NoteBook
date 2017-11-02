@@ -5,7 +5,7 @@ categories:
     - hexo
 tags:
     - hexo
-abbrlink: @@abbrlink
+abbrlink: 5a35536406aa38bd
 ---
 
 hexo 主题开发，别人已经总结很好了，直接看：
