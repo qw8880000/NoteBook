@@ -15,7 +15,7 @@ abbrlink: 0cb10c44a53e9e0c
 
 动词代表了我们打算对文本进行什么样的操作。例如：
 
-```bash
+```vim
 d # 表示删除delete
 r # 表示替换replace
 c # 表示修改change
@@ -27,7 +27,7 @@ v # 表示选取visual select
 
 名词代表了我们即将处理的文本。Vim 中有一个专门的术语叫做 [文本对象] text object，下面是一些文本对象的示例：
 
-```bash
+```vim
 w # 表示一个单词word
 s # 表示一个句子sentence
 p # 表示一个段落paragraph
@@ -39,7 +39,7 @@ t # 表示一个 HTML 标签tag
 
 介词界定了待编辑文本的范围或者位置。
 
-```bash
+```vim
 i # 表示在...之内 inside
 a # 表示环绕... around
 t # 表示到...位置前 to
@@ -56,7 +56,7 @@ f # 表示到...位置上 forward
 
 下面是几个例子：
 
-```bash
+```vim
 c3w  # 修改三个单词：change three words
 d2w  # 删除两个单词：delete two words
 ```
@@ -69,7 +69,7 @@ d2w  # 删除两个单词：delete two words
 
 请看示例：
 
-```bash
+```vim
 2dw # 两次删除单词（等价于删除两个单词）: twice delete word
 3x  # 三次删除字符（等价于删除三个字符）：three times delete character
 ```
@@ -82,7 +82,7 @@ d2w  # 删除两个单词：delete two words
 
 下面是一些例子（如果熟悉了上面的概念，你将会看到这些例子非常容易理解），请亲自在 Vim 中试验一番。
 
-```bash
+```vim
 dip # 删除一个段落: delete inside paragraph
 vis # 选取一个句子: visual select inside sentence
 ciw # 修改一个单词: change inside word

@@ -10,7 +10,7 @@ abbrlink: 207a3e1fac90dec3
 1. mkdir `~/.vim/colors`
 1. 把配色方案放到这下面
 1. `.vimrc`中加入 `colorscheme  方案名`
-```
+```vim
 syntax on
 syntax enable
 set t_Co=256

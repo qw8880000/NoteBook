@@ -44,12 +44,12 @@ abbrlink: 27104d21b87c0633
 这里我们选择`sitemap`方式。
 
 * 安装hexo的sitemap网站地图生成插件
-```
+```sh
 npm install hexo-generator-baidu-sitemap --save
 ```
 
 * 在你的hexo站点的`_config.yml`添加下面的代码
-```
+```yml
 # hexo sitemap网站地图
 baidusitemap:
     path: baidusitemap.xml

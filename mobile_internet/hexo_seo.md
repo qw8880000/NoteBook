@@ -51,12 +51,12 @@ nofollow标签是由谷歌领头创新的一个“反垃圾链接”的标签，
 这里我们使用hexo的插件来自动帮我们处理出站链接。
 
 * 首先，安装插件
-```
+```sh
 npm install hexo-autonofollow --save
 ```
 
 * 然后，编辑站点配置文件`_config.yml`，加入配置
-```
+```yml
 nofollow:
     enable: true
     exclude:

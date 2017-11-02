@@ -18,7 +18,7 @@ hexo默认的文章链接形式为`domain/year/month/day/postname`，当我们�
 
 1. 使用[grunt]的插件`grunt-rewrite`自动填充`abbrlink`的值
 编辑 `Gruntfile.js`
-```
+```js
 module.exports = function(grunt) {
  
   grunt.initConfig({
@@ -45,7 +45,7 @@ module.exports = function(grunt) {
 这表示，插件到`source/_posts/` 下读取所有的`.md`文件，把文件中的`@@abbrlink`替换成文件内容的hash值。
 
 1. 编辑站点配置文件`_config.yml`的`permalink`
-```
+```yml
 permalink: posts/:abbrlink.html
 ```
 

@@ -17,7 +17,7 @@ abbrlink: 916d83182e15eeb1
 ### 添加是否开启统计功能的配置
 
 找到next主题的配置文件`themes/next/_config.yml`，找到原来的`footer`字段，加入一个配置，这里我们叫它`counter`吧，即
-```
+```yml
 footer:
   # -------------------------------------------------------------
   # visitors count
@@ -28,7 +28,7 @@ footer:
 
 由于是把访问量统计放在网页的`footer`，所以我们需要修改的模板文件是`theme/next/layout/_partials/footer.swig`。
 我们在合适的位置加入：
-```
+```html
 {% if theme.footer.counter %}
     <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
@@ -48,7 +48,7 @@ footer:
 不蒜子有两种统计方法：
 
 1. pv的方式，单个用户连续点击n篇文章，记录n次访问量
-```
+```html
     <span id="busuanzi_container_site_pv">
         总访问量
         <span id="busuanzi_value_site_pv"></span>
@@ -57,7 +57,7 @@ footer:
 ```
 
 1. uv的方式，单个用户连续点击n篇文章，只记录1次访客数
-```
+```html
     <span id="busuanzi_container_site_uv">
         总访客
         <span id="busuanzi_value_site_uv"></span>

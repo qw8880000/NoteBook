@@ -11,13 +11,13 @@ abbrlink: 05b923573fb51f7a
 linux下安装vim常见的步骤。
 
 # 删除旧版本vim
-```shell
-    sudo apt-get remove vim  
-    sudo apt-get remove vim-runtime  
-    sudo apt-get remove gvim  
-    sudo apt-get remove vim-tiny  
-    sudo apt-get remove vim-common  
-    sudo apt-get remove vim-gui-common 
+```sh
+sudo apt-get remove vim  
+sudo apt-get remove vim-runtime  
+sudo apt-get remove gvim  
+sudo apt-get remove vim-tiny  
+sudo apt-get remove vim-common  
+sudo apt-get remove vim-gui-common 
 ```
 # 下载源码
 
@@ -26,7 +26,7 @@ linux下安装vim常见的步骤。
 # 编译前的配置
 
 解压源码，进入对应目录，执行以下配置。
-```shell
+```sh
     ./configure \
     --with-features=huge \
     --enable-pythoninterp --enable-perlinterp \
@@ -58,7 +58,7 @@ linux下安装vim常见的步骤。
 
 # 编译安装
 
-```shell
+```sh
 make 
 sudo make install
 ```
@@ -69,7 +69,7 @@ sudo make install
 
 # 把vim作为默认编辑器
 
-```shell
+```sh
 sudo update-alternatives --install /usr/bin/editor editor /usr/bin/vim 1 
 sudo update-alternatives --set editor /usr/bin/vim
 sudo update-alternatives --install /usr/bin/vi vi /usr/bin/vim 1 
@@ -90,7 +90,7 @@ sudo update-alternatives --set vi /usr/bin/vim
 
 # 安装ctags cscope
 
-```shell
+```sh
 sudo apt-get install ctags
 sudo apt-get install cscope
 ```

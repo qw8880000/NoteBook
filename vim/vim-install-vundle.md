@@ -14,7 +14,7 @@ vundle简单来说就是vim的插件管理器，帮你管理插件的安装，�
 
 # 安装
 
-```shell
+```sh
     mkdir ~/.vim
     git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 ```
@@ -25,7 +25,7 @@ vundle简单来说就是vim的插件管理器，帮你管理插件的安装，�
 
 把你需要安装的插件放在`.vimrc`的开头部分，以下是例子：
 
-```
+```vim
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
