@@ -7,7 +7,7 @@ abbrlink: 207a3e1fac90dec3
 ---
 
 更换配色的方法：
-1. mkdir `~/.vim/colors`
+1. `mkdir ~/.vim/colors`
 1. 把配色方案放到这下面
 1. `.vimrc`中加入 `colorscheme  方案名`
 ```vim

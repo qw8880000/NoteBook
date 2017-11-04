@@ -1,5 +1,5 @@
 ---
-title: 一份适合C/C++的vim配置
+title: 一份适合C/C++/markdown/html/css/js的vim配置
 date: 2017-10-30 21:35:25
 categories:
     - vim
@@ -16,12 +16,14 @@ linux 下的vim 与 windows 下的gvim 通用。
 
 ![screenshot for molokai](http://oxnimkw03.bkt.clouddn.com/20171030101917.png)
 
+主题：molokai
+
 # vim 配置文件 
 
 此vimrc适合如下开发：
 
 -   c/c++ 
--   html/css
+-   html/css/js
 
 # 安装 
 
@@ -48,6 +50,43 @@ linux 下的vim 与 windows 下的gvim 通用。
 1. 在vimfiles 文件夹下新建文件夹 bundle
 1. 切换目录到`vimfiles/bundle`，执行安装Vundle的命令 `git clone https://github.com/gmarik/vundle.git`
 1. 打开vim，输入 `:BundleInstall` 来安装其他插件 
+
+# 插件列表
+
+| plugin                        |
+|-------------------------------|
+| gmarik/vundle                 |
+| junegunn/vim-easy-align       |
+| Shougo/neocomplcache.vim      |
+| OmniCppComplete               |
+| Shougo/neosnippet.vim         |
+| Shougo/context_filetype.vim   |
+| qw8880000/neosnippet-snippets |
+| bufexplorer.zip               |
+| scrooloose/nerdtree           |
+| majutsushi/tagbar             |
+| qw8880000/ccvext.vim          |
+| ctrlpvim/ctrlp.vim            |
+| Lokaltog/vim-powerline        |
+| scrooloose/syntastic          |
+| easymotion/vim-easymotion     |
+| terryma/vim-multiple-cursors  |
+| tomasr/molokai                |
+| tpope/vim-fugitive            |
+| mattn/emmet-vim               |
+| pangloss/vim-javascript       |
+| maksimr/vim-jsbeautify        |
+| leshill/vim-json              |
+| heavenshell/vim-jsdoc         |
+| gko/vim-coloresque            |
+| qw8880000/DoxygenToolkit.vim  |
+| justinmk/vim-syntax-extra     |
+| qw8880000/c.vim               |
+| cpp.vim                       |
+| scrooloose/nerdcommenter      |
+| TxtBrowser                    |
+| plasticboy/vim-markdown       |
+| qw8880000/vim-tab             |
 
 # 快捷键
 
