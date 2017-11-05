@@ -10,20 +10,23 @@ abbrlink: d73feb704e1070e4
 
 ascii-art(文本艺术): 使用可显示的ASCII字符组成的图形。
 
-## 在线ascii art工具
+# 在线ascii art工具
 
-### [chris](http://www.chris.com/ascii/)
+## chris
 
-各种各样的文本图形
+各种各样的文本图形: [chris](http://www.chris.com/ascii/)
 
-### [ASCII Art Generator](http://asciiart.club/)
 
-图片转成ascii 码
+## ASCII Art Generator  
+
+图片转成ascii 码: [ASCII Art Generator](http://asciiart.club/)
 
 example:
 ![image](http://my.asciiart.club/img/asciiart.jpg)
 
-### [ ASCII art in one line](http://1lineart.kulaone.com/#/)
+## ASCII art in one line
+
+[ ASCII art in one line](http://1lineart.kulaone.com/#/)
 
 example:
 ```
@@ -40,9 +43,9 @@ example:
     ¸.·´¯`·.´¯`·.¸¸.·´¯`·.¸><(((º>
 ```
 
-### [Text to ASCII-ART Generator](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=just%20for%20%20test%20%20%20%20jasldfkajsldkfj)
+## Text to ASCII-ART Generator
 
-英文艺术化
+英文艺术化: [Text to ASCII-ART Generator](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=just%20for%20%20test%20%20%20%20jasldfkajsldkfj)
 
 example:  just for test
 ```
@@ -130,7 +133,7 @@ example:  just for test
     ((  / / ((___( ( //   ) )  / /        //   ((___/ / //          / /   ((____   //   ) )  / /      
 ```
 
-### 更多
+# 更多
 
 - [如何制作纯 ASCII 文本流程图](https://www.digglife.net/articles/ascii-flowchart-how-to.html)
 - [linux boxes](http://blog.wangjinle.com/2017/10/14/JustBook/linux/tools_boxes/)

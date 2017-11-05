@@ -2,7 +2,7 @@
 title: C语言推荐书单
 date: 2017-10-15 14:39:25
 categories:
-  - 编程
+  - c语言
 tags:
   - c语言
 abbrlink: 3b34e9f03e707cf0
