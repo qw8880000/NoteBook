@@ -2,7 +2,7 @@
 title: 有趣的ASCII-Art
 date: 2017-10-16 14:39:25
 categories:
-  - 编程
+  - 其他
 tags:
   - ascii art
 abbrlink: d73feb704e1070e4

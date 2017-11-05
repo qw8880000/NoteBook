@@ -2,7 +2,7 @@
 title: 像极客一样写作
 date: 2017-10-14 14:39:25
 categories:
-  - 杂记
+  - 其他
 tags:
   - git
   - markdown

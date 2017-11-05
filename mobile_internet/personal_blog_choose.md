@@ -2,7 +2,7 @@
 title: 个人博客系统选择
 date: 2017-10-27 16:15:23
 categories:
-    - 编程
+    - 其他
 tags:
     - hexo
     - 杂项

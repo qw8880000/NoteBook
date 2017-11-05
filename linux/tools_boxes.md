@@ -2,7 +2,7 @@
 title: linux tool boxes
 date: 2017-10-14 14:39:25
 categories:
-  - 编程
+  - linux
 tags:
   - linux
   - tools
