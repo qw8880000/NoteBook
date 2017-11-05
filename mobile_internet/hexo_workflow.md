@@ -16,11 +16,17 @@ abbrlink: 3b05183235dcc265
 
 后来想到的方法就是利用自动化工具来处理源文件的拷贝，博客的部署等一些操作。由于对grunt比较熟悉，所以使用了grunt。
 
-以下提供一下`grunt`自动处理哪些任务的大概思路：
+# 需要的grunt插件
 
-1. 任务一，从github拉取文章的源文件到本地。(可选用`grunt-shell`插件)
-1. 任务二，消除hexo博客的`source/_posts`目录下的东西。(可选用`grunt-contrib-clean`插件)
-1. 任务三，拷贝文章的源文件到`source/_posts`目录下。(可选用`grunt-contrib-copy`)
-1. 任务四，执行`hexo generate`命令生成博客。(可选用`grunt-shell`插件)
+| 插件                | 作用 |
+|---------------------|------|
+| grunt-bg-shell      |      |
+| grunt-contrib-clean |      |
+| grunt-contrib-copy  |      |
+| grunt-contrib-watch |      |
+| grunt-rewrite       |      |
+| grunt-shell         |      |
+| grunt-zip           |      |
+| load-grunt-tasks    |      |
 
 

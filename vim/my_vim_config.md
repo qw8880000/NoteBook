@@ -1,5 +1,5 @@
 ---
-title: 一份适合C/C++/markdown/html/css/js的vim配置
+title: vim终极配置
 date: 2017-10-30 21:35:25
 categories:
     - vim
@@ -12,18 +12,19 @@ abbrlink: 00e87c3d0f40340b
 这是我的vim配置：[my vim config](https://github.com/qw8880000/vim_config).
 linux 下的vim 与 windows 下的gvim 通用。
 
+# 适用范围
+
+此vimrc适合如下开发：
+
+- c/c++ 
+- html/css/js
+- markdown
+
 # 截图
 
 ![screenshot for molokai](http://oxnimkw03.bkt.clouddn.com/20171030101917.png)
 
 主题：molokai
-
-# vim 配置文件 
-
-此vimrc适合如下开发：
-
--   c/c++ 
--   html/css/js
 
 # 安装 
 
@@ -122,6 +123,8 @@ linux 下的vim 与 windows 下的gvim 通用。
 
 * 在 `/**/` 与 `//` 之间切换 `,ca`
 ![image](http://oxnimkw03.bkt.clouddn.com/comment4.gif)
+
+* 其他快捷键可查看`.vimrc`
 
 # 其他
 

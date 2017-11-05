@@ -1,5 +1,5 @@
 ---
-title: vim最基础教程 | 20分钟学会vim
+title: vim基础教程 | 20分钟学会vim
 date: 2017-11-01 17:15:36
 categories:
     - vim
@@ -24,8 +24,8 @@ stackoverflow 在vim类的问题里，有超过100万次提问是关于，如何
 * insert mode(插入模式)
 * command-line mode(命令行模式)
 
-打开vim时默认是处理普通模式。
-**按下`esc`将从其他模式返回到变通模式**。
+**打开vim时默认是处理普通模式**。
+**按下`esc`将从其他模式返回到普通模式**。
 
 # 如何移动
 
