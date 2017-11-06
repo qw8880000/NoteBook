@@ -10,7 +10,7 @@ abbrlink: cc468aea3c750228
 
 以下是我搭建hexo博客的一些方法与心得，记录一下。
 
-## hexo使用
+## hexo教程
 
 hexo的使用直接参考: [hexo 中文网](https://hexo.io/zh-cn/docs/index.html)
 
@@ -43,7 +43,7 @@ hexo的使用直接参考: [hexo 中文网](https://hexo.io/zh-cn/docs/index.htm
 * hexo 的所有插件
 * hexo 支持的主题
 
-## 主题使用
+## 主题教程
 
 主题我想直接推荐[hexo next](http://theme-next.iissnan.com/)，因为用的人多，支持好。可以先学会用next主题，再考虑换其他主题，这样上手容易些。
 
