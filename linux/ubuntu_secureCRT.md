@@ -5,7 +5,7 @@ categories:
   - linux
 tags:
   - linux
-abbrlink: @@abbrlink
+abbrlink: 088fc75a4280a89d
 ---
 
 可能原因为：DNS的解析IP导致.
