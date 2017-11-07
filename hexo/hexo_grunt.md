@@ -8,6 +8,8 @@ tags:
 abbrlink: 3b05183235dcc265
 ---
 
+本文介绍hexo使用grunt实现一些自动化操作。
+
 开发过前端或者node.js的同学对grunt应该不陌生，如果对grunt不熟悉可略过本文。
 
 开始使用hexo来处理静态博客时我就遇到了问题，我的文章已经写了很多篇了，都是markdown格式，而且托管在github上了，然而hexo并不支持导入文章。
