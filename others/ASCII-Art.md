@@ -136,5 +136,5 @@ example:  just for test
 # 更多
 
 - [如何制作纯 ASCII 文本流程图](https://www.digglife.net/articles/ascii-flowchart-how-to.html)
-- [linux boxes](http://blog.wangjinle.com/2017/10/14/JustBook/linux/tools_boxes/)
+- [linux boxes](http://www.wangjinle.com/posts/18c5bfc5095b8fb8.html)
 
