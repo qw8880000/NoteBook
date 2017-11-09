@@ -77,3 +77,5 @@ LE技术的**L2CAP**层的功能与BR/EDR技术一样。
 基于L2CAP之上，LE 提供两种协议Security Manager protocol (SMP) 和 Attribute protocol (ATT)。
 其中ATT也可以被BR/EDR所使用。
 
+
+更多内容参考：[蓝牙学习汇总](http://www.wangjinle.com/posts/20d772a1ef9ec588.html)

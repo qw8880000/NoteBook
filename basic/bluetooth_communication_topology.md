@@ -11,7 +11,7 @@ abbrlink: 81fabadfb746fa0b
 
 piconet Topology(微微网拓扑结构) 分两种，一种是`BR/EDR` 拓扑，一种是`LE`拓扑。
 
-### BR/EDR Topology(BR/EDR 拓扑)
+# BR/EDR Topology(BR/EDR 拓扑)
 
 工作在同一物理信道的2个或更多设备相互连接组成**piconet**。
 一个piconet由一个master和多个slave组成。
@@ -64,7 +64,7 @@ member of a piconet, but is currently listening on its Synchronization scan
 physical channel (represented by the brown enclosure), awaiting a
 synchronization train from another device.
 
-### LE Topology(LE拓扑)
+# LE Topology(LE拓扑)
 
 ![image](http://oxnimkw03.bkt.clouddn.com/LE_topology.gif)
 
@@ -122,3 +122,7 @@ device R is advertising using a connectable advertising event on the
 advertising physical channel and device O is an initiator. Device O can form a
 connection with device R resulting in device O being slave of two devices and
 master of one device at the same time.
+
+# 更多
+
+更多内容参考：[蓝牙学习汇总](http://www.wangjinle.com/posts/20d772a1ef9ec588.html)

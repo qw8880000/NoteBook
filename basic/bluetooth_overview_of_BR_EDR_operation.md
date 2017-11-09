@@ -2,7 +2,9 @@
 title:  BR/EDR 简介 | bluetooth
 date: 2017-10-27 17:50:41
 categories:
+    - bluetooth
 tags:
+    - bluetooth
 abbrlink: 7e5873f2892af121
 ---
 
@@ -56,3 +58,5 @@ The LMP protocol is only carried on the primary ACL logical transport and the de
 
 ![image](http://oxnimkw03.bkt.clouddn.com/bluetooth-protocol-stack.jpg)
 
+
+更多内容参考：[蓝牙学习汇总](http://www.wangjinle.com/posts/20d772a1ef9ec588.html)

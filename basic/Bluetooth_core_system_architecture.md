@@ -7,7 +7,7 @@ tags:
     - bluetooth
 abbrlink: c55b6301bd410d86
 ---
-## Bluetooth core system architecture
+# Bluetooth core system architecture
 
 蓝牙核心系统由一个 Host，一个Primary Controller 和0个或多个Secondary Controllers组成。
 
@@ -30,11 +30,11 @@ A BR/EDR/LE Host combines the set of blocks from each respective Host.
 另外，Service Discovery Protocol (SDP)和Attribute Protocol (ATT)是应用层协议。
 
 
-## core architectural blocks
+# core architectural blocks
 
 这里介绍核心体系结构的组成部分。
 
-### Host Architectural Blocks
+## Host Architectural Blocks
 
 BR/EDR and LE 体系有一部分是共用，有一部分是各自实现。
 
@@ -47,7 +47,7 @@ BR/EDR and LE 体系有一部分是共用，有一部分是各自实现。
     GATT is used on LE devices for LE profile service discovery.
 * Generic Access Profile  
 
-### BR/EDR/LE Controller Architectural Blocks
+## BR/EDR/LE Controller Architectural Blocks
 
 BR/EDR and LE 体系有一部分是共用，有一部分是各自实现。
 
@@ -58,10 +58,13 @@ BR/EDR and LE 体系有一部分是共用，有一部分是各自实现。
 * Link Controller  
 * PHY  
 
-### AMP Controller architectural blocks
+## AMP Controller architectural blocks
 
 * AMP HCI
 * AMP PAL
 * AMP MAC
 * AMP PHY
 
+# 更多
+
+更多内容参考：[蓝牙学习汇总](http://www.wangjinle.com/posts/20d772a1ef9ec588.html)

@@ -8,7 +8,7 @@ tags:
 abbrlink: 20d772a1ef9ec588
 ---
 
-## 蓝牙
+# 蓝牙
 
 * [ 蓝牙简介 ](http://www.wangjinle.com/posts/babe1bcba164dc7d.html)
     * [ BR/EDR 简介 ](http://www.wangjinle.com/posts/7e5873f2892af121.html)
@@ -20,7 +20,8 @@ abbrlink: 20d772a1ef9ec588
     * [ 通信拓扑 ](http://www.wangjinle.com/posts/81fabadfb746fa0b.html)
     * [ 连接和模式 ](http://www.wangjinle.com/posts/3de043f805df1336.html)
 
-## 参考：
+# 参考
+
 * [Specification of the Bluetooth system](https://www.bluetooth.org/DocMan/handlers/DownloadDoc.ashx?doc_id=286439&_ga=1.139498554.805272089.1452604944)
 * [蓝牙协议分析(1)_基本概念](http://www.wowotech.net/bluetooth/bt_overview.html)
 * [蓝牙协议分析(2)_协议架构](http://www.wowotech.net/bluetooth/bt_protocol_arch.html)
