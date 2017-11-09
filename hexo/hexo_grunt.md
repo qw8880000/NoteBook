@@ -219,3 +219,6 @@ module.exports = function(grunt) {
 
 如果是使用`github pages`来托管博客的同学，可以把`grunt build`的`zip:dist`换成自动部署博客的任务，就能一键部署啦。
 
+# 更多
+
+更多内容参考：[hexo博客搭建汇总](http://www.wangjinle.com/posts/cc468aea3c750228.html)

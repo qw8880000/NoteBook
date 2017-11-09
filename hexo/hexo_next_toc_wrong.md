@@ -43,3 +43,5 @@ H2
 从`H2`跳到了`H4`，导致解析出错。原因找到后，修复问题后，正常如下：
 ![image](http://oxnimkw03.bkt.clouddn.com/20171018174603.png)
 
+
+更多内容参考：[hexo博客搭建汇总](http://www.wangjinle.com/posts/cc468aea3c750228.html)

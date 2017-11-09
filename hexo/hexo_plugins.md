@@ -18,3 +18,6 @@ abbrlink: 50d1892bc502f9fc
 | hexo-generator-sitemap       | 生成`sitemap`                    |
 | hexo-generator-baidu-sitemap | 生成百度`sitemap`                |
 | hexo-prism-plugin            | 代码高亮                         |
+
+
+更多内容参考：[hexo博客搭建汇总](http://www.wangjinle.com/posts/cc468aea3c750228.html)

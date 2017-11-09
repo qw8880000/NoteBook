@@ -49,3 +49,6 @@ if hexo-config("custom_css.post_body_a.enable")
 
 这个方法最大的优点就是可配置，也支持随时还原成原来主题的格式。
 
+## 更多
+
+更多内容参考：[hexo博客搭建汇总](http://www.wangjinle.com/posts/cc468aea3c750228.html)

@@ -14,7 +14,7 @@ abbrlink: 916d83182e15eeb1
 
 以下是方法。
 
-### 添加是否开启统计功能的配置
+# 添加是否开启统计功能的配置
 
 找到next主题的配置文件`themes/next/_config.yml`，找到原来的`footer`字段，加入一个配置，这里我们叫它`counter`吧，即
 ```yml
@@ -24,7 +24,7 @@ footer:
   counter: true
 ```
 
-### 修改next主题的模板文件
+# 修改next主题的模板文件
 
 由于是把访问量统计放在网页的`footer`，所以我们需要修改的模板文件是`theme/next/layout/_partials/footer.swig`。
 我们在合适的位置加入：
@@ -43,7 +43,7 @@ footer:
 访问量统计的效果：
 ![image](http://oxnimkw03.bkt.clouddn.com/20171017165533.png)
 
-### 不蒜子统计说明
+# 不蒜子统计说明
 
 不蒜子有两种统计方法：
 
@@ -65,6 +65,9 @@ footer:
     </span>
 ```
 
+# 更多
+
+更多内容参考：[hexo博客搭建汇总](http://www.wangjinle.com/posts/cc468aea3c750228.html)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 

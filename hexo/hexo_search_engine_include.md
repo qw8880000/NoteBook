@@ -10,11 +10,11 @@ abbrlink: 27104d21b87c0633
 
 当我们一开始建完博客时，搜索引擎是搜索不到的，我们需要做一项工作就是通知搜索引擎收录我们的网站。
 
-## 如何被百度收录
+# 如何被百度收录
 
 这里需要做两个事情，一个是`验证网站`，一个是`链接提交`.
 
-### 验证网证
+## 验证网证
 
 我们到百度站长平台里面的[站长工具]里面去验证网站，大概步骤如下：
 1. 第一步：输入网站
@@ -32,7 +32,7 @@ abbrlink: 27104d21b87c0633
 
 好，重要编译hexo并部署，完成验证.
 
-### 链接提交
+## 链接提交
 
 接下来我们进入[链接提交].
 链接提交有`手动`和`自动`两种方法，手动就是每次你有新的链接生成，你就需要手动提交链接到百度，这种方法太麻烦了，不使用。
@@ -62,10 +62,13 @@ baidusitemap:
 
 完成上述步骤后，我们可以在百度搜索框里输入`site:wangjinle.com`(这里换成你自己的域名)，来查看收录情况。
 
-## 如何被其他搜索引擎收录
+# 如何被其他搜索引擎收录
 
 无外乎`验证网站`与`链接提交`
 
+# 更多
+
+更多内容参考：[hexo博客搭建汇总](http://www.wangjinle.com/posts/cc468aea3c750228.html)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
