@@ -130,3 +130,6 @@ linux 下的vim 与 windows 下的gvim 通用。
 
 * [其他配置参考](https://github.com/VundleVim/Vundle.vim/wiki/Examples)
 
+# 更多
+
+更多内容参考：[vim学习汇总](http://www.wangjinle.com/posts/9a88772f17a949d5.html)

@@ -105,3 +105,6 @@ sudo apt-get install cscope
 
 `sudo apt-get install gcc`
 
+# 更多
+
+更多内容参考：[vim学习汇总](http://www.wangjinle.com/posts/9a88772f17a949d5.html)

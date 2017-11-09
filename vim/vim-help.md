@@ -34,3 +34,6 @@ abbrlink: 439e8400a2ecdfad
 
 具体如何使用，大家可以使用`:help helpgrep` 去查看详情啦。
 
+# 更多
+
+更多内容参考：[vim学习汇总](http://www.wangjinle.com/posts/9a88772f17a949d5.html)

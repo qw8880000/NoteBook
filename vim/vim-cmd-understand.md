@@ -91,3 +91,6 @@ dtx # 删除文本直到字符“x”（不包括字符“x”）: delete to x
 dfx # 删除文本直到字符“x”（包括字符“x”）: delete forward x
 ```
 
+## 更多
+
+更多内容参考：[vim学习汇总](http://www.wangjinle.com/posts/9a88772f17a949d5.html)
