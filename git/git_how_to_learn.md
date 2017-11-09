@@ -5,7 +5,7 @@ categories:
   - git
 tags:
   - git
-abbrlink: @@abbrlink
+abbrlink: 808409bee5ab8c2a
 ---
 
 一开始学习git的时候，网上的git教程很多，看得人眼花缭乱，不知道如何下手。现在对git已经很熟悉了，回过头来总结一下学习方法。
@@ -24,7 +24,11 @@ abbrlink: @@abbrlink
 
 上面的入门教程只能让你会用，如果想要了解git的原理和一些进阶的操作，那么还是要看比较全面权威的文档。
 
-这里推荐被称为git圣经的[pro git](https://git-scm.com/book/zh/v1)。
+这里推荐被称为git圣经的[《pro git》](https://git-scm.com/book/zh/v1)。
+
+一开始学习git的时候我去看pro git，当时觉得很多概念很难理解，然后改换成看一些基础教程。后来用了一段时间的git后，对git有了一些基础概念后，再回过头来看pro git，感觉理解上简单了很多。
+
+现在我已经看过一遍pro git了，效果就是对大多数常见的git命令的作用细节有比较清楚的认识，知道发生了什么事情。
 
 # 其他
 

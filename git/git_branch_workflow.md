@@ -5,7 +5,7 @@ categories:
   - git
 tags:
   - git
-abbrlink: @@abbrlink
+abbrlink: 79ba5f9ba8e46a2e
 ---
 
 不重复造轮子了，参考以下：
