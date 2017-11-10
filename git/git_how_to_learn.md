@@ -30,7 +30,12 @@ abbrlink: 808409bee5ab8c2a
 
 现在我已经看过一遍pro git了，效果就是对大多数常见的git命令的作用细节有比较清楚的认识，知道发生了什么事情。
 
+# 技能树
+
+学习完《pro git》，可以得到一个git技能树的全貌：
+![image](http://oxnimkw03.bkt.clouddn.com/git_tech_tree.png)
+
 # 其他
 
-git 还有游戏哦，就是这个:[Learn Git Branching](http://pcottle.github.io/learnGitBranching/)。
+git 还有游戏，就是这个:[Learn Git Branching](http://pcottle.github.io/learnGitBranching/)。
 
