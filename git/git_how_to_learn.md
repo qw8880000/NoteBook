@@ -33,6 +33,22 @@ abbrlink: 808409bee5ab8c2a
 学习完《pro git》，可以得到一个git技能树的全貌：
 ![image](http://oxnimkw03.bkt.clouddn.com/git_tech_tree_v2.png)
 
+# 学会使用帮助
+
+git的命令太多了，有时候一些参数很容易忘记。我以前的做法是到网上去搜索对应的命令用法，后来发现可以使用git的帮助直接查询，节省了很多时间。
+
+使用 Git 时需要获取帮助，有三种方法可以找到 Git 命令的使用手册：
+```sh
+$ git help <verb>
+$ git <verb> --help
+$ man git-<verb>
+```
+
+例如，要想获得 config 命令的手册，执行:
+```sh
+$ git help config
+```
+
 # 其他
 
 git 还有游戏，就是这个:[Learn Git Branching](http://pcottle.github.io/learnGitBranching/)。
