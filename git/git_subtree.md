@@ -1,10 +1,11 @@
 ---
-title: git subtree教程 | git
+title: git subtree教程
 date: 2017-11-14 09:47:02
 categories:
   - git
 tags:
   - git
+  - git subtree
 abbrlink: dd64cc1e4e460861
 ---
 
@@ -59,7 +60,7 @@ libpng
     \-- README.md
 ```
 
-以下操作均位于父仓库的根目录中（我写此文档时git subtree要求所有的git subtree命令必须位于父仓库的根目录才能执行）。
+以下操作均位于父仓库的根目录中。
 
 ## 在父仓库中新增子仓库
 
