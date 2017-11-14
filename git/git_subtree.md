@@ -5,7 +5,7 @@ categories:
   - git
 tags:
   - git
-abbrlink: @@abbrlink
+abbrlink: dd64cc1e4e460861
 ---
 
 关于子仓库或者说是仓库共用，git官方推荐的工具是git subtree。 我自己也用了一段时间的git subtree，感觉比git submodule好用，但是也有一些缺点，在可接受的范围内。
