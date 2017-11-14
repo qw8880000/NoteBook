@@ -68,7 +68,7 @@ nofollow:
 
 HEXO默认的文章链接形式为`domain/year/month/day/postname`，默认就是一个四级url，并且可能造成url过长，对搜索引擎是十分不友好的.
 
-生成永久链接的方法见[生成永久链接 | hexo](http://www.wangjinle.com/posts/313ea05a1562b260.html)
+生成永久链接的方法见[生成永久链接 | hexo](http://blog.wangjinle.com/posts/313ea05a1562b260.html)
 
 # 感谢
 
@@ -77,4 +77,4 @@ HEXO默认的文章链接形式为`domain/year/month/day/postname`，默认就�
 
 # 更多
 
-更多内容参考：[hexo博客搭建汇总](http://www.wangjinle.com/posts/cc468aea3c750228.html)
+更多内容参考：[hexo博客搭建汇总](http://blog.wangjinle.com/posts/cc468aea3c750228.html)

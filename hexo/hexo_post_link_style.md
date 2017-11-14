@@ -51,4 +51,4 @@ if hexo-config("custom_css.post_body_a.enable")
 
 ## 更多
 
-更多内容参考：[hexo博客搭建汇总](http://www.wangjinle.com/posts/cc468aea3c750228.html)
+更多内容参考：[hexo博客搭建汇总](http://blog.wangjinle.com/posts/cc468aea3c750228.html)

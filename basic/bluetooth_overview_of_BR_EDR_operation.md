@@ -59,4 +59,4 @@ The LMP protocol is only carried on the primary ACL logical transport and the de
 ![image](http://oxnimkw03.bkt.clouddn.com/bluetooth-protocol-stack.jpg)
 
 
-更多内容参考：[蓝牙学习汇总](http://www.wangjinle.com/posts/20d772a1ef9ec588.html)
+更多内容参考：[蓝牙学习汇总](http://blog.wangjinle.com/posts/20d772a1ef9ec588.html)

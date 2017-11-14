@@ -36,4 +36,4 @@ abbrlink: 439e8400a2ecdfad
 
 # 更多
 
-更多内容参考：[vim学习汇总](http://www.wangjinle.com/posts/9a88772f17a949d5.html)
+更多内容参考：[vim学习汇总](http://blog.wangjinle.com/posts/9a88772f17a949d5.html)

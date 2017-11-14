@@ -44,4 +44,4 @@ H2
 ![image](http://oxnimkw03.bkt.clouddn.com/20171018174603.png)
 
 
-更多内容参考：[hexo博客搭建汇总](http://www.wangjinle.com/posts/cc468aea3c750228.html)
+更多内容参考：[hexo博客搭建汇总](http://blog.wangjinle.com/posts/cc468aea3c750228.html)

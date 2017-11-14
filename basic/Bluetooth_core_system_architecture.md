@@ -67,4 +67,4 @@ BR/EDR and LE 体系有一部分是共用，有一部分是各自实现。
 
 # 更多
 
-更多内容参考：[蓝牙学习汇总](http://www.wangjinle.com/posts/20d772a1ef9ec588.html)
+更多内容参考：[蓝牙学习汇总](http://blog.wangjinle.com/posts/20d772a1ef9ec588.html)

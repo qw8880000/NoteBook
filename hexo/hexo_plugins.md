@@ -20,4 +20,4 @@ abbrlink: 50d1892bc502f9fc
 | hexo-prism-plugin            | 代码高亮                         |
 
 
-更多内容参考：[hexo博客搭建汇总](http://www.wangjinle.com/posts/cc468aea3c750228.html)
+更多内容参考：[hexo博客搭建汇总](http://blog.wangjinle.com/posts/cc468aea3c750228.html)

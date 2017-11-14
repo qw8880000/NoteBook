@@ -78,15 +78,15 @@ sudo update-alternatives --set vi /usr/bin/vim
 
 # 更换配色方案
 
-参考: [vim设置配色主题](http://www.wangjinle.com/posts/207a3e1fac90dec3.html)
+参考: [vim设置配色主题](http://blog.wangjinle.com/posts/207a3e1fac90dec3.html)
 
 # 安装vundle插件
 
-参考: [vim第一个要安装的插件 - vundle](http://www.wangjinle.com/posts/5faad70a8691ab64.html)
+参考: [vim第一个要安装的插件 - vundle](http://blog.wangjinle.com/posts/5faad70a8691ab64.html)
 
 # 安装中文帮助
 
-参考: [vim安装中文帮助](http://www.wangjinle.com/posts/0d1f184e23815ff1.html)
+参考: [vim安装中文帮助](http://blog.wangjinle.com/posts/0d1f184e23815ff1.html)
 
 # 安装ctags cscope
 
@@ -107,4 +107,4 @@ sudo apt-get install cscope
 
 # 更多
 
-更多内容参考：[vim学习汇总](http://www.wangjinle.com/posts/9a88772f17a949d5.html)
+更多内容参考：[vim学习汇总](http://blog.wangjinle.com/posts/9a88772f17a949d5.html)

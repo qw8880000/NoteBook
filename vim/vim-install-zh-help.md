@@ -27,4 +27,4 @@ NOTE: 使用-i选项的话，缺省同时安装 vimcdoc.vim 全局插件，该�
     `set helplang=cn`
 
 
-更多内容参考：[vim学习汇总](http://www.wangjinle.com/posts/9a88772f17a949d5.html)
+更多内容参考：[vim学习汇总](http://blog.wangjinle.com/posts/9a88772f17a949d5.html)

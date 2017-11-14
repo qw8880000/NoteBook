@@ -68,7 +68,7 @@ baidusitemap:
 
 # 更多
 
-更多内容参考：[hexo博客搭建汇总](http://www.wangjinle.com/posts/cc468aea3c750228.html)
+更多内容参考：[hexo博客搭建汇总](http://blog.wangjinle.com/posts/cc468aea3c750228.html)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 

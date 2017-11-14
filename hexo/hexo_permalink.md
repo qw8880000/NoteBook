@@ -51,7 +51,7 @@ permalink: posts/:abbrlink.html
 
 
 最后，当我们运行`grunt rewrite`后，`@@abbrlink`会被替换成一个16位的hash值。
-链接地址变成`www.wangjinle.com/posts/916d83182e15eeb1.html`这种样式，只要不去改动这个hash值，链接地址不会变。
+链接地址变成`blog.wangjinle.com/posts/916d83182e15eeb1.html`这种样式，只要不去改动这个hash值，链接地址不会变。
 
 
 

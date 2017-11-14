@@ -45,4 +45,4 @@ Controller 包括：主控制器(Primary Controllers)和次控制器(Secondary C
 ![image](http://oxnimkw03.bkt.clouddn.com/bluetooth_host_and_controller2.jpg)
 
 
-更多内容参考：[蓝牙学习汇总](http://www.wangjinle.com/posts/20d772a1ef9ec588.html)
+更多内容参考：[蓝牙学习汇总](http://blog.wangjinle.com/posts/20d772a1ef9ec588.html)

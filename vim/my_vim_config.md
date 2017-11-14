@@ -132,4 +132,4 @@ linux 下的vim 与 windows 下的gvim 通用。
 
 # 更多
 
-更多内容参考：[vim学习汇总](http://www.wangjinle.com/posts/9a88772f17a949d5.html)
+更多内容参考：[vim学习汇总](http://blog.wangjinle.com/posts/9a88772f17a949d5.html)

@@ -27,4 +27,4 @@ colorscheme molokai
 ![image](http://oxnimkw03.bkt.clouddn.com/vim-Tomorrow-Night-Eighties.png)
 
 
-更多内容参考：[vim学习汇总](http://www.wangjinle.com/posts/9a88772f17a949d5.html)
+更多内容参考：[vim学习汇总](http://blog.wangjinle.com/posts/9a88772f17a949d5.html)

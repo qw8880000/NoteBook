@@ -125,4 +125,4 @@ master of one device at the same time.
 
 # 更多
 
-更多内容参考：[蓝牙学习汇总](http://www.wangjinle.com/posts/20d772a1ef9ec588.html)
+更多内容参考：[蓝牙学习汇总](http://blog.wangjinle.com/posts/20d772a1ef9ec588.html)
