@@ -86,7 +86,7 @@ markdown + git
 
 ![image](https://gitbookio.github.io/blog/assets/2014-11-29-webeditor.png)
 
-有兴趣的同学可以搜索`gitbook`、`github editor`。
+有兴趣的同学可以搜索`gitbook`、`gitbook editor`。
 总之，万变不离其宗，选一个最适合你的才是最好的。
 
 

@@ -124,12 +124,10 @@ linux 下的vim 与 windows 下的gvim 通用。
 * 在 `/**/` 与 `//` 之间切换 `,ca`
 ![image](http://oxnimkw03.bkt.clouddn.com/comment4.gif)
 
-* 其他快捷键可查看`.vimrc`
+* 其他快捷键可查看`_vimrc`
 
-# 其他
-
-* [其他配置参考](https://github.com/VundleVim/Vundle.vim/wiki/Examples)
 
 # 更多
 
-更多内容参考：[vim学习汇总](http://blog.wangjinle.com/posts/9a88772f17a949d5.html)
+* [vim学习汇总](http://blog.wangjinle.com/posts/9a88772f17a949d5.html)
+* [其他配置参考](https://github.com/VundleVim/Vundle.vim/wiki/Examples)
