@@ -5,7 +5,7 @@ categories:
   - git
 tags:
   - git
-abbrlink: @@abbrlink
+abbrlink: fd56adc47e2516b6
 ---
 
 * [git subtree教程](http://blog.wangjinle.com/posts/dd64cc1e4e460861.html)
