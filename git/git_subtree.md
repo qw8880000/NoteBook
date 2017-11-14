@@ -128,5 +128,6 @@ git subtree push --prefix=sub/libpng libpng master
 
 # 更多
 
+* [git 学习汇总](http://blog.wangjinle.com/posts/fd56adc47e2516b6.html)
 * [Git subtree: the alternative to Git submodule](https://www.atlassian.com/blog/git/alternatives-to-git-submodule-git-subtree)
 * [The power of Git subtree](https://legacy-developer.atlassian.com/blog/2015/05/the-power-of-git-subtree/)

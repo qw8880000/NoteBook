@@ -20,3 +20,6 @@ $ git config --global alias.st status
 
 现在，如果要输入 `git commit` 只需键入 `git ci` 即可。而随着 Git 使用的深入，会有很多经常要用到的命令，遇到这种情况，不妨建个别名提高效率。
 
+# 更多
+
+* [git 学习汇总](http://blog.wangjinle.com/posts/fd56adc47e2516b6.html)

@@ -26,11 +26,11 @@ abbrlink: 808409bee5ab8c2a
 
 这里推荐被称为git圣经的《pro git》，我在写本文时已经发布到v2版本了，以下是链接：[《pro git》- v2](https://git-scm.com/book/zh/v2)。
 
-一开始学习git的时候我去看pro git，当时觉得很多概念很难理解，然后改换成看一些基础教程。后来用了一段时间的git后，对git有了一些基础概念后，再回过头来看pro git，感觉理解上简单了很多。
+一开始学习git的时候我去看《pro git》，当时觉得很多概念很难理解。后来用了一段时间的git，对git有了一些基础概念后，再回过头来看《pro git》，感觉理解上简单了很多。
 
 # 技能树
 
-学习完《pro git》，可以得到一个git技能树的全貌：
+学习完《pro git》，可以得到一个git技能树：
 ![image](http://oxnimkw03.bkt.clouddn.com/git_tech_tree_v2.png)
 
 # 学会使用帮助
@@ -49,7 +49,8 @@ $ man git-<verb>
 $ git help config
 ```
 
-# 其他
+# 更多
 
-git 还有游戏，就是这个:[Learn Git Branching](http://pcottle.github.io/learnGitBranching/)。
+* [git 学习汇总](http://blog.wangjinle.com/posts/fd56adc47e2516b6.html)
+* git游戏:[Learn Git Branching](http://pcottle.github.io/learnGitBranching/)。
 
