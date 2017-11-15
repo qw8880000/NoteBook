@@ -14,6 +14,12 @@ abbrlink: 17ec4c6ceea10eeb
     git cherry-pick <commit id>
 ```
 
+# 部分克隆
+
+```sh
+git clone --depth=14 https://github.com/angular/angular-phonecat.git
+```
+
 # log书写规范
 
 第一行为标题，然后换行，写入详细内容，例如：
