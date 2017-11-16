@@ -210,6 +210,13 @@
     |           |-- [substack/browserify-handbook](https://github.com/substack/browserify-handbook)
     |           \-- [通过 Browserify 在浏览器中使用 NodeJS 模块](https://www.ibm.com/developerworks/cn/web/1501_chengfu_browserify/)
     |
+    |-- MVC 
+    |   |
+    |   |-- MVC本来是存在于Desktop程序中的，M是指数据模型，V是指用户界面，C则是控制器。使用MVC是将M和V的实现代码分离，从而使同一个程序可以使用不同的表现形式。
+    |   |
+    |   |--(https://blog.codinghorror.com/understanding-model-view-controller/)
+    |   \-- https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller
+    |
     \-- 浏览器
         |
         \-- 加载和渲染
