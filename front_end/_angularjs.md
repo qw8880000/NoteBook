@@ -18,6 +18,11 @@
 
 * [ng-demos](https://github.com/johnpapa/ng-demos)
 
+# 更多阅读
+
+* [AngularPlus](https://github.com/AngularPlus/AngularPlus)
+* [UI-Router](https://ui-router.github.io/)
+
 # 知识点
 
 * 表达式
@@ -49,6 +54,8 @@
     - End to End Testing 端到端测试
 * 路由与多视图
     - ngRoute
+    - UI-Router
+    - ngRoute vs UI-Router
 * 自定义过滤器
 * 自定义REST服务
     - ngResource
