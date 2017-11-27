@@ -54,5 +54,5 @@ hjkl代表的方向很难记？试试口决`j下k上`，而hl在两边自然代�
 
 * [vim学习汇总](http://blog.wangjinle.com/posts/9a88772f17a949d5.html)
 * [学会使用vim的help](http://blog.wangjinle.com/posts/439e8400a2ecdfad.html)
-* [pratical VIM](http://oxnimkw03.bkt.clouddn.com/Practical Vim.pdf)
+* [pratical VIM](http://media.pragprog.com/titles/dnvim/introduction.pdf)
 * [learn vimscript the hard way](http://learnvimscriptthehardway.onefloweroneworld.com/)
