@@ -21,6 +21,7 @@ javascript设计模式(javascript patterns):
 
 javascript 代码检查工具：
 * [jshint](http://jshint.com/docs/)
+* [eslint](http://eslint.org/), [eslint 中文](http://eslint.cn/)
 
 javascript 代码风格工具：
 * [jscs](http://jscs.info/)
