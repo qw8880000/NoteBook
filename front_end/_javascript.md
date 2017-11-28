@@ -16,7 +16,17 @@
 
 # 进阶
 
-javascript patterns
+javascript设计模式(javascript patterns):
+// todo
+
+javascript 代码检查工具：
+* [jshint](http://jshint.com/docs/)
+
+javascript 代码风格工具：
+* [jscs](http://jscs.info/)
+
+javascript 注释：
+* jsDoc
 
 # 更多
 
