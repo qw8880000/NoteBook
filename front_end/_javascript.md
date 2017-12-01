@@ -13,6 +13,7 @@
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 * [Airbnb JavaScript Style Guide - 中文](https://github.com/sivan/javascript-style-guide)
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
+* [jquery Javascript Style Guide](https://contribute.jquery.org/style-guide/js/)
 
 # 进阶
 

@@ -23,6 +23,10 @@
 * [AngularPlus](https://github.com/AngularPlus/AngularPlus)
 * [UI-Router](https://ui-router.github.io/)
 
+# 常见问题
+
+* [Angular: All About Input Type=”File”](http://luxiyalu.com/angular-all-about-inputfile/)
+
 # 知识点
 
 * 表达式
