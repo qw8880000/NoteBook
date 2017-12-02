@@ -26,6 +26,11 @@ css结构：
 css code style 工具：
 * [csslint](https://github.com/CSSLint/csslint)
 
+好的css应该是什么样子：
+* 当我编辑一个class的时候，可以快速的确定我的修改是安全的而不会影响其他css
+* 可以快速知道一个组件是否使用了 JavaScript，如果我改变了它的 CSS，我不会意外地破坏任何组件
+* html引用的class数目尽可能的少
+
 # 更多
 
 css 框架：
@@ -42,4 +47,5 @@ css 框架：
 * [bulma](https://bulma.io/)
 
 * [awesome-css](https://github.com/sotayamashita/awesome-css)
+
 
