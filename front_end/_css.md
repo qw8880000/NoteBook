@@ -20,11 +20,13 @@
 * 可以快速知道一个组件是否使用了 JavaScript，如果我改变了它的 CSS，我不会意外地破坏任何组件
 * html引用的class数目尽可能的少
 
-css 重用、模式和抽象：
-* OOCSS
-* SMACCS
-* BEM
-* ccss
+css 组织、重用、模式和抽象：
+* [BEM](https://en.bem.info/)
+* [OOCSS](http://oocss.org/)
+* [SMACCS](https://smacss.com/)
+* [acss](https://acss.io/)
+* [mcss](http://operatino.github.io/MCSS/cn/)
+* [ccss](http://sathify.github.io/CCSS/)
 
 css code style 工具：
 * [csslint](https://github.com/CSSLint/csslint)
@@ -46,9 +48,9 @@ css 框架：
 * [960gs](https://960.gs/)
 * [Fluid 960 Grid System](http://www.designinfluences.com/fluid960gs/)
 * [Blueprint](http://blueprintcss.org/)
-* [OOCSS Grids](http://github.com/stubbornella/oocss/)
 * [YUI Grids](http://yuilibrary.com/yui/docs/cssgrids/)
 
+* [OOCSS](http://oocss.org/)
 * [Foundation](http://foundation.zurb.com/)
 * [Twitter Bootstrap](http://getbootstrap.com)
 * [Semantic UI](https://link.zhihu.com/?target=http%3A//semantic-ui.com/)
@@ -61,7 +63,9 @@ css 框架：
 # 更多
 
 * [css指南](https://cssguidelin.es/)
-* [bem 官网](https://en.bem.info/)
+* [bem-kit](https://mazipan.github.io/bem-kit/):使用BEM标准的CSS库
+
+
 * [sass](http://sass-lang.com/)
 * [sass 中文网](https://www.sass.hk/)
 * [sass 指南](https://sass-guidelin.es/)
