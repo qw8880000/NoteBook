@@ -3,6 +3,7 @@
 # 源头资料
 
 * [angular.js](https://angularjs.org/)
+* 《angularJS 权威教程》
 
 # 基础教程
 
@@ -22,6 +23,8 @@
 
 * [AngularPlus](https://github.com/AngularPlus/AngularPlus)
 * [UI-Router](https://ui-router.github.io/)
+* [Angular源码理解–启动过程](http://lib.csdn.net/article/angularjs/8614)
+* 《Build Your Own Angularjs》
 
 # 常见问题
 
