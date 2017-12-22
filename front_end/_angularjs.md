@@ -18,6 +18,7 @@
 # 例子
 
 * [ng-demos](https://github.com/johnpapa/ng-demos)
+* [angular-phonecat](https://github.com/angular/angular-phonecat)
 
 # 更多阅读
 

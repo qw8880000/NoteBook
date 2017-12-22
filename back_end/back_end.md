@@ -195,6 +195,7 @@
     |   |
     |   |-- promise
     |   |   |
+    |   |   |-- [promise](http://liubin.org/promises-book/)
     |   |   |-- [promise 简单实现](https://www.promisejs.org/implementing/)
     |   |   |-- [promise 简单实现](http://www.tuicool.com/articles/fe6Jbyz)
     |   |   |-- [promise 简单实现](https://segmentfault.com/a/1190000003028634)
