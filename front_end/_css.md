@@ -1,10 +1,9 @@
 
 # 源头资料
 
-* [css - MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
 * [CSS 2.1 specification - 中文](https://github.com/ayqy/CSS2-1)
 * [CSS 2.1 specification](https://www.w3.org/TR/2011/REC-CSS2-20110607/#minitoc)
-* [CSS 2.2 specification](https://www.w3.org/TR/CSS22/visuren.html)
+* [CSS 2.2 specification](https://www.w3.org/TR/CSS22/)
 
 规范太难理解了，还是借助书籍吧：
 * 《CSS权威指南》
@@ -13,6 +12,7 @@
 # 基础教程
 
 * [css - w3school](http://www.w3school.com.cn/css/index.asp)
+* [css - MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
 
 # 编码规范
 
