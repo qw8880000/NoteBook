@@ -7,9 +7,16 @@
 
 **块容器元素(block container element)** 是'display'属性为：'block', 'list-item'和'inline-block'的元素。块容器元素生成**块容器盒(block container box)**。
 
+
+block-level element 生成 block-level box。block-level box 参与 块格式化上下文。
+block container element 生成 block container box。block container box 有可能参与 块格式化上下文 也有可能参与 行内格式化上下文。
+
+
 ## 行内元素与行内盒(Inline-level elements and inline boxes)
 
-**行内级元素(Inline-level elements)** 是'display'属性为： 'inline', 'inline-table', and 'inline-block' 的元素。行内级元素生成行**内级盒(inline-level boxes)**。行内级盒参与行内格式化上下文。
+**行内级元素(Inline-level elements)** 是'display'属性为： 'inline', 'inline-table', and 'inline-block' 的元素。行内级元素生成**行内级盒(inline-level boxes)**。行内级盒参与行内格式化上下文。
+
+inline-level boxes 分为两类：inline boxes 与 atomic inline-level boxes。 inline box使用它的内容参与行内格式化上下文；atomic inline-level box 作为一个盒子(block container box)参与行内格式化上下文。
 
 # 常规流(Normal flow)
 
