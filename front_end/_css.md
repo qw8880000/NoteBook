@@ -36,6 +36,7 @@ css 组织、重用、模式和抽象：
 * [ccss](http://sathify.github.io/CCSS/)
 
 css code style 工具：
+* [stylelint](https://stylelint.io/)
 * [csslint](https://github.com/CSSLint/csslint)
 
 css 预处理：

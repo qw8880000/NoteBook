@@ -31,3 +31,5 @@ html5:
 * [HTML structural elements](https://www.w3.org/wiki/HTML_structural_elements)
 * [The HTML5 Page Structure](http://www.basewebmaster.com/html/html5-page-structure.php)
 * [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+* [How To](https://www.w3schools.com/howto/default.asp)
+

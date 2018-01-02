@@ -31,6 +31,13 @@ git clone --depth=14 https://github.com/angular/angular-phonecat.git
 * 等等
 ```
 
+# 改变origin 的 url
+
+原先克隆的一个仓库，使用的是http协议的地址克隆的。http协议在push的时候需要使用用户名与密码验证，比较烦人，于是想把仓库的远端git地址改为ssh协议或者git协议，这样就可以使用密钥验证，无需手动验证。
+
+使用命令： ` git remote set-url <name> <url> `。例如：`git remote set-url origin git@github.com:qw8880000/neosnippet-snippets.git`
+
+
 # 更多
 
 * [git 学习汇总](http://blog.wangjinle.com/posts/fd56adc47e2516b6.html)
