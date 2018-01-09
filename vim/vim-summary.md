@@ -19,4 +19,8 @@ abbrlink: 9a88772f17a949d5
 * [使用vim遇到过的问题](http://blog.wangjinle.com/posts/ea6564634f9891e5.html)
 
 
-
+其他：
+* [主题库 vim colors](http://vimcolors.com/)
+* [插件库 vimawsome](https://vimawesome.com/)
+* [Google+ vim社群](https://plus.google.com/communities/105049811056605918816)
+* [vim tips and tricks](http://www.wklken.me/posts/2014/10/03/vim-resources.html)
