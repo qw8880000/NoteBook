@@ -18,6 +18,10 @@ hexo的使用直接参考: [hexo 中文网](https://hexo.io/zh-cn/docs/index.htm
 
 主题直接推荐[hexo next](http://theme-next.iissnan.com/)，因为用的人多，支持好。
 
+更多：
+* [hexo 主题](https://hexo.io/zh-cn/docs/themes.html)
+* [Hexo 主题开发指南](http://chensd.com/2016-06/hexo-theme-guide.html)
+
 ## 优化
 
 * [hexo使用grunt实现自动化](http://blog.wangjinle.com/posts/3b05183235dcc265.html)
