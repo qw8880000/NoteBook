@@ -36,4 +36,5 @@ hexo的使用直接参考: [hexo 中文网](https://hexo.io/zh-cn/docs/index.htm
 * [hexo插件推荐](http://blog.wangjinle.com/posts/50d1892bc502f9fc.html)
 * [文章目录的标题排列错误](http://blog.wangjinle.com/posts/aea643f88e8ace5a.html)
 * [hexo 主题开发](http://blog.wangjinle.com/posts/5a35536406aa38bd.html)
-
+* [swig](http://thunf.me/swig/)
+* [swig 简单说明](http://www.cnblogs.com/elementstorm/p/3142644.html)
