@@ -1,5 +1,5 @@
 ---
-title: C语言的复杂声明
+title: 复杂声明 | C语言
 date: 2018-01-11 12:34:11
 categories:
   - c语言
