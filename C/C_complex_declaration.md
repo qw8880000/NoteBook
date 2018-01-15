@@ -71,7 +71,7 @@ C语言声明的优先级规则：
 typedef的功能是为一个类型引入新的名字。当需要使用到复杂声明的时候，使用typedef可以简单声明。典型的例子是`signal()`原型的声明。`signal()`原型是一种系统调用，用于通知运行时系统有“软件中断”产生。
 
 `signal()`的声明如下：`void (*signal(int sig, void(*func)(int)))(int);`。运用上面的声明解析，得到它的意思如下：
-`void (*signal(    ))(int);`，signal是一个函数，它返回一个函数指针，后者所指向的函数接受一个int参数并返回void。其中一个恐怖的参数是其本身：`void (*func)(int)`。
+`void (*signal(    ))(int);`，signal是一个函数，它返回一个函数指针，后者所指向的函数接受一个int参数并返回void。`signal`有两个参数，其中一个恐怖的参数和返回值是同一类型：`void (*func)(int)`。
 
 上述声明可以使用typedef来简化，让我们用typedef来表示通用部分：
 ```c
