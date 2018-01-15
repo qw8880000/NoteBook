@@ -1,3 +1,10 @@
+---
+title: 变量的地址与变量的值 | C语言
+date: 2018-01-15 20:24:26
+categories:
+tags:
+abbrlink: 832335dcdefc4d10
+---
 
 # 变量的定义与赋值
 
@@ -75,3 +82,5 @@ int main(int argc, char* argv[])
     return 0;
 }
 ```
+上述例子中的`sizeof(a)`为4，因为数组当函数参数时，退化成指针，所以`sizeof(a)`其实是`sizeof(int*)`。
+
