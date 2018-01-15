@@ -2,7 +2,9 @@
 title: 变量的地址与变量的值 | C语言
 date: 2018-01-15 20:24:26
 categories:
+  - c语言
 tags:
+  - c语言
 abbrlink: 832335dcdefc4d10
 ---
 
