@@ -1,3 +1,7 @@
 
 
-* [C语言的数组名和对数组名取地址](http://blog.csdn.net/zdcsky123/article/details/6517811)
+
+# 编码规范
+
+* [Linux kernel coding style](https://www.kernel.org/doc/html/v4.10/process/coding-style.html)
+* [Linux内核编码风格 Linux kernel coding style（中英对照）](http://iyu.is-programmer.com/posts/30315.html)

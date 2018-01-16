@@ -49,10 +49,9 @@ b = &a;     // 4
 
 # sizeof
 
-sizeof不是函数，是c语言中的一元运算符。它用来计算一个变量或者一个数据类型所占用的空间大小，单位为`char`所占用的字节。以下例子，我们假设`char`类型占用1字节，`int`占用4字节，指针占用4字节。
+sizeof不是函数，是c语言中的一元运算符。它用来计算一个对象或者一个数据类型所占用的空间大小，单位为`char`所占用的字节。
 
-所以当出现一个`sizeof()`表达式时，我们只需要明确变量的类型，即可正确得出`sizeof()`的值。来看几个例子：
-
+以下例子，我们假设`char`类型占用1字节，`int`占用4字节，指针占用4字节。
 ```c
 int a = 0;
 char b = 't';
@@ -67,22 +66,16 @@ printf("%d, %d, %d, %d, %d\n", sizeof(a), sizeof(b), sizeof(c), sizeof(arr), siz
 * int占用4个字节的存储空间，a的类型为int，所以`sizeof(a)`等于4。
 * char占用1个字节的存储空间，b的类型为char，所以`sizeof(b)`等于1。
 * 指针占用4个字节的存储空间，c的类型为指针，所以`sizeof(c)`等于4。
-* arr的类型为存放10个int数据的数组，所以`sizeof(arr)`等于 `9 * sizeof(int)`等于36。
+* arr是一个数组，`sizeof(arr)`计算的是整个数组占用的空间，所以等于36。
 * 指针占用4个字节的存储空间，p_arr的类型为指针，所以`sizeof(p_arr)`等于4。
 
-这里有一个需要注意的地方是数组当函数参数的情况。来看一下例子：
+
+再来看结构体的例子：
 ```c
-int test_func(int a[])
-{
-    printf("the value is %d\n", sizeof(a));
-    return 0;
-}
-int main(int argc, char* argv[])
-{
-    int arr[10] = {0};
-    test_func(arr);
-    return 0;
-}
+struct test {
+    int a;
+    char b;
+};
 ```
-上述例子中的`sizeof(a)`为4，因为数组当函数参数时，退化成指针，所以`sizeof(a)`其实是`sizeof(int*)`。
+`sizeof(struct test)`的结果可能是8而不是5，这里涉及到字节对齐。
 
