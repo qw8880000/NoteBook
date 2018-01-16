@@ -79,3 +79,6 @@ struct test {
 ```
 `sizeof(struct test)`的结果可能是8而不是5，这里涉及到字节对齐。
 
+# 更多
+
+* [C语言汇总](http://www.wangjinle.com/posts/53291f7288071263.html)

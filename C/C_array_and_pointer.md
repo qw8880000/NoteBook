@@ -5,7 +5,7 @@ categories:
   - c语言
 tags:
   - c语言
-abbrlink: @@abbrlink
+abbrlink: 15eba75861fd8959
 ---
 # 数组
 
@@ -45,3 +45,6 @@ int main(int argc, char* argv[])
 ```
 上述例子中的`sizeof(a)`为4，因为数组当函数参数时，退化成指针，所以`sizeof(a)`其实是`sizeof(int*)`。
 
+# 更多
+
+* [C语言汇总](http://www.wangjinle.com/posts/53291f7288071263.html)

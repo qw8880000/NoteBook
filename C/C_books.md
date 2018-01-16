@@ -174,8 +174,6 @@ C风格要素，把bug扼杀在萌芽中的一本书。
 * 第8章 写漂亮的代码
 * 第9章 总则
 
-其他参考 
-==========================================
+# 更多
 
-* [通过这九本开源好书学习 C 语言](http://mp.weixin.qq.com/s/Q3rKG2zsmtcRZ-RXeYFQRA)
-
+* [C语言汇总](http://www.wangjinle.com/posts/53291f7288071263.html)

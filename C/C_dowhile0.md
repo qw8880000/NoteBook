@@ -74,3 +74,6 @@ int data_process(const char* data)
 
 改进后的代码只需要记得不要在`do{}while(0)`代码块里使用`return`，而原先的代码需要在每一个`return`处检查是否解锁。个人认为还是`do{}while(0)`方法比较好记，而且当团队里的成员对`do{}while(0)`的用法熟悉了以后，一但看到此结构出现便可以条件反射般的意识到此函数有机关，使用`return`需谨慎。
 
+# 更多
+
+* [C语言汇总](http://www.wangjinle.com/posts/53291f7288071263.html)
