@@ -47,4 +47,4 @@ int main(int argc, char* argv[])
 
 # 更多
 
-* [C语言汇总](http://www.wangjinle.com/posts/53291f7288071263.html)
+* [C语言汇总](http://blog.wangjinle.com/posts/53291f7288071263.html)

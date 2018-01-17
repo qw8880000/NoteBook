@@ -10,7 +10,7 @@ abbrlink: 53291f7288071263
 
 # 推荐书单
 
-* [C语言推荐书单](http://www.wangjinle.com/posts/3b34e9f03e707cf0.html)
+* [C语言推荐书单](http://blog.wangjinle.com/posts/3b34e9f03e707cf0.html)
 
 # 编码规范
 
@@ -19,11 +19,11 @@ abbrlink: 53291f7288071263
 
 # 进阶
 
-* [数组 | C语言](http://www.wangjinle.com/posts/15eba75861fd8959.html)
-* [变量的地址与变量的值 | C语言](http://www.wangjinle.com/posts/832335dcdefc4d10.html)
-* [复杂声明 | C语言](http://www.wangjinle.com/posts/aa2a2a8468f22a50.html)
+* [数组 | C语言](http://blog.wangjinle.com/posts/15eba75861fd8959.html)
+* [变量的地址与变量的值 | C语言](http://blog.wangjinle.com/posts/832335dcdefc4d10.html)
+* [复杂声明 | C语言](http://blog.wangjinle.com/posts/aa2a2a8468f22a50.html)
 
 # 设计
 
-* [do{}while(0)的一种用法 | C语言](http://www.wangjinle.com/posts/92ca4682c401e8ea.html)
+* [do{}while(0)的一种用法 | C语言](http://blog.wangjinle.com/posts/92ca4682c401e8ea.html)
 

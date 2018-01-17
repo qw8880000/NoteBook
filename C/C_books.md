@@ -176,4 +176,4 @@ C风格要素，把bug扼杀在萌芽中的一本书。
 
 # 更多
 
-* [C语言汇总](http://www.wangjinle.com/posts/53291f7288071263.html)
+* [C语言汇总](http://blog.wangjinle.com/posts/53291f7288071263.html)

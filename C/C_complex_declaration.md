@@ -90,5 +90,5 @@ ptr_to_func signal(int, ptr_to_func);
 
 - 《C专家编程》
 - C语言复杂声明的解析器：[cdecl](https://cdecl.org/)
-- [C语言汇总](http://www.wangjinle.com/posts/53291f7288071263.html)
+- [C语言汇总](http://blog.wangjinle.com/posts/53291f7288071263.html)
 
