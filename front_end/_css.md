@@ -25,7 +25,6 @@
 
 css 组织、重用、模式和抽象：
 * [BEM](https://en.bem.info/)
-* [OOCSS](http://oocss.org/)
 * [SMACCS](https://smacss.com/)
 * [acss](https://acss.io/)
 * [mcss](http://operatino.github.io/MCSS/cn/)
@@ -56,19 +55,11 @@ css规范：
 * [CSS 2.1 specification](https://www.w3.org/TR/2011/REC-CSS2-20110607/#minitoc)
 * [CSS 2.2 specification](https://www.w3.org/TR/CSS22/)
 
-
-* [sass](http://sass-lang.com/)
-* [sass 中文网](https://www.sass.hk/)
-* [sass 指南](https://sass-guidelin.es/)
 * [compass](http://compass-style.org/)
 * [less](http://lesscss.org/)
-* [smacss](https://smacss.com/)
-* [CCSS](https://github.com/sathify/CCSS)
-* [acss](http://patternlab.io/)
 
 css 样式库：
 * [bem-kit](https://mazipan.github.io/bem-kit/):使用BEM标准的CSS库
-
 
 css 网格系统：
 * [960gs](https://960.gs/)
@@ -83,6 +74,8 @@ css 框架：
 * [OOCSS](http://oocss.org/)
 * [Semantic UI](https://link.zhihu.com/?target=http%3A//semantic-ui.com/)
 * [W3.CSS](http://w3schools.wang/w3css/w3css_tutorial.html)
+
+css 资料汇总：
 * [awesome-css](https://github.com/sotayamashita/awesome-css)
 
 
