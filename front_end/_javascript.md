@@ -2,6 +2,10 @@
 # 源头资料
 
 * [javascript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* 《javascript 高级程序设计》
+* 《javascript 语言精粹》
+* 《javascript DOM编程艺术》
+* 《javascript 权威指南》
 
 # 基础教程
 
