@@ -16,6 +16,7 @@
 
 # 编码规范
 
+* [css 指南](https://cssguidelin.es/)
 * [html&css编码规范](http://codeguide.bootcss.com/)
 * [html&css style guide](https://github.com/Aaaaaashu/Guide)
 * [Reasonable System for CSS Stylesheet Structure](http://rscss.io/)
@@ -71,10 +72,7 @@ css 框架：
 
 # 更多
 
-* [css指南](https://cssguidelin.es/)
 * [bem-kit](https://mazipan.github.io/bem-kit/):使用BEM标准的CSS库
-
-
 * [sass](http://sass-lang.com/)
 * [sass 中文网](https://www.sass.hk/)
 * [sass 指南](https://sass-guidelin.es/)
