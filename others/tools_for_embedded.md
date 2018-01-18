@@ -86,3 +86,8 @@ Beyond Compare支持11种文件类型对比及功能，包括文件夹比较、�
 Notepad++是一套为自由软件的纯文本编辑器，支持众多程序语言，比如C++、C#、Java等主流程序语言；支持HTML、XML、ASP，Perl、Python、JavaScript等网页/脚本语言。
 ![image](http://oxnimkw03.bkt.clouddn.com/notepad++.png)
 
+# 流程图工具
+
+## Edraw Max
+
+免费，好用的流程图绘制工具。
