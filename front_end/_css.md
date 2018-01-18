@@ -1,11 +1,6 @@
 
 # 源头资料
 
-* [CSS 2.1 specification - 中文](https://github.com/ayqy/CSS2-1)
-* [CSS 2.1 specification](https://www.w3.org/TR/2011/REC-CSS2-20110607/#minitoc)
-* [CSS 2.2 specification](https://www.w3.org/TR/CSS22/)
-
-规范太难理解了，还是借助书籍吧：
 * 《CSS权威指南》
 * 《css揭秘》
 
@@ -53,26 +48,15 @@ css 模块化：
 * css in js
 * css modules
 
-css 框架：
-* [960gs](https://960.gs/)
-* [Fluid 960 Grid System](http://www.designinfluences.com/fluid960gs/)
-* [Blueprint](http://blueprintcss.org/)
-* [YUI Grids](http://yuilibrary.com/yui/docs/cssgrids/)
-
-* [OOCSS](http://oocss.org/)
-* [Foundation](http://foundation.zurb.com/)
-* [Twitter Bootstrap](http://getbootstrap.com)
-* [Semantic UI](https://link.zhihu.com/?target=http%3A//semantic-ui.com/)
-* [W3.CSS](http://w3schools.wang/w3css/w3css_tutorial.html)
-* [bulma](https://bulma.io/)
-* [bem-kit](https://mazipan.github.io/bem-kit/):使用BEM标准的CSS库
-
-* [awesome-css](https://github.com/sotayamashita/awesome-css)
-
 
 # 更多
 
-* [bem-kit](https://mazipan.github.io/bem-kit/):使用BEM标准的CSS库
+css规范：
+* [CSS 2.1 specification - 中文](https://github.com/ayqy/CSS2-1)
+* [CSS 2.1 specification](https://www.w3.org/TR/2011/REC-CSS2-20110607/#minitoc)
+* [CSS 2.2 specification](https://www.w3.org/TR/CSS22/)
+
+
 * [sass](http://sass-lang.com/)
 * [sass 中文网](https://www.sass.hk/)
 * [sass 指南](https://sass-guidelin.es/)
@@ -81,3 +65,24 @@ css 框架：
 * [smacss](https://smacss.com/)
 * [CCSS](https://github.com/sathify/CCSS)
 * [acss](http://patternlab.io/)
+
+css 样式库：
+* [bem-kit](https://mazipan.github.io/bem-kit/):使用BEM标准的CSS库
+
+
+css 网格系统：
+* [960gs](https://960.gs/)
+* [Fluid 960 Grid System](http://www.designinfluences.com/fluid960gs/)
+* [YUI Grids](http://yuilibrary.com/yui/docs/cssgrids/)
+
+css 框架：
+* [Twitter Bootstrap](http://getbootstrap.com)
+* [Foundation](http://foundation.zurb.com/)
+* [bulma](https://bulma.io/)
+* [Blueprint](http://blueprintcss.org/)
+* [OOCSS](http://oocss.org/)
+* [Semantic UI](https://link.zhihu.com/?target=http%3A//semantic-ui.com/)
+* [W3.CSS](http://w3schools.wang/w3css/w3css_tutorial.html)
+* [awesome-css](https://github.com/sotayamashita/awesome-css)
+
+
