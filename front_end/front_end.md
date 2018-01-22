@@ -89,6 +89,10 @@ form：
 
 * [浏览器渲染页面过程](http://www.cnblogs.com/chenlogin/p/5221562.html)
 
+# RESTful api
+
+REST的核心原则是将你的API拆分为逻辑上的资源。这些资源通过http被操作（GET,POST,PUT,DELETE）。
+
 # 工具
 
 * postman: http 工具
