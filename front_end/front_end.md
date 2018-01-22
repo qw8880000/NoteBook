@@ -29,6 +29,18 @@ input 加载本地文件：
 * [Reading files in JavaScript using the File APIs](https://www.html5rocks.com/en/tutorials/file/dndfiles/)
 * [Using files from web applications](https://developer.mozilla.org/en-US/docs/Using_files_from_web_applications)
 
+# 认证
+
+* [Auth-boss](https://github.com/teesloane/Auth-Boss)
+
+常见的认证方法：
+* HTTP Basic Authentication
+* Session based Authentication
+* Token based Authentication
+* JWT
+* OAuth
+* OpenId
+
 # 文件上传
 
 文件上传主要使用以下两种方法：
