@@ -6,6 +6,7 @@
 * 《javascript 语言精粹》
 * 《javascript DOM编程艺术》
 * 《javascript 权威指南》
+* 《JavaScript设计模式》
 
 # 基础教程
 

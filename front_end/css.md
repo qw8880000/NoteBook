@@ -32,6 +32,7 @@ abbrlink: 04fd35993e629921
 * [Reasonable System for CSS Stylesheet Structure](http://rscss.io/)
 
 # css 组织、重用、模式和抽象：
+* [Atomic OOBEMITSCSS](https://www.sitepoint.com/atomic-oobemitscss/)
 * [BEM](https://en.bem.info/)
 * [SMACCS](https://smacss.com/)
 * [acss](https://acss.io/)
