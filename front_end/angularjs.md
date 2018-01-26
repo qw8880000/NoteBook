@@ -39,6 +39,19 @@ abbrlink: a4c1a6de8fc9116c
 * [UI-Router](https://ui-router.github.io/)
 * [Angular源码理解–启动过程](http://lib.csdn.net/article/angularjs/8614)
 
+**angular UI**
+
+* [angular ui bootstrap](http://angular-ui.github.io/bootstrap/)
+
+**文件上传**
+
+* [ng-file-upload](https://github.com/danialfarid/ng-file-upload)
+* [angular-file-upload](https://github.com/nervgh/angular-file-upload/)
+* [angular-upload](https://github.com/leon/angular-upload)
+* [angular-file](https://github.com/uor/angular-file)
+* [ngUpload](https://github.com/twilson63/ngUpload)
+* [angular-uploadcare](https://github.com/uploadcare/angular-uploadcare)
+
 # 常见问题
 
 * [Angular: All About Input Type=”File”](http://luxiyalu.com/angular-all-about-inputfile/)
