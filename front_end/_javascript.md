@@ -22,6 +22,10 @@
 
 # 进阶
 
+javascript 对象原型：
+* [对象原型 - MDN](https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/Objects/Object_prototypes)
+* [Javascript的原型链图（原创 知乎首发）](https://zhuanlan.zhihu.com/p/22189387#!)
+
 javascript设计模式(javascript patterns):
 // todo
 
