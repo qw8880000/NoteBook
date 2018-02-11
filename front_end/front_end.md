@@ -118,7 +118,6 @@ REST的核心原则是将你的API拆分为逻辑上的资源。这些资源通�
 * [karma](https://karma-runner.github.io/2.0/index.html) : 为测试代码提供真实的浏览器环境
 * [jasmine](https://jasmine.github.io/) : javascript测试框架
 
-* [Protractor](http://www.protractortest.org/#/) : 端到端测试(end-to-end test)
 
 # 工具
 

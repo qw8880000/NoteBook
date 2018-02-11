@@ -56,7 +56,8 @@ abbrlink: a4c1a6de8fc9116c
 
 # 自动测试
 
-[karma](https://karma-runner.github.io/2.0/index.html) + [jasmine](https://jasmine.github.io/)
+* [karma](https://karma-runner.github.io/2.0/index.html) + [jasmine](https://jasmine.github.io/) : 单元测试
+* [Protractor](http://www.protractortest.org/#/) : 端到端测试(end-to-end test)
 
 # 常见问题
 
