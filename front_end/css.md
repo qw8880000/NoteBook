@@ -83,4 +83,7 @@ css 框架：
 
 * [awesome-css](https://github.com/sotayamashita/awesome-css)
 
+# 更多
+
+* [从 BEM 谈大型项目中 CSS 的组织和管理](https://www.ibm.com/developerworks/cn/web/1512_chengfu_bem/index.html)
 

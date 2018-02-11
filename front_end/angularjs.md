@@ -42,6 +42,8 @@ abbrlink: a4c1a6de8fc9116c
 **angular UI**
 
 * [angular ui bootstrap](http://angular-ui.github.io/bootstrap/)
+* [angular UI](https://angular-ui.github.io/)
+* [SUI Mobile - 阿里巴巴](http://www.angularui.cn/)
 
 **文件上传**
 
@@ -51,6 +53,10 @@ abbrlink: a4c1a6de8fc9116c
 * [angular-file](https://github.com/uor/angular-file)
 * [ngUpload](https://github.com/twilson63/ngUpload)
 * [angular-uploadcare](https://github.com/uploadcare/angular-uploadcare)
+
+# 自动测试
+
+[karma](https://karma-runner.github.io/2.0/index.html) + [jasmine](https://jasmine.github.io/)
 
 # 常见问题
 
