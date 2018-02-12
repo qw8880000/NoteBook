@@ -32,6 +32,7 @@ abbrlink: a4c1a6de8fc9116c
 
 * [ng-demos](https://github.com/johnpapa/ng-demos)
 * [angular-phonecat](https://github.com/angular/angular-phonecat)
+* [yo angular generator](https://github.com/yeoman/generator-angular)
 
 # 更多阅读
 
@@ -56,8 +57,15 @@ abbrlink: a4c1a6de8fc9116c
 
 # 自动测试
 
-* [karma](https://karma-runner.github.io/2.0/index.html) + [jasmine](https://jasmine.github.io/) : 单元测试
-* [Protractor](http://www.protractortest.org/#/) + [jasmine](https://jasmine.github.io/): 端到端测试(end-to-end test)
+测试工具：
+* [karma](https://karma-runner.github.io/2.0/index.html)
+* [jasmine](https://jasmine.github.io/)
+* [Protractor](http://www.protractortest.org/#/)
+
+相关文章：
+* [unit-testing - angualr.js](https://docs.angularjs.org/guide/unit-testing)
+* [e2e-testing - angualr.js](https://docs.angularjs.org/guide/e2e-testing)
+* [Full-Spectrum Testing with AngularJS and Karma](https://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.html)
 
 # 常见问题
 
