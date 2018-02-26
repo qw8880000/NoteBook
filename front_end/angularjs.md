@@ -58,8 +58,9 @@ abbrlink: a4c1a6de8fc9116c
 # 自动测试
 
 测试工具：
-* [karma](https://karma-runner.github.io/2.0/index.html)
-* [jasmine](https://jasmine.github.io/)
+* [karma](https://karma-runner.github.io/2.0/index.html): test runner
+* [jasmine](https://jasmine.github.io/): test framework
+* [angular-mocks](https://docs.angularjs.org/guide/unit-testing#angular-mocks)
 * [Protractor](http://www.protractortest.org/#/)
 
 相关文章：
