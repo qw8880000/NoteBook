@@ -7,6 +7,8 @@
 
 ## 安装nginx
 
+https://www.nginx.com/resources/wiki/start/topics/tutorials/install/
+
 安装nginx: `sudo apt-get install nginx`
 
 升级nginx:
