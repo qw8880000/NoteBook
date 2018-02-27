@@ -107,3 +107,18 @@ markdown wiki [gollum](https://github.com/gollum/gollum).
 
 `$ npm install pm2 -g`
 
+## 启动项管理
+
+添加启动项：
+```
+sudo update-rc.d   apache2 defaults  
+sudo update-rc.d   nginx defaults  
+sudo update-rc.d   redis_6379 defaults 
+```
+删除启动项：
+```
+sudo update-rc.d -f apache2 remove  
+sudo update-rc.d -f nginx remove  
+sudo update-rc.d -f redis_6379 remove  
+```
+
