@@ -55,6 +55,9 @@ abbrlink: a4c1a6de8fc9116c
 * [ngUpload](https://github.com/twilson63/ngUpload)
 * [angular-uploadcare](https://github.com/uploadcare/angular-uploadcare)
 
+**登陆**
+* [Cookies vs Tokens. Getting auth right with Angular.JS](https://auth0.com/blog/angularjs-authentication-with-cookies-vs-token/)
+
 # 自动测试
 
 测试工具：

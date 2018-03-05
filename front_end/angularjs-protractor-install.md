@@ -6,7 +6,7 @@ categories:
   - angular.js
 tags:
   - angular.js
-abbrlink: @@abbrlink
+abbrlink: 3b4db39d471a5652
 ---
 
 在安装protractor过程中，执行`webdriver-manager update`时出现如下错误：
