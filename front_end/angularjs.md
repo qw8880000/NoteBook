@@ -58,6 +58,10 @@ abbrlink: a4c1a6de8fc9116c
 **登陆**
 * [Cookies vs Tokens. Getting auth right with Angular.JS](https://auth0.com/blog/angularjs-authentication-with-cookies-vs-token/)
 
+** angular directive ** 
+
+* [the scope of directive](https://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/)
+
 # 自动测试
 
 测试工具：
