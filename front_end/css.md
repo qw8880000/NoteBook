@@ -30,6 +30,7 @@ abbrlink: 04fd35993e629921
 * [html&css编码规范](http://codeguide.bootcss.com/)
 * [html&css style guide](https://github.com/Aaaaaashu/Guide)
 * [Reasonable System for CSS Stylesheet Structure](http://rscss.io/)
+* [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
 
 # css 组织、重用、模式和抽象：
 * [Atomic OOBEMITSCSS](https://www.sitepoint.com/atomic-oobemitscss/)
@@ -79,11 +80,17 @@ css 框架：
 * [Semantic UI](https://link.zhihu.com/?target=http%3A//semantic-ui.com/)
 * [W3.CSS](http://w3schools.wang/w3css/w3css_tutorial.html)
 
+# css 架构文章
+
+* [从 BEM 谈大型项目中 CSS 的组织和管理](https://www.ibm.com/developerworks/cn/web/1512_chengfu_bem/index.html)
+* [Bugsnag's CSS Architecture](https://blog.bugsnag.com/bugsnags-css-architecture/)
+* [Refining The Way We Structure Our CSS At Trello](https://blog.trello.com/refining-the-way-we-structure-our-css-at-trello)
+
+# sass 目录架构
+
+* [Sass: Directory Structures That Help You Maintain Your Code](http://vanseodesign.com/css/sass-directory-structures/)
+
 # github 高星css资料汇总：
 
 * [awesome-css](https://github.com/sotayamashita/awesome-css)
-
-# 更多
-
-* [从 BEM 谈大型项目中 CSS 的组织和管理](https://www.ibm.com/developerworks/cn/web/1512_chengfu_bem/index.html)
 
