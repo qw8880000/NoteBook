@@ -1,4 +1,13 @@
-
+---
+title: javascript 学习汇总
+date: 2018-03-08 13:52:09
+categories:
+  - 前端
+  - javascript
+tags:
+  - javascript
+abbrlink: @@abbrlink
+---
 # 源头资料
 
 * [javascript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
