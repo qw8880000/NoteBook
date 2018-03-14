@@ -27,5 +27,8 @@ vertical-align对齐的点是baseline加上半个x的距离(half of the x-height
 
 https://developer.mozilla.org/zh-CN/docs/Web/CSS/box-sizing
 
+# 伪类的顺序
 
+伪类先后顺序被称为LVHA顺序: `:link — :visited — :hover — :active`。CSS层叠中有一条法则十分重要，就是后面覆盖前面，所以伪类的顺序是需要精心考虑的。
+当点击按下未放开时，此时触发active，但是此时hover也要触发，为了看到active的效果，那么active就必须放在hover后面；
 
