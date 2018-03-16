@@ -22,6 +22,7 @@ abbrlink: a4c1a6de8fc9116c
 
 * [angularjs 中文网](http://www.angularjs.net.cn/)
 * [angular tutorial](http://learnkode.com/Tutorial/Angular/angular-introduction)
+* [angular.js - tutorialspoint](https://www.tutorialspoint.com/angularjs/index.htm)
 
 # 编码规范
 
@@ -32,6 +33,8 @@ abbrlink: a4c1a6de8fc9116c
 
 * [ng-demos](https://github.com/johnpapa/ng-demos)
 * [angular-phonecat](https://github.com/angular/angular-phonecat)
+* [ng-admin-demo](https://github.com/marmelab/ng-admin-demo)
+* [AngularJS Basic HTTP Authentication Example](https://github.com/cornflourblue/angular-authentication-example)
 * [yo angular generator](https://github.com/yeoman/generator-angular)
 
 # 更多阅读
@@ -57,6 +60,7 @@ abbrlink: a4c1a6de8fc9116c
 
 **登陆**
 * [Cookies vs Tokens. Getting auth right with Angular.JS](https://auth0.com/blog/angularjs-authentication-with-cookies-vs-token/)
+* [AngularJS Basic HTTP Authentication Example](http://jasonwatmore.com/post/2014/05/26/angularjs-basic-http-authentication-example)
 
 ** angular directive ** 
 
