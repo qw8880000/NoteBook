@@ -66,6 +66,11 @@ abbrlink: a4c1a6de8fc9116c
 
 * [the scope of directive](https://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/)
 
+# ng-model
+
+* [AngularJS实践之使用NgModelController进行数据绑定](http://www.jb51.net/article/94136.htm)
+* [Understanding NgModelController By Example - part 1](http://radify.io/blog/understanding-ngmodelcontroller-by-example-part-1/)
+
 # 自动测试
 
 测试工具：

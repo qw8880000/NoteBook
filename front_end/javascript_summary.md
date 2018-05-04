@@ -53,3 +53,10 @@ javascript 注释：
 * [JavaScript Standard Style ](https://standardjs.com/)
 * [javascript](https://www.javascript.com/)
 
+## file blob canvas dataUrl的转换
+
+* [file blob canvas dataUrl的转换](https://blog.csdn.net/cuixiping/article/details/45932793)
+
+## crop image
+
+* [Resizing and Cropping Images with Canvas](https://tympanus.net/codrops/2014/10/30/resizing-cropping-images-canvas/)

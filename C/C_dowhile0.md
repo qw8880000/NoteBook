@@ -1,5 +1,5 @@
 ---
-title: do{}while(0)的一种用法 | C语言
+title: do{}while(0)编写单进单出函数 | C语言
 date: 2018-01-12 10:52:11
 categories:
   - c语言

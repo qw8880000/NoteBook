@@ -1,0 +1,1 @@
+ui-router使用component与使用controller时的resolve方式不一样 ；而且component的resolve无法在component实例化时得到，需要等待一小段时间，是个问题。建议使用controller
