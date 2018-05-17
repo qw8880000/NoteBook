@@ -6,7 +6,7 @@ categories:
   - angular.js
 tags:
   - angular.js
-abbrlink: @@abbrlink
+abbrlink: 44501d83fac57db1
 ---
 
 # 参考

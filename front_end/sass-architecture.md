@@ -7,7 +7,7 @@ categories:
 tags:
   - css
   - sass
-abbrlink: @@abbrlink
+abbrlink: 41e9a627e79a87c2
 ---
 
 # 概览

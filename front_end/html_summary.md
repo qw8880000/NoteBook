@@ -6,7 +6,7 @@ categories:
   - html
 tags:
   - html
-abbrlink: @@abbrlink
+abbrlink: de080acf81c47aac
 ---
 # 源头资料
 

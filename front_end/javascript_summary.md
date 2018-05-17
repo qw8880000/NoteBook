@@ -6,7 +6,7 @@ categories:
   - javascript
 tags:
   - javascript
-abbrlink: @@abbrlink
+abbrlink: 976d321b1396d9fd
 ---
 # 源头资料
 
