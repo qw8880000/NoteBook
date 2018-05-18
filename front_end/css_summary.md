@@ -90,6 +90,13 @@ css 框架：
 
 * [Sass: Directory Structures That Help You Maintain Your Code](http://vanseodesign.com/css/sass-directory-structures/)
 
+# 响应式布局
+
+静态布局，流式面局，自适应布局，响应式布局的区别？
+
+* [静态布局、自适应布局、流式布局、响应式布局、弹性布局等的概念和区别](https://www.cnblogs.com/yanayana/p/7066948.html)
+* [The Difference Between Responsive and Adaptive Design](https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/)
+
 # github 高星css资料汇总：
 
 * [awesome-css](https://github.com/sotayamashita/awesome-css)
