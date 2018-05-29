@@ -36,6 +36,7 @@ abbrlink: a4c1a6de8fc9116c
 * [ng-admin-demo](https://github.com/marmelab/ng-admin-demo)
 * [AngularJS Basic HTTP Authentication Example](https://github.com/cornflourblue/angular-authentication-example)
 * [yo angular generator](https://github.com/yeoman/generator-angular)
+* [ngx-admin](https://github.com/akveo/nebular)
 
 # 更多阅读
 
