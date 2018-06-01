@@ -122,3 +122,41 @@ sudo update-rc.d -f nginx remove
 sudo update-rc.d -f redis_6379 remove  
 ```
 
+## 安装 php
+
+参照php安装教程进行安装。
+安装参数：
+```
+./configure --enable-fpm --with-mysql \
+--with-libzip --with-bz2 \
+--with-zlib \
+--with-openssl  \
+--with-curl \
+--with-mhash
+```
+
+安装遇到的问题：`configure: error: Cannot find OpenSSL's libraries`.
+解决：sudo apt-get install pkg-config libssl-dev openssl
+
+## 安装 dokuwiki
+
+参照dokuwiki安装步骤。
+
+常用插件（http://www.dokuwiki.com.cn/272.html）：
+	* ImgPaste：在编辑器直接粘贴就可以插入剪贴板中的图片，可以用来快速上传截图
+	* Add New Page：增加页面插件
+	* Wrap：排版增强插件
+	* Move：Move pages, media files and namespaces while maintaining the link structure
+	* CodeMirror：dokuwiki编辑器增强
+
+* 安装时出现权限问题：
+解决方法：权限问题。因为php的运行时的所属用户与组是 `www-data:www-data`，而dokuwiki目录的权限是`nico:nico`，于是把dokuwiki权限设置为`chmod -R www-data:www-data dokuwiki/`，于是问题解决。
+
+* No gzip support available
+解决办法：安装php时，使php支持zip
+
+* error: Please reinstall the BZip2 distribution
+解决办法：apt-get install libbz2-dev
+
+* error: Please reinstall the libcurl distribution
+
