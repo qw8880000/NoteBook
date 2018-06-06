@@ -119,10 +119,11 @@ REST的核心原则是将你的API拆分为逻辑上的资源。这些资源通�
 * [jasmine](https://jasmine.github.io/) : javascript测试框架
 
 
-# 工具
+# 辅助工具
 
 * postman: http 工具
 * [name the color](http://chir.ag/projects/name-that-color/#6195ED)
+* [网页栅格化工具： GridGuide](http://www.shejidaren.com/gridguide.html)
 
 # MVC
 
@@ -132,3 +133,13 @@ MVC本来是存在于Desktop程序中的，M是指数据模型，V是指用户�
 * [Model–view–controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 
 # 跨浏览器测试
+
+# 布局
+
+* [如何搭建Web端布局框架？来看滴滴设计团队的超全经验总结！](https://www.uisdc.com/web-layout-frame)
+
+# 开发工具
+
+* [响应式网站设计工具](http://www.coolsite360.com/)
+* [飞冰-海量可复用物料，配套桌面工具极速构建前端应用](https://alibaba.github.io/ice/)
+* [Froont - web design tool](http://froont.com/)
