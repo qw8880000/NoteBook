@@ -21,8 +21,8 @@ abbrlink: 04fd35993e629921
 
 # css 基础教程
 
-* [css - w3school](http://www.w3school.com.cn/css/index.asp)
 * [css - MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
+* [css - w3school](http://www.w3school.com.cn/css/index.asp)
 
 # css 编码规范
 
@@ -100,4 +100,3 @@ css 框架：
 # github 高星css资料汇总：
 
 * [awesome-css](https://github.com/sotayamashita/awesome-css)
-

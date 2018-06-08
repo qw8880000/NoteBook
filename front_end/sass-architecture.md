@@ -19,8 +19,6 @@ sass整体目录分层结构如下所示：
 ```
 /sass
 |
-|-- app.scss
-|
 |-- /vendors
 |
 |-- /helpers
@@ -65,13 +63,15 @@ sass整体目录分层结构如下所示：
 |   |-- login.scss
 |   |-- ...
 |
+|-- /themes
 |
-\-- /themes
+\-- app.scss
+
 ```
 
 # app.scss
 
-首先要注意的是根目录下的`app.scss`，这个文件用来引入各个模块(`/base`,`/components`,'/partials',`/pages`...)，并且用来生成最终的css文件。
+首先要注意的是根目录下的`app.scss`，这个文件用来引入各个模块(`/base`,`/components`,`/partials`,`/pages`...)，并且用来生成最终的css文件。
 
 `app.scss`文件的内容如下所示：
 ```scss
@@ -183,14 +183,14 @@ sass整体目录分层结构如下所示：
 
 # Partials
 
-`/partials` 也是页面的模块，但是它比component要大，通常是一些component的组合，或者是一个较大的模块。比如：
+`/partials` 也是页面的组件，但是概念上它比component要大，通常是一些component的组合，或者是一个较大的模块。比如：
 
 * _header.scss
 * _footer.scss
 * _sidebar.scss
 * _nav.scss
 
-有一些模块看起来即可以放在`/partials`也可以放在`/components`，这个可以根据自己对模块粒度的把握，灵活调整。
+有一些模块看起来即可以放在`/partials`也可以放在`/components`，这个可以根据自己对模块粒度的把握来决定它所在的目录。
 
 # Pages
 

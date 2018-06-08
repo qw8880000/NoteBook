@@ -37,6 +37,7 @@ abbrlink: a4c1a6de8fc9116c
 * [AngularJS Basic HTTP Authentication Example](https://github.com/cornflourblue/angular-authentication-example)
 * [yo angular generator](https://github.com/yeoman/generator-angular)
 * [ngx-admin](https://github.com/akveo/nebular)
+* [springboot+activiti+angular](https://gitee.com/wyy396731037/springboot-activiti)
 
 # 更多阅读
 
@@ -47,6 +48,7 @@ abbrlink: a4c1a6de8fc9116c
 **angular UI**
 
 * [angular ui bootstrap](http://angular-ui.github.io/bootstrap/)
+* [angular-strap](https://github.com/mgcrea/angular-strap)
 * [angular UI](https://angular-ui.github.io/)
 * [SUI Mobile - 阿里巴巴](http://www.angularui.cn/)
 
@@ -63,7 +65,7 @@ abbrlink: a4c1a6de8fc9116c
 * [Cookies vs Tokens. Getting auth right with Angular.JS](https://auth0.com/blog/angularjs-authentication-with-cookies-vs-token/)
 * [AngularJS Basic HTTP Authentication Example](http://jasonwatmore.com/post/2014/05/26/angularjs-basic-http-authentication-example)
 
-** angular directive ** 
+** angular directive **
 
 * [the scope of directive](https://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/)
 
@@ -126,5 +128,4 @@ abbrlink: a4c1a6de8fc9116c
 * 自定义REST服务
     - ngResource
 * 动画
-    - ngAnimate 
-
+    - ngAnimate
