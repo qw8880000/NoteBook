@@ -60,3 +60,7 @@ javascript 注释：
 ## crop image
 
 * [Resizing and Cropping Images with Canvas](https://tympanus.net/codrops/2014/10/30/resizing-cropping-images-canvas/)
+
+## javascript 异步任务
+
+Javascript中的Microtask和Macrotask
