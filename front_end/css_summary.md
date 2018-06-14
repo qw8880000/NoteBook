@@ -32,7 +32,8 @@ abbrlink: 04fd35993e629921
 * [Reasonable System for CSS Stylesheet Structure](http://rscss.io/)
 * [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css)
 
-# css 组织、重用、模式和抽象：
+# css 组织、重用、模式和抽象
+
 * [Atomic OOBEMITSCSS](https://www.sitepoint.com/atomic-oobemitscss/)
 * [BEM](https://en.bem.info/)
 * [SMACCS](https://smacss.com/)
@@ -40,11 +41,13 @@ abbrlink: 04fd35993e629921
 * [mcss](http://operatino.github.io/MCSS/cn/)
 * [ccss](http://sathify.github.io/CCSS/)
 
-# css code style 工具：
+# css code style 工具
+
 * [stylelint](https://stylelint.io/)
 * [csslint](https://github.com/CSSLint/csslint)
 
 # css 预处理
+
 * [sass/scss](http://sass-lang.com/)
 * [compass](http://compass-style.org/)
 * [less](http://lesscss.org/)
@@ -54,17 +57,13 @@ abbrlink: 04fd35993e629921
 
 * [PostCSS](http://postcss.org/)
 
-# css规范
+# css 规范
 
 * [CSS 2.1 specification - 中文](https://github.com/ayqy/CSS2-1)
 * [CSS 2.1 specification](https://www.w3.org/TR/2011/REC-CSS2-20110607/#minitoc)
 * [CSS 2.2 specification](https://www.w3.org/TR/CSS22/)
 
-
 # css 库和框架
-
-css 样式库：
-* [bem-kit](https://mazipan.github.io/bem-kit/):使用BEM标准的CSS库
 
 css 网格系统：
 * [960gs](https://960.gs/)
@@ -94,7 +93,6 @@ css 框架：
 
 * [静态布局、自适应布局、流式布局、响应式布局、弹性布局等的概念和区别](https://www.cnblogs.com/yanayana/p/7066948.html)
 * [The Difference Between Responsive and Adaptive Design](https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/)
-
 * [响应式设计简易指南](https://geekplux.com/grid/)
 
 # github 高星css资料汇总：
