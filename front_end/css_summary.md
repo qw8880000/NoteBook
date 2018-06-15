@@ -76,7 +76,7 @@ css 框架：
 * [bulma](https://bulma.io/)
 * [Blueprint](http://blueprintcss.org/)
 * [OOCSS](http://oocss.org/)
-* [Semantic UI](https://link.zhihu.com/?target=http%3A//semantic-ui.com/)
+* [Semantic UI](https://semantic-ui.com/)
 * [W3.CSS](http://w3schools.wang/w3css/w3css_tutorial.html)
 
 # css 架构文章

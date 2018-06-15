@@ -149,7 +149,29 @@ abbrlink: @@abbrlink
 # Class 命名
 
 * 使用有意义的名称。
-* class 名称中只能出现小写字符和破折号（dashe）（不是下划线，也不是驼峰命名法）。破折号应当用于相关 class 的命名（类似于命名空间）（例如，`.btn` 和 `.btn-danger`）。
+* class 名称中只能出现小写字符和破折号（dashe）。
+* 使用类BEM的命名，但是略有区别：
+
+```css
+/* [BEM](https://en.bem.info/methodology/quick-start/) */
+/*
+ * block
+ * block__element
+ * block__element--modifier
+ */
+.list {...}
+.list__item {...}
+.list__item--active {...}
+
+/* 类BEM */
+/*
+ * object
+ * object--modifier
+ */
+.list {...}
+.list-item {...}
+.list-item--active {...}
+```
 
 # 媒体查询（Media query）的位置
 
