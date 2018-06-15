@@ -162,6 +162,15 @@ abbrlink: @@abbrlink
 .list {...}
 .list__item {...}
 .list__item--active {...}
+
+/* 类BEM */
+/*
+ * object
+ * object--modifier
+ */
+.list {...}
+.list-item {...}
+.list-item--active {...}
 ```
 
 # 媒体查询（Media query）的位置
