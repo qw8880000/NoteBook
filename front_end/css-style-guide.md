@@ -150,7 +150,7 @@ abbrlink: @@abbrlink
 
 * 使用有意义的名称。
 * class 名称中只能出现小写字符和破折号（dashe）。
-* 使用类BEM的命名，但是略有区别：
+* 遵循所使用的css框架的命名规范，或者类BEM的命名：
 
 ```css
 /* [BEM](https://en.bem.info/methodology/quick-start/) */
@@ -162,15 +162,6 @@ abbrlink: @@abbrlink
 .list {...}
 .list__item {...}
 .list__item--active {...}
-
-/* 类BEM */
-/*
- * object
- * object--modifier
- */
-.list {...}
-.list-item {...}
-.list-item--active {...}
 ```
 
 # 媒体查询（Media query）的位置
