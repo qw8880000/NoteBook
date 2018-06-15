@@ -8,7 +8,7 @@ tags:
   - javascript
 abbrlink: 976d321b1396d9fd
 ---
-# 源头资料
+# 参考资料
 
 * [javascript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * 《javascript 高级程序设计》
