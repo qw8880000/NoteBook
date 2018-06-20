@@ -11,7 +11,7 @@ abbrlink: 5fbe9a01866e41f3
 
 * [w3 how to](https://www.w3schools.com/howto/default.asp)
 
-# css 
+# css
 
 input 美化：
 * [css input type=file 样式美化，input上传按钮美化](http://www.haorooms.com/post/css_input_uploadmh)
@@ -95,7 +95,7 @@ form：
 * [angularjs form简单入门](http://www.angularjs.cn/A08j)
 
 插件：
-* [angular-file-upload](https://github.com/nervgh/angular-file-upload) 
+* [angular-file-upload](https://github.com/nervgh/angular-file-upload)
 * [UI-Router for AngularJS (1.x)](https://ui-router.github.io/ng1/)
 
 调试：
@@ -103,7 +103,7 @@ form：
 
 常见问题：
 * angular.element 与 jQuery的关系:  If jQuery is available, angular.element is an alias for the jQuery function. If jQuery is not available, angular.element delegates to AngularJS's built-in subset of jQuery, called "jQuery lite" or jqLite.
-* 如何复写ngClick：[AngularJS - how to override directive ngClick](https://stackoverflow.com/questions/18421732/angularjs-how-to-override-directive-ngclick) 
+* 如何复写ngClick：[AngularJS - how to override directive ngClick](https://stackoverflow.com/questions/18421732/angularjs-how-to-override-directive-ngclick)
 
 # 浏览器
 
@@ -143,3 +143,10 @@ MVC本来是存在于Desktop程序中的，M是指数据模型，V是指用户�
 * [响应式网站设计工具](http://www.coolsite360.com/)
 * [飞冰-海量可复用物料，配套桌面工具极速构建前端应用](https://alibaba.github.io/ice/)
 * [Froont - web design tool](http://froont.com/)
+
+# 响应式
+
+* [picturefill - A RESPONSIVE IMAGE POLYFILL](https://scottjehl.github.io/picturefill/)
+* [Web性能优化：图片优化](http://www.cnblogs.com/wizcabbit/p/web-image-optimization.html)
+* [实战响应式图片](http://efe.baidu.com/blog/responsive-images-in-practice/)
+* [响应式图片 - 学习 Web 开发 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
