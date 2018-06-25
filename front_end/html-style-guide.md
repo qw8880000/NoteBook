@@ -1,12 +1,12 @@
 ---
-title: javascript 学习汇总
+title: html 编码规范
 date: 2018-06-15 13:00:09
 categories:
   - 前端
   - html
 tags:
   - html
-abbrlink: @@abbrlink
+abbrlink: 3a7f06b80c157516
 ---
 
 不管有多少人共同参与同一项目，一定要确保每一行代码都像是同一个人编写的。

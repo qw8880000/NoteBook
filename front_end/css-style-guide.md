@@ -1,12 +1,12 @@
 ---
-title: javascript 学习汇总
+title: css 编码规范
 date: 2018-06-14 15:52:09
 categories:
   - 前端
   - css
 tags:
   - css
-abbrlink: @@abbrlink
+abbrlink: 4c6c65f258ae80c1
 ---
 
 不管有多少人共同参与同一项目，一定要确保每一行代码都像是同一个人编写的。
