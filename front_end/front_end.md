@@ -7,11 +7,17 @@ tags:
   - 前端
 abbrlink: 5fbe9a01866e41f3
 ---
-# html
 
-* [w3 how to](https://www.w3schools.com/howto/default.asp)
+# 编程语言
 
-# css
+* Document_and_website_structure
+* jaskjfalsjdf
+  * tealtkjl
+* jdf jalskj ;
+
+## html
+
+## css
 
 input 美化：
 * [css input type=file 样式美化，input上传按钮美化](http://www.haorooms.com/post/css_input_uploadmh)
@@ -24,7 +30,7 @@ css 居中对齐
 css 可用性查询：
 * [css 可用性查询](http://caniuse.com/)
 
-# javascript
+## javascript
 
 浏览器api：
 * [Web API 接口](https://developer.mozilla.org/zh-CN/docs/Web/API)
@@ -150,3 +156,7 @@ MVC本来是存在于Desktop程序中的，M是指数据模型，V是指用户�
 * [Web性能优化：图片优化](http://www.cnblogs.com/wizcabbit/p/web-image-optimization.html)
 * [实战响应式图片](http://efe.baidu.com/blog/responsive-images-in-practice/)
 * [响应式图片 - 学习 Web 开发 | MDN](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+
+# 移动端开发
+
+* [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)

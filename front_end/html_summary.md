@@ -28,4 +28,4 @@ abbrlink: de080acf81c47aac
 
 # 组件
 
-* [How To](https://www.w3schools.com/howto/default.asp)
+* [w3 how to](https://www.w3schools.com/howto/default.asp)
