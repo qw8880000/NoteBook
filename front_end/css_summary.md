@@ -24,6 +24,13 @@ abbrlink: 04fd35993e629921
 * [css - MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS)
 * [css - w3school](http://www.w3school.com.cn/css/index.asp)
 
+# 进阶
+
+* [视觉格式化模型](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Visual_formatting_model)
+* [可替换元素](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Replaced_element)
+* [块格式化上下文](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Block_formatting_context)
+* [外边距合并](https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing)
+
 # css 编码规范
 
 * [css 指南](https://cssguidelin.es/)
