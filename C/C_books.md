@@ -26,7 +26,7 @@ abbrlink: 3b34e9f03e707cf0
 《系统程序员成长计划》
 -----------------------------
 
-![image](http://oxnimkw03.bkt.clouddn.com/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E5%91%98%E6%88%90%E9%95%BF%E8%AE%A1%E5%88%92.png)
+![image](http://qiniu.wangjinle.com/%E7%B3%BB%E7%BB%9F%E7%A8%8B%E5%BA%8F%E5%91%98%E6%88%90%E9%95%BF%E8%AE%A1%E5%88%92.png)
 
 这本书的作者是李先静老师，这是他编程经验的总结，从事linux开发、嵌入式开发工作的工程师看后应该会有很多共鸣，墙裂推荐！！！
 
@@ -83,7 +83,7 @@ abbrlink: 3b34e9f03e707cf0
 《C陷阱与缺陷》 
 -------------------------
 
-![image](http://oxnimkw03.bkt.clouddn.com/C%E9%99%B7%E9%98%B1%E4%B8%8E%E7%BC%BA%E9%99%B7.png)
+![image](http://qiniu.wangjinle.com/C%E9%99%B7%E9%98%B1%E4%B8%8E%E7%BC%BA%E9%99%B7.png)
 
 非常适合新手C程序员。
 
@@ -101,7 +101,7 @@ abbrlink: 3b34e9f03e707cf0
 《C专家编程》
 -------------------------
 
-![image](http://oxnimkw03.bkt.clouddn.com/C%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B.png)
+![image](http://qiniu.wangjinle.com/C%E4%B8%93%E5%AE%B6%E7%BC%96%E7%A8%8B.png)
 
 它适合有一定经验的C程序员。
 
@@ -125,7 +125,7 @@ abbrlink: 3b34e9f03e707cf0
 《C和指针》
 -------------------------
 
-![image](http://oxnimkw03.bkt.clouddn.com/C%E5%92%8C%E6%8C%87%E9%92%88.png)
+![image](http://qiniu.wangjinle.com/C%E5%92%8C%E6%8C%87%E9%92%88.png)
 
 C语言三部曲：C缺陷与陷阱、C专家编程、C与指针。
 
@@ -155,7 +155,7 @@ C语言三部曲：C缺陷与陷阱、C专家编程、C与指针。
 《C Elements of Style》
 -------------------------
 
-![image](http://oxnimkw03.bkt.clouddn.com/C%E9%A3%8E%E6%A0%BC%E8%A6%81%E7%B4%A0.png)
+![image](http://qiniu.wangjinle.com/C%E9%A3%8E%E6%A0%BC%E8%A6%81%E7%B4%A0.png)
 
 
 C风格要素，把bug扼杀在萌芽中的一本书。

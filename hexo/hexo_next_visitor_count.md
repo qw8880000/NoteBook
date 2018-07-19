@@ -10,7 +10,7 @@ abbrlink: 916d83182e15eeb1
 ---
 
 这里使用的是[不蒜子]提供的阅读统计功能，使用的hexo主题是next。
-![image](http://oxnimkw03.bkt.clouddn.com/20171017172318.png)
+![image](http://qiniu.wangjinle.com/20171017172318.png)
 
 以下是方法。
 
@@ -41,7 +41,7 @@ footer:
 ```
 
 访问量统计的效果：
-![image](http://oxnimkw03.bkt.clouddn.com/20171017165533.png)
+![image](http://qiniu.wangjinle.com/20171017165533.png)
 
 # 不蒜子统计说明
 

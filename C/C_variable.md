@@ -22,7 +22,7 @@ a = 9;      // 2
 * 第2行，表示赋值，把9赋值给变量a。即程序运行时，通过变量a的地址找到存储空间，然后向存储空间中写入9。
 
 这个存储空间可以用下图表示，这里假设编译器分配给a的地址为`C9420`：
-![image](http://oxnimkw03.bkt.clouddn.com/C_variable1.png)
+![image](http://qiniu.wangjinle.com/C_variable1.png)
 
 再来看一组表达式：
 ```c
@@ -38,7 +38,7 @@ b = &a;     // 4
 * 第4行，表示赋值，把a的地址赋值给b。即程序运行时，通过b的地址找到存储空间，然后向存储空间中写入一个数据，这个数据是a的地址。
 
 这个存储空间可以用下图表示，这里假设a的地址为`C9420`，b的地址为`CC004`：
-![image](http://oxnimkw03.bkt.clouddn.com/C_variable3.png)
+![image](http://qiniu.wangjinle.com/C_variable3.png)
 
 通过上面两个例子可以看出来这几个因素与变量有关：
 * 变量的地址

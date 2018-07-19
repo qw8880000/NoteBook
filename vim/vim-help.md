@@ -14,7 +14,7 @@ abbrlink: 439e8400a2ecdfad
 # 查看vim帮助
 
 输入：`:help`，显示的是vim帮助的首页，这里列出了help的目录，有很多主题供你进一步查看。
-![image](http://oxnimkw03.bkt.clouddn.com/vim-help20171101200032.png)
+![image](http://qiniu.wangjinle.com/vim-help20171101200032.png)
 
 光标移动到某个主题或者关键字，按下`ctrl-]`，会进入详细内容，按下`ctrl-t`会回到原来位置。
 

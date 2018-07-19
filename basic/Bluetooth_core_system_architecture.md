@@ -11,7 +11,7 @@ abbrlink: c55b6301bd410d86
 
 蓝牙核心系统由一个 Host，一个Primary Controller 和0个或多个Secondary Controllers组成。
 
-![image](http://oxnimkw03.bkt.clouddn.com/6dc67a1dce48e839916bd974208a7fea20160114142023.gif)
+![image](http://qiniu.wangjinle.com/6dc67a1dce48e839916bd974208a7fea20160114142023.gif)
 
 Link Manager, Link Controller and BR/EDR Radio blocks comprise a **BR/EDR Controller**.  
 An AMP PAL, AMP MAC, and AMP PHY comprise an **AMP Controller**.  

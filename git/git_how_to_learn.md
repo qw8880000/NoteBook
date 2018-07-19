@@ -31,7 +31,7 @@ abbrlink: 808409bee5ab8c2a
 # 技能树
 
 学习完《pro git》，可以得到一个git技能树：
-![image](http://oxnimkw03.bkt.clouddn.com/git_tech_tree_v2.png)
+![image](http://qiniu.wangjinle.com/git_tech_tree_v2.png)
 
 # 学会使用帮助
 

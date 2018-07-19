@@ -14,7 +14,7 @@ hexo默认的文章链接形式为`domain/year/month/day/postname`，当我们�
 步骤为：
 
 1. 文章的`Front-matter`中加入一个`abbrlink` 字段
-![image](http://oxnimkw03.bkt.clouddn.com/20171019120507.png)
+![image](http://qiniu.wangjinle.com/20171019120507.png)
 
 1. 使用[grunt]的插件`grunt-rewrite`自动填充`abbrlink`的值
 编辑 `Gruntfile.js`

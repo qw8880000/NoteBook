@@ -8,4 +8,4 @@ tags:
 abbrlink: be1a4bb528202d05
 ---
 分享一个JAVA学习路线，网上看到的，如有倾权请告知删除：
-![image](http://oxnimkw03.bkt.clouddn.com/0_1272935769KNxA.gif)
+![image](http://qiniu.wangjinle.com/0_1272935769KNxA.gif)

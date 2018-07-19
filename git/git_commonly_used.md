@@ -10,5 +10,5 @@ abbrlink: c2505162134c8f88
 
 git 常用操作。右击可保存。
 
-{% pdf http://oxnimkw03.bkt.clouddn.com/github-git-cheat-sheet.pdf %}
+{% pdf http://qiniu.wangjinle.com/github-git-cheat-sheet.pdf %}
 

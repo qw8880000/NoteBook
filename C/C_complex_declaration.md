@@ -24,7 +24,7 @@ C语言声明的优先级规则：
 - C.    如果const或volatile 关键字的后面紧跟类型说明符（如int,long等），那么它作用于类型说明符。在其他情况下，const和volatile 关键字作用于它左边紧邻的指针星号。
 
 通过上述规则画出一个神奇的声明解析环：
-![image](http://oxnimkw03.bkt.clouddn.com/C_declaration.png)
+![image](http://qiniu.wangjinle.com/C_declaration.png)
 
 # 例子1
 

@@ -13,7 +13,7 @@ abbrlink: cfa679e58e227dbc
 
 ## 效果
 
-![image](http://oxnimkw03.bkt.clouddn.com/20171020113108.png)
+![image](http://qiniu.wangjinle.com/20171020113108.png)
 
 以下是方法
 

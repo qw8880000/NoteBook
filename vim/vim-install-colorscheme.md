@@ -20,11 +20,11 @@ colorscheme molokai
 我喜欢的配色方案：
 
 * molokai.vim
-![image](http://oxnimkw03.bkt.clouddn.com/vim-molokai.png)
+![image](http://qiniu.wangjinle.com/vim-molokai.png)
 * jellybeans.vim
-![image](http://oxnimkw03.bkt.clouddn.com/vim-jellybeans.png)
+![image](http://qiniu.wangjinle.com/vim-jellybeans.png)
 * Tomorrow-Night-Eighties.vim
-![image](http://oxnimkw03.bkt.clouddn.com/vim-Tomorrow-Night-Eighties.png)
+![image](http://qiniu.wangjinle.com/vim-Tomorrow-Night-Eighties.png)
 
 
 更多内容参考：[vim学习汇总](http://blog.wangjinle.com/posts/9a88772f17a949d5.html)

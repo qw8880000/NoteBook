@@ -15,7 +15,7 @@ abbrlink: dd64cc1e4e460861
 # git subtree是什么？为什么使用git subtree
 
 git subtree 可以实现一个仓库作为其他仓库的子仓库。
-![image](http://oxnimkw03.bkt.clouddn.com/BeforeAfterGitSubtreeDiagram.png)
+![image](http://qiniu.wangjinle.com/BeforeAfterGitSubtreeDiagram.png)
 
 使用git subtree 有以下几个原因：
 * 旧版本的git也支持(最老版本可以到 v1.5.2).
@@ -71,10 +71,10 @@ git subtree add --prefix=sub/libpng https://github.com/test/libpng.git master --
 (`--squash`参数表示不拉取历史信息，而只生成一条commit信息。)
 
 执行`git status`可以看到提示新增两条commit：
-![image](http://oxnimkw03.bkt.clouddn.com/git_status.png)
+![image](http://qiniu.wangjinle.com/git_status.png)
 
 `git log`查看详细修改：
-![image](http://oxnimkw03.bkt.clouddn.com/git_log.png)
+![image](http://qiniu.wangjinle.com/git_log.png)
 
 执行`git push`把修改推送到远端photoshop仓库，现在本地仓库与远端仓库的目录结构为：
 ```

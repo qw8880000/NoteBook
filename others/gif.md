@@ -9,7 +9,7 @@ abbrlink: f552dc66b620ce38
 ---
 
 如何制作一个带按键提示的gif图呢？
-![image](http://oxnimkw03.bkt.clouddn.com/bufexplore.gif)
+![image](http://qiniu.wangjinle.com/bufexplore.gif)
 
 需要两个工具，一个录制gif工具，一个显示按键工具。
 

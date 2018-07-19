@@ -25,7 +25,7 @@ master提供时钟和跳频模式的参照标准给slaves去同步。
 一个设备在一个piconet中，又在另一个piconet中，那么这个设备处于**scatternet**。
 蓝牙核心系统没有提供这样的功能，这是由更上层协议实现的。
 
-![image](http://oxnimkw03.bkt.clouddn.com/BR_EDR_topology.gif)
+![image](http://qiniu.wangjinle.com/BR_EDR_topology.gif)
 
 In Figure 4.1 an example topology is shown that demonstrates a number of the
 architectural features described below. Device A is a master in a piconet
@@ -66,7 +66,7 @@ synchronization train from another device.
 
 # LE Topology(LE拓扑)
 
-![image](http://oxnimkw03.bkt.clouddn.com/LE_topology.gif)
+![image](http://qiniu.wangjinle.com/LE_topology.gif)
 
 In Figure 4.2 an example topology is shown that demonstrates a number of the
 LE architectural features described below. Device A is a master in a piconet

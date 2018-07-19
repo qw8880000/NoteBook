@@ -10,6 +10,6 @@ vim居然还有游戏，玩了一下，还行。
 
 链接：http://vim-adventures.com/
 
-![image](http://oxnimkw03.bkt.clouddn.com/20171101183023.png)
+![image](http://qiniu.wangjinle.com/20171101183023.png)
 
 更多内容参考：[vim学习汇总](http://blog.wangjinle.com/posts/9a88772f17a949d5.html)

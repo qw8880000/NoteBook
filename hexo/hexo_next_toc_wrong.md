@@ -10,7 +10,7 @@ abbrlink: aea643f88e8ace5a
 ---
 
 使用hexo的next主题，无意中发现有一篇文章的目录排列出错了，如下效果：
-![image](http://oxnimkw03.bkt.clouddn.com/20171018174529.png)
+![image](http://qiniu.wangjinle.com/20171018174529.png)
 
 
 原因是因为next自带的文章目录解析工具要求标题的排列格式是：
@@ -41,7 +41,7 @@ H2
 ```
 
 从`H2`跳到了`H4`，导致解析出错。原因找到后，修复问题后，正常如下：
-![image](http://oxnimkw03.bkt.clouddn.com/20171018174603.png)
+![image](http://qiniu.wangjinle.com/20171018174603.png)
 
 
 更多内容参考：[hexo博客搭建汇总](http://blog.wangjinle.com/posts/cc468aea3c750228.html)

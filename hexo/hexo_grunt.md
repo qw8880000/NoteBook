@@ -32,7 +32,7 @@ abbrlink: 3b05183235dcc265
 * 新建`raw`目录
 
 完成后，我的hexo博客里的目录结构是这样子的：
-![image](http://oxnimkw03.bkt.clouddn.com/20171105113134.png)
+![image](http://qiniu.wangjinle.com/20171105113134.png)
 
 
 # grunt插件说明
