@@ -10,11 +10,6 @@ abbrlink: 5fbe9a01866e41f3
 
 # 编程语言
 
-* Document_and_website_structure
-* jaskjfalsjdf
-  * tealtkjl
-* jdf jalskj ;
-
 ## html
 
 ## css
@@ -160,3 +155,9 @@ MVC本来是存在于Desktop程序中的，M是指数据模型，V是指用户�
 # 移动端开发
 
 * [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)
+
+# 网站收集
+
+**漂亮的单页应用**
+
+* [ejs](http://ejs.co)

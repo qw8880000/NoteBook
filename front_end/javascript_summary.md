@@ -16,6 +16,8 @@ abbrlink: 976d321b1396d9fd
 * 《javascript DOM编程艺术》
 * 《javascript 权威指南》
 * 《JavaScript设计模式》
+* 《javascript 编程精解》
+* 《javascript patterns》
 
 # 基础教程
 
@@ -47,6 +49,21 @@ javascript 代码风格工具：
 
 javascript 注释：
 * jsDoc
+
+# JavaScript 难点
+
+* this的绑定
+* 原型链
+* 闭包
+* 执行环境，执行流 与 作用域，作用域链（参考：javascript高级程序设计 > 第4章 变量，作用域和内存问题）
+
+理解javascript的执行环境与执行过程就能理解作用域，闭包，this，变量提升等特性。
+
+
+进入上下文阶段??
+
+* [](http://dmitrysoshnikov.com/)
+* [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 
 # 更多
 

@@ -24,3 +24,7 @@ location /i/ {
     root /data/w3;
 }
 ```
+
+# nginx 学习
+
+https://tengine.taobao.org/
