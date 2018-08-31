@@ -102,6 +102,21 @@ css 框架：
 * [The Difference Between Responsive and Adaptive Design](https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/)
 * [响应式设计简易指南](https://geekplux.com/grid/)
 
+# 配色
+
+* [Adobe Color CC - 色轮](https://color.adobe.com/zh/)
+* [Colourco](https://colourco.de/): 调色工具
+* [khroma](http://khroma.co):通过分析你选择的颜色，来生成实用性非常高的调色板的配色工具
+* [Colordot](https://color.hailpixel.com/): 将鼠标光标移动到颜色上方就会立刻显示色码。
+* [Klart Colors](https://klart.co/colors/)
+* [Color Claim](http://www.vanschneider.com/colors)
+* [Colordrop](https://colordrop.io/): 提供各种色彩组合
+* [LOL colors](https://www.webdesignrankings.com/resources/lolcolors/): 列了一些好看的颜色组合
+
+* [materia design](https://www.materialpalette.com/)
+
+
+
 # github 高星css资料汇总：
 
 * [awesome-css](https://github.com/sotayamashita/awesome-css)
