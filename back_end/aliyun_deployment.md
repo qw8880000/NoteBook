@@ -95,7 +95,7 @@ Ruby is best installed either via [RVM](https://rvm.io/).
 markdown wiki [gollum](https://github.com/gollum/gollum).
 
 安装 gollum:
-* 安装ruby 
+* 安装ruby
 * `gem install gollum`
 * 安装git
 
@@ -113,7 +113,7 @@ markdown wiki [gollum](https://github.com/gollum/gollum).
 ```
 sudo update-rc.d   apache2 defaults  
 sudo update-rc.d   nginx defaults  
-sudo update-rc.d   redis_6379 defaults 
+sudo update-rc.d   redis_6379 defaults
 ```
 删除启动项：
 ```
@@ -160,3 +160,13 @@ sudo update-rc.d -f redis_6379 remove
 
 * error: Please reinstall the libcurl distribution
 
+## 安装 jenkins
+
+jenkins 依赖于java环境，需要先安装java：`apt-get install openjdk-7-jre`，然后开始安装 jenkins：
+
+```bash
+wget -q -O - http://pkg.jenkins-ci.org/debian/jenkins-ci.org.key | sudo apt-key add -
+echo deb http://pkg.jenkins-ci.org/debian binary/ > /etc/apt/sources.list.d/jenkins.list
+sudo apt-get update
+sudo apt-get install jenkins
+```
