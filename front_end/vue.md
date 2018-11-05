@@ -18,3 +18,7 @@ ui框架选型所考虑的因素：
 * 是否方便进行定制
 * 易用性如何
 * 稳定性如何
+
+# transition
+
+[Transition to Height Auto With Vue.js](https://markus.oberlehner.net/blog/transition-to-height-auto-with-vue/)
