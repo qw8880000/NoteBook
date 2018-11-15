@@ -43,3 +43,6 @@ abbrlink: 9a88772f17a949d5
 
 * [Google+ vim社群](https://plus.google.com/communities/105049811056605918816)
 
+# vim 学习教程
+
+* [SpaceVim-如何学习 Vim？](https://zhuanlan.zhihu.com/p/34936917)
