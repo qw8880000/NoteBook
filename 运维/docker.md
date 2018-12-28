@@ -9,8 +9,11 @@
 参考教程：[Get Docker EE for Red Hat Enterprise Linux](https://docs.docker.com/install/linux/docker-ee/rhel/#install-from-the-repository)
 
 安装中有个问题，就是提示`container-selinux >= 2.9`，具体解决是：
-* `yum-config-manager --enable rhel-7-server-extras-rpms`
-* YUM中加入 epel 源
+  - 查看系统中是否有基本的yum源，没有的话加入源。（例如：http://mirrors.aliyun.com/repo/Centos-7.repo）
+  - yum中加入 epel 源（例如：`http://mirrors.aliyun.com/repo/epel-7.repo`）
+  - `yum-config-manager --enable rhel-7-server-extras-rpms`
+
+如果执行`yum-config-manager --add-repo "$DOCKERURL/rhel/docker-ee.repo"`失败，可以手动下载这个repo文件，然后放到`/etc/yum.repos.d/` 下面。
 
 # docker 仓库
 
