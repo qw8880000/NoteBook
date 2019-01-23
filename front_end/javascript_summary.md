@@ -15,7 +15,7 @@ abbrlink: 976d321b1396d9fd
 * 《javascript 语言精粹》
 * 《javascript DOM编程艺术》
 * 《javascript 权威指南》
-* 《JavaScript设计模式》
+* 《JavaScript 设计模式》
 * 《javascript 编程精解》
 * 《javascript patterns》
 

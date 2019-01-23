@@ -20,10 +20,17 @@
 # 正则表达式
   - [Python正则表达式操作指南](http://wiki.ubuntu.org.cn/Python%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97)
 
+# 第三方包管理
+  - [pypi.org 查找包的网站](https://pypi.org/)
+  - [pip 包管理工具](https://www.jianshu.com/p/eb46d00fc7ba)
+
 # 其他
 
 ## enumerate
   - [[译]Python的enumerate()函数揭秘](https://vimiix.com/post/2017/12/13/Pythons-enumerate-Function-Demystified/)
+
+## excel 处理
+  - [python excel](http://www.python-excel.org/)
 
 # 参考
   - [python 学习资料合集](https://foofish.net/python-free-ebook.html)

@@ -8,6 +8,10 @@
   - `yum clean all`
   - `yum makecache`
 
+# 常见路径
+  - 配置文件：`/etc/yum.conf`
+  - yum源：`/etc/yum.repos.d`
+
 # 源
   - 阿里云的yum源: `http://mirrors.aliyun.com/repo/`
   - 网易yum源：登陆`http://mirrors.163.com/`，查找适合自己系统的源，然后点击`xx使用帮助`

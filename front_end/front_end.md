@@ -160,7 +160,7 @@ MVC本来是存在于Desktop程序中的，M是指数据模型，V是指用户�
 
 **漂亮的单页应用**
 
-* [ejs](http://ejs.co
+* [ejs](http://ejs.co)
 
 # 跨域
 
@@ -174,7 +174,7 @@ https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS
 
 * [mustache.js](https://github.com/janl/mustache.js/)
 
-轻量度：tpl.js、T.js 
+轻量度：tpl.js、T.js
 认知度：arttemplate、mustache.js、doT.js、handlebars.js、pug
 DOM-tree-based：domTemplate、transparency、plates
 VDOM-based：htmltemplate-vdom、virtual-stache、html-patcher
