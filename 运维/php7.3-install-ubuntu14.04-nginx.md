@@ -8,10 +8,10 @@ nginx不能处理php，而是转给php-fpm去处理。以下介绍php的安装�
 
 # 步骤
 
-1. 下载 [php-7.3.5](https://www.php.net/distributions/php-7.3.5.tar.gz)
-1. `tar -xzvf php-7.3.5.tar.gz`
-1. `cd php-7.3.5`
-1. 编译前配置
+* 下载 [php-7.3.5](https://www.php.net/distributions/php-7.3.5.tar.gz)
+* `tar -xzvf php-7.3.5.tar.gz`
+* `cd php-7.3.5`
+* 编译前配置
 ```
 ./configure --enable-fpm \
 --enable-mysqlnd --with-pdo-mysql=mysqlnd --with-mysqli \
@@ -22,20 +22,20 @@ nginx不能处理php，而是转给php-fpm去处理。以下介绍php的安装�
 --prefix=/usr/local/php7.3.5 --with-config-file-path=/usr/local/php7.3.5/ \
 --disable-fileinfo
 ```
-1. 编译并安装
+* 编译并安装
 ```
 make
 sudo make install
 ```
 
-1. 进行以下配置
+* 进行以下配置
 ```
 cp php.ini-development /usr/local/php7.3.5/php.ini
 cp /usr/local/php7.3.5/etc/php-fpm.d/www.conf.default /usr/local/php7.3.5/etc/php-fpm.d/www.conf
 cp /usr/local/php7.3.5/sbin/php-fpm /usr/local/bin
 ```
 
-1. 修改 php-fpm.d/www.conf 配置文件，确保 php-fpm 模块使用 www-data 用户和 www-data 用户组的身份运行。
+* 修改 php-fpm.d/www.conf 配置文件，确保 php-fpm 模块使用 www-data 用户和 www-data 用户组的身份运行。
 ```
 ; Unix user/group of processes
 ; Note: The user is mandatory. If the group is not set, the default user's group
@@ -44,13 +44,13 @@ user = www-data
 group = www-data
 ```
 
-1. 修改php.ini文件
+* 修改php.ini文件
 ```
 vim /usr/local/php7.3.5/php.ini
 cgi.fix_pathinfo=0
 ```
 
-1. 启动php-fpm
+* 启动php-fpm
 ```
 sudo php-fpm -y /usr/local/php7.3.5/etc/php-fpm.conf -p /usr/local/php7.3.5
 ```

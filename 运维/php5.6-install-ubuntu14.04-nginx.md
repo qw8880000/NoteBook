@@ -7,24 +7,24 @@ nginx不能处理php，而是转给php-fpm去处理。以下介绍php的安装�
 
 # 步骤
 
-1. 首先添加php官方源
+* 首先添加php官方源
 ```
 sudo add-apt-repository ppa:ondrej/php
 ```
 
-1. 更新apt并安装php与php扩展
+* 更新apt并安装php与php扩展
 ```
 sudo apt-get update
 sudo apt-get install php5 php5-mysql php5-curl php5-gd php5-intl php-pear php5-imagick php5-imap php5-mcrypt php5-memcache
 sudo apt-get install php5-fpm
 ```
 
-1. 修改/etc/php5/fpm/php.ini文件
+* 修改/etc/php5/fpm/php.ini文件
 ```
 cgi.fix_pathinfo = 0;
 ```
 
-1. 修改 php-fpm.conf 配置文件，确保 php-fpm 模块使用 www-data 用户和 www-data 用户组的身份运行。
+* 修改 php-fpm.conf 配置文件，确保 php-fpm 模块使用 www-data 用户和 www-data 用户组的身份运行。
 打开配置文件`/etc/php5/fpm/pool.d/www.conf`，修改：
 ```
 ; Unix user/group of processes
@@ -34,12 +34,12 @@ user = www-data
 group = www-data
 ```
 
-1. 启动php-fpm
+* 启动php-fpm
 ```
 service php5-fpm start
 ```
 
-1. 修改nginx配置
+* 修改nginx配置
 打开`/etc/nginx/conf.d/`对应的你的web的配置文件，使其支持PHP请求被传送到后端的 PHP-FPM 模块：
 ```
 location ~ \.php$ {
@@ -52,7 +52,7 @@ location ~ \.php$ {
         }
 ```
 
-1. 重启nginx
+* 重启nginx
 ```
 nginx -s reload
 ```
