@@ -1,15 +1,28 @@
 
-# wordpress安装
+安装环境：
+* ubuntu 14.04
+* php 5.6
+* nginx 1.4.x
+* wordpress 5.0
 
-1. 下载并解压缩WordPress程序安装包
-1. 安装mysql 5.7，并创建数据库与账户
+# 安装简介
+
+安装wordpress可直接查看[wordpress安装指南-官方](https://codex.wordpress.org/zh-cn:%E5%AE%89%E8%A3%85_WordPress)，这里只是记录我在ubuntu 14.04上的安装过程，作为备忘。
+
+# 安装
+
+* 安装mysql 5.7，参考[mysql 5.7在ubuntu 14.04上的安装](http://blog.wangjinle.com/?p=1487&preview=true)
+
+* 创建WordPress数据库和一个用户
 ```
 CREATE DATABASE wordpress;
 GRANT ALL PRIVILEGES ON wordpress.* TO 'username'@'host' IDENTIFIED BY 'password';
 FLUSH PRIVILEGES;
 ```
-1. 重命名 wp-config-sample.php 文件为 wp-config.php
-1. 设置wp-config.php文件，输入数据库信息
+
+* 下载并解压缩WordPress程序安装包
+* 重命名 wp-config-sample.php 文件为 wp-config.php
+* 设置wp-config.php文件，输入数据库信息
 ```
 DB_NAME=wordpress
 DB_USER=username
@@ -17,7 +30,8 @@ DB_PASSWORD=password
 DB_HOST=localhost
 ```
 
-1. nginx 配置 修改 nginx 配置nginx/conf.d/wordpress.conf
+* 安装nginx
+* nginx 配置 修改 nginx 配置nginx/conf.d/wordpress.conf
 ```
 location ~ \.php$ {
                 fastcgi_split_path_info ^(.+\.php)(/.+)$;
@@ -39,19 +53,7 @@ location ~ \.php$ {
         }
 ```
 
-1. 访问wordpress安装页面：http://example.com/wp-admin/install.php
-
-
-您的PHP似乎没有安装运行WordPress所必需的MySQL扩展。
-https://my.oschina.net/u/1266171/blog/778939
-
-# 插件
-
-* WP Editor.md：WP Editor.MD is a beautiful and practical Markdown document editor.
-* Markdown Github：A plugin to inject markdown files directly into a post from Github.
-* WP Githuber MD:WordPress Markdown Editor
-* Mytory Markdown: The plugin get markdown file URL like github raw content url. It convert markdown file to html, and put it to post content.
-
+* 访问wordpress安装页面：http://example.com/wp-admin/install.php
 
 # 问题
 
