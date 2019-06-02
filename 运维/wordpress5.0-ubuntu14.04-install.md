@@ -20,6 +20,8 @@ GRANT ALL PRIVILEGES ON wordpress.* TO 'username'@'host' IDENTIFIED BY 'password
 FLUSH PRIVILEGES;
 ```
 
+* 安装php5.6，参考[ubuntu 14.04 nginx 1.4.x环境安装php5.6](http://blog.wangjinle.com/article/php5-6-install-ubuntu14-04-nginx.html)
+
 * 下载并解压缩WordPress程序安装包
 * 重命名 wp-config-sample.php 文件为 wp-config.php
 * 设置wp-config.php文件，输入数据库信息

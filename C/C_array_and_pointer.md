@@ -7,6 +7,7 @@ tags:
   - c语言
 abbrlink: 15eba75861fd8959
 ---
+
 # 数组
 
 `int a[10]`中的a是数组名，它指向数组中的第一个元素。但是当其做为`sizeof`的操作数，或者使用`&`取地址的时候，要把`a`作为整个数组来考虑。
@@ -44,7 +45,3 @@ int main(int argc, char* argv[])
 }
 ```
 上述例子中的`sizeof(a)`为4，因为数组当函数参数时，退化成指针，所以`sizeof(a)`其实是`sizeof(int*)`。
-
-# 更多
-
-* [C语言汇总](http://blog.wangjinle.com/posts/53291f7288071263.html)
