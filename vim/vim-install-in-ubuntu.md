@@ -8,7 +8,7 @@ tags:
 abbrlink: 05b923573fb51f7a
 ---
 
-linux下安装vim常见的步骤。
+记录一下在ubuntu上编译安装vim的步骤。
 
 # 删除旧版本vim
 ```sh
@@ -21,7 +21,7 @@ sudo apt-get remove vim-gui-common
 ```
 # 下载源码
 
--   [vim-7.4.tar.bz2](ftp://ftp.vim.org/pub/vim/unix/vim-7.4.tar.bz2)
+- [vim-7.4.tar.bz2](ftp://ftp.vim.org/pub/vim/unix/vim-7.4.tar.bz2)
 
 # 编译前的配置
 
@@ -76,18 +76,6 @@ sudo update-alternatives --install /usr/bin/vi vi /usr/bin/vim 1
 sudo update-alternatives --set vi /usr/bin/vim
 ```
 
-# 更换配色方案
-
-参考: [vim设置配色主题](http://blog.wangjinle.com/posts/207a3e1fac90dec3.html)
-
-# 安装vundle插件
-
-参考: [vim第一个要安装的插件 - vundle](http://blog.wangjinle.com/posts/5faad70a8691ab64.html)
-
-# 安装中文帮助
-
-参考: [vim安装中文帮助](http://blog.wangjinle.com/posts/0d1f184e23815ff1.html)
-
 # 安装ctags cscope
 
 ```sh
@@ -97,14 +85,11 @@ sudo apt-get install cscope
 
 # 常见问题
 
-### no terminal library found
+* no terminal library found
 
 `sudo apt-get install libncurses5-dev`
 
-### configure: error: no acceptable C compiler found in $PATH
+* configure: error: no acceptable C compiler found in $PATH
 
 `sudo apt-get install gcc`
 
-# 更多
-
-更多内容参考：[vim学习汇总](http://blog.wangjinle.com/posts/9a88772f17a949d5.html)
