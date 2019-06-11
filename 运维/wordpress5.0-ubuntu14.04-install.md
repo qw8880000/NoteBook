@@ -15,8 +15,16 @@
 
 * 创建WordPress数据库和一个用户
 ```
+# 创建一个数据库，名叫wordpress
 CREATE DATABASE wordpress;
-GRANT ALL PRIVILEGES ON wordpress.* TO 'username'@'host' IDENTIFIED BY 'password';
+
+# 权限分配给对应用户，如果用户不存在会自动创建
+#   - wordpress.*: 表示wordpress库下的所有表
+#   - username: 用户名，随便填
+#   - password: 用户密码
+GRANT ALL PRIVILEGES ON wordpress.* TO 'username'@'%' IDENTIFIED BY 'password';
+
+# 刷新配置
 FLUSH PRIVILEGES;
 ```
 
