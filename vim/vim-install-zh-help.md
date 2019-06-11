@@ -10,8 +10,6 @@ abbrlink: 0d1f184e23815ff1
 
 # linux 下 安装中文帮助
 
-对于不爱看英文文档的同学，一份中文帮助也许对你有用。
-
 1. 下载vimcdoc安装包
     `wget http://sourceforge.net/projects/vimcdoc/files/vimcdoc/1.8.0/vimcdoc-1.8.0.tar.gz`
 
@@ -31,5 +29,3 @@ NOTE: 使用-i选项的话，缺省同时安装 vimcdoc.vim 全局插件，该�
 # windows 下安装中文帮助
 
 到[vimdoc](http://vimcdoc.sourceforge.net/) 下直接下载安装程序并安装。
-
-更多内容参考：[vim学习汇总](http://blog.wangjinle.com/posts/9a88772f17a949d5.html)

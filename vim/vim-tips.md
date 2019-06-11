@@ -1,12 +1,4 @@
----
-title: vim的一些操作
-date: 2017-11-01 17:59:09
-categories:
-    - vim
-tags:
-    - vim
-abbrlink: f050a46bc0f94f8c
----
+vim的一些小技巧
 
 # 分割窗口
 
@@ -35,9 +27,9 @@ abbrlink: f050a46bc0f94f8c
 
 `<C-R><C-W>`
 
-# vimscript - vim编程语言
+# vimscript
 
-查看帮助：`:help vim-script-intro`
+查看vim编程语言的帮助：`:help vim-script-intro`
 
 # 查看vimrc路径
 
@@ -46,7 +38,6 @@ abbrlink: f050a46bc0f94f8c
 # 查看vim打开时的加载时间
 
 `vim --startuptime timefile the_file_you_want_to_edit`
-
 
 # vim 格式化代码
 
@@ -68,6 +59,3 @@ abbrlink: f050a46bc0f94f8c
 
 按`1` 然后 `ctrl + g`
 
-# 更多
-
-更多内容参考：[vim学习汇总](http://blog.wangjinle.com/posts/9a88772f17a949d5.html)
