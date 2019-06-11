@@ -32,7 +32,6 @@ w # 表示一个单词word
 s # 表示一个句子sentence
 p # 表示一个段落paragraph
 t # 表示一个 HTML 标签tag
-引号或者各种括号所包含的文本称作一个文本块。
 ```
 
 ## 介词
@@ -93,6 +92,3 @@ dtx # 删除文本直到字符“x”（不包括字符“x”）: delete to x
 dfx # 删除文本直到字符“x”（包括字符“x”）: delete forward x
 ```
 
-## 更多
-
-更多内容参考：[vim学习汇总](http://blog.wangjinle.com/posts/9a88772f17a949d5.html)

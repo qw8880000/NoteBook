@@ -1,5 +1,5 @@
 ---
-title: vim终极配置
+title: 我的vim配置
 date: 2017-10-30 21:35:25
 categories:
     - vim
@@ -9,8 +9,7 @@ tags:
 abbrlink: 00e87c3d0f40340b
 ---
 
-这是我的vim配置：[my vim config](https://github.com/qw8880000/vim_config).
-linux 下的vim 与 windows 下的gvim 通用。
+这是我以前的vim配置：[my vim config](https://github.com/qw8880000/vim_config)，linux下的vim与windows下的gvim通用（不过后来发现了spacevim已经集成了常用配置，后面都直接使用spacevim了）。
 
 # 适用范围
 
@@ -129,5 +128,4 @@ linux 下的vim 与 windows 下的gvim 通用。
 
 # 更多
 
-* [vim学习汇总](http://blog.wangjinle.com/posts/9a88772f17a949d5.html)
-* [其他配置参考](https://github.com/VundleVim/Vundle.vim/wiki/Examples)
+* [vim配置示例 - github](https://github.com/VundleVim/Vundle.vim/wiki/Examples)
