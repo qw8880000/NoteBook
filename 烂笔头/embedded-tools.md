@@ -1,12 +1,3 @@
----
-title: 嵌入式开发常用工具(windows)
-date: 2017-11-07 21:12:43
-categories:
-  - 其他
-tags:
-  - 开发工具
-abbrlink: e6ced5f591a44189
----
 
 到今年已经做嵌入式开发4个年头，以下是windows系统下进行嵌入式开发常用到的工具，都是比较经典的工具，在此做个记录。
 
@@ -30,7 +21,7 @@ Total Commander 是一款应用于 Windows 平台的文件管理器 ，它包含
 ![image](http://qiniu.wangjinle.com/total_commander.png)
 
 
-# 网络抓包软件 
+# 网络抓包软件
 
 ## wireshark
 
