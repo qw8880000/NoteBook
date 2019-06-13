@@ -1,16 +1,5 @@
----
-title: 有趣的ASCII-Art
-date: 2017-10-16 14:39:25
-categories:
-  - 其他
-tags:
-  - ascii art
-abbrlink: d73feb704e1070e4
----
 
-ascii-art(文本艺术): 使用可显示的ASCII字符组成的图形。
-
-# 在线ascii art工具
+ascii-art(文本艺术): 使用可显示的ASCII字符组成的图形。以下是一些在线ascii art工具。
 
 ## chris
 
@@ -133,7 +122,7 @@ example:  just for test
     ((  / / ((___( ( //   ) )  / /        //   ((___/ / //          / /   ((____   //   ) )  / /      
 ```
 
-# 更多
+## 更多
 
 - [如何制作纯 ASCII 文本流程图](https://www.digglife.net/articles/ascii-flowchart-how-to.html)
 - [linux boxes](http://blog.wangjinle.com/posts/18c5bfc5095b8fb8.html)
