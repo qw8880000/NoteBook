@@ -1,5 +1,5 @@
 ---
-title: linux下安装vim
+title: ubuntu下安装vim
 date: 2017-10-31 09:13:18
 categories:
     - vim
@@ -27,20 +27,20 @@ sudo apt-get remove vim-gui-common
 
 解压源码，进入对应目录，执行以下配置。
 ```sh
-    ./configure \
-    --with-features=huge \
-    --enable-pythoninterp --enable-perlinterp \
-    --enable-rubyinterp --enable-luainterp \
-    --enable-multibyte --enable-fontset \
-    --with-features=huge \
-    --enable-pythoninterp \
-    --enable-perlinterp \
-    --enable-rubyinterp \
-    --enable-luainterp \
-    --enable-multibyte \
-    --enable-sniff \
-    --enable-gui=gtk2 \
-    --enable-cscope
+./configure \
+--with-features=huge \
+--enable-pythoninterp --enable-perlinterp \
+--enable-rubyinterp --enable-luainterp \
+--enable-multibyte --enable-fontset \
+--with-features=huge \
+--enable-pythoninterp \
+--enable-perlinterp \
+--enable-rubyinterp \
+--enable-luainterp \
+--enable-multibyte \
+--enable-sniff \
+--enable-gui=gtk2 \
+--enable-cscope
 ```
 
 其中参数说明如下：

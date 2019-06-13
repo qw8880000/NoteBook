@@ -7,3 +7,8 @@ show variables like '%max_connections%';
 # 修改密码
 
  alter user 'root'@'localhost' identified by '123';
+
+# 查看用户权限
+
+* `show grants for user`
+* `select * from mysql.user where user = 'user'`
