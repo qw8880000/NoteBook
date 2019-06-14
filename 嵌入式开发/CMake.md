@@ -1,11 +1,11 @@
 
 ## CMake 简介
 
-CMake 是一个跨平台的自动化建构系统,它使用一个名为 CMakeLists.txt 的文件来描述构建过程,可以产生标准的构建文件,如 Unix 的 Makefile 或Windows Visual C++ 的 projects/workspaces 。
+CMake 是一个跨平台的自动化建构系统，它使用一个名为 CMakeLists.txt 的文件来描述构建过程，可以产生标准的构建文件，如 Unix 的 Makefile 或Windows Visual C++ 的 projects/workspaces 。
 
 文件 CMakeLists.txt 需要手工编写,也可以通过编写脚本进行半自动的生成。
 
-CMake 是一个比 automake 更加容易使用的工具，提供了比 autoconfig 更简洁的语法
+CMake 是一个比 automake 更加容易使用的工具，提供了比 autoconf 更简洁的语法。
 
 ## CMake 用法
 
