@@ -1,5 +1,5 @@
 
-## 在Ubuntu下编译FTK
+## 编译步骤
 
 - ./autogen.sh
 - ./configure --with-backend=linux-x11:320x480 --enable-opengles=no
