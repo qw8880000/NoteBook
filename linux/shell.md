@@ -1,6 +1,8 @@
 
 # 学习资料
+
   - [高级Bash脚本编程指南](http://www.linuxplus.org/kb/special-chars.html)
+  - [快乐的linux命令行](http://billie66.github.io/TLCL/index.html)
 
 # 如何在命令行中快速移动
 
