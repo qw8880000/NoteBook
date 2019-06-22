@@ -16,13 +16,6 @@
 * I/O接口
 * 输入输出设备
 
-![image](http://wjyl.csxupt.com/wjyl/OnlineClass/image/1.4_clip_image0019.gif)
-
-## 微处理器
-
-![image](http://wjyl.csxupt.com/wjyl/OnlineClass/image/1.4_clip_image005.gif)
-
-
 ## 参考
 
 * [百度脑图-微机系统](http://naotu.baidu.com/file/eaad99d2796022fc2b950cadcd87ad05?token=e861eb6dd71ca309)
