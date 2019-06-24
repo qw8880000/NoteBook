@@ -1,15 +1,5 @@
----
-title: 常见的命名规则 | C语言
-date: 2018-01-24 18:54:52
-categories:
-  - c语言
-tags:
-  - c语言
-abbrlink: fe88cd4e2d75f18b
----
-
 # unix like  
-单词用小写字母，每个单词直接用下划线"_"分割，例如`text_mutex`，`kernel_text_address`。
+单词用小写字母，每个单词直接用下划线分割，例如`text_mutex`，`kernel_text_address`。
 # Windows风格(大驼峰法)   
 大小写字母混用，单词连在一起，每个单词首字母大写，如`OpenFile`，`MaxValue`。
 # 小驼峰法  

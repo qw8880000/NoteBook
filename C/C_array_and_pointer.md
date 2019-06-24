@@ -1,12 +1,3 @@
----
-title: 数组 | C语言
-date: 2018-01-16 14:51:11
-categories:
-  - c语言
-tags:
-  - c语言
-abbrlink: 15eba75861fd8959
----
 
 # 数组
 

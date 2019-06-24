@@ -1,12 +1,3 @@
----
-title: 变量的地址与变量的值 | C语言
-date: 2018-01-15 20:24:26
-categories:
-  - c语言
-tags:
-  - c语言
-abbrlink: 832335dcdefc4d10
----
 
 # 变量的定义与赋值
 
@@ -79,6 +70,3 @@ struct test {
 ```
 `sizeof(struct test)`的结果可能是8而不是5，这里涉及到字节对齐。
 
-# 更多
-
-* [C语言汇总](http://blog.wangjinle.com/posts/53291f7288071263.html)
