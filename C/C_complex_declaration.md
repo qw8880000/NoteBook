@@ -1,13 +1,3 @@
----
-title: 复杂声明 | C语言
-date: 2018-01-11 12:34:11
-categories:
-  - c语言
-tags: 
-  - c语言
-abbrlink: aa2a2a8468f22a50
----
-
 今天看了《C专家编程》里的'分析C语言的声明'一章，终于懂了C语言的复杂声明是怎么解析的。虽然在平时写代码的时候用到复杂声明的情况几乎没有，这里还是做一个记录，也是加深对C语言声明的理解。
 
 # 声明的优先级规则
@@ -90,5 +80,4 @@ ptr_to_func signal(int, ptr_to_func);
 
 - 《C专家编程》
 - C语言复杂声明的解析器：[cdecl](https://cdecl.org/)
-- [C语言汇总](http://blog.wangjinle.com/posts/53291f7288071263.html)
 

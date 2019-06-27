@@ -1,13 +1,3 @@
----
-title: git subtree教程
-date: 2017-11-14 09:47:02
-categories:
-  - git
-tags:
-  - git
-  - git subtree
-abbrlink: dd64cc1e4e460861
----
 
 关于子仓库或者说是仓库共用，git官方推荐的工具是git subtree。 我自己也用了一段时间的git subtree，感觉比git submodule好用，但是也有一些缺点，在可接受的范围内。
 所以对于仓库共用，在git subtree 与 git submodule之中选择的话，我推荐git subtree。
@@ -128,6 +118,5 @@ git subtree push --prefix=sub/libpng libpng master
 
 # 更多
 
-* [git 学习汇总](http://blog.wangjinle.com/posts/fd56adc47e2516b6.html)
 * [Git subtree: the alternative to Git submodule](https://www.atlassian.com/blog/git/alternatives-to-git-submodule-git-subtree)
 * [The power of Git subtree](https://legacy-developer.atlassian.com/blog/2015/05/the-power-of-git-subtree/)

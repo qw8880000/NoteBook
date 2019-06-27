@@ -1,17 +1,7 @@
----
-title: git 不常用操作
-date: 2017-11-14 10:41:04
-categories:
-  - git
-tags:
-  - git
-abbrlink: 17ec4c6ceea10eeb
----
-
 # 把其他分支的某个提交合并到当前分支
 
 ```sh
-    git cherry-pick <commit id>
+git cherry-pick <commit id>
 ```
 
 # 部分克隆
@@ -37,7 +27,8 @@ git clone --depth=14 https://github.com/angular/angular-phonecat.git
 
 使用命令： ` git remote set-url <name> <url> `。例如：`git remote set-url origin git@github.com:qw8880000/neosnippet-snippets.git`
 
+# git status 中文乱码
 
-# 更多
-
-* [git 学习汇总](http://blog.wangjinle.com/posts/fd56adc47e2516b6.html)
+```
+git config --global core.quotepath false
+```

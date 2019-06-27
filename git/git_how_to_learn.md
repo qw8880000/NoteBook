@@ -1,13 +1,3 @@
----
-title: 我是如何学习git
-date: 2017-11-08 18:04:02
-categories:
-  - git
-tags:
-  - git
-abbrlink: 808409bee5ab8c2a
----
-
 一开始学习git的时候，网上的git教程很多，看得人眼花缭乱，不知道如何下手。现在对git已经很熟悉了，回过头来总结一下学习方法。
 
 一般官方文档是最全面，但是不一定适合快速上手。我们可以学习一些快速上手的教程，这些教程没有官方文档那么全面，但是可以学习到最常用的操作，适合入门。
@@ -17,6 +7,7 @@ abbrlink: 808409bee5ab8c2a
 # 入门
 
 入门教程推荐：
+
 * [廖雪峰的git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 * [git教程-易百](http://www.yiibai.com/git/)
 
@@ -51,6 +42,5 @@ $ git help config
 
 # 更多
 
-* [git 学习汇总](http://blog.wangjinle.com/posts/fd56adc47e2516b6.html)
 * git游戏:[Learn Git Branching](http://pcottle.github.io/learnGitBranching/)。
 

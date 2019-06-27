@@ -1,5 +1,5 @@
 
-## 微型计算机
+## 微型计算机体系结构
 
 从计算机体系结构的观点来看，计算机由五大部件组成：
 * 运算器
@@ -15,13 +15,6 @@
 * 存储器
 * I/O接口
 * 输入输出设备
-
-![image](http://wjyl.csxupt.com/wjyl/OnlineClass/image/1.4_clip_image0019.gif)
-
-### 微处理器
-
-![image](http://wjyl.csxupt.com/wjyl/OnlineClass/image/1.4_clip_image005.gif)
-
 
 ## 参考
 
