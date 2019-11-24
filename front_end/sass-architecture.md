@@ -38,10 +38,11 @@ sass整体目录分层结构如下所示：
 |       \-- _pages.scss
 |
 |
-|-- /base
+|-- /elements
 |   |-- _reset.scss
-|   |-- _base.scss
-|   \-- _utilities.scss
+|   |-- _elements.scss
+|   |-- _table.scss
+|   \-- _list.scss
 |
 |
 |-- /components
@@ -65,13 +66,14 @@ sass整体目录分层结构如下所示：
 |
 |-- /themes
 |
+|-- _utilities.scss
 \-- app.scss
 
 ```
 
 # app.scss
 
-首先要注意的是根目录下的`app.scss`，这个文件用来引入各个模块(`/base`,`/components`,`/partials`,`/pages`...)，并且用来生成最终的css文件。
+首先要注意的是根目录下的`app.scss`，这个文件用来引入各个模块(`/elements`,`/components`,`/partials`,`/pages`...)，并且用来生成最终的css文件。
 
 `app.scss`文件的内容如下所示：
 ```scss
@@ -96,11 +98,11 @@ sass整体目录分层结构如下所示：
 ...
 
 /* ==================================
- * Base
+ * Elements
  * ================================== */
-@import "base/_reset.scss";
-@import "base/_base.scss";
-@import "base/_utilities.scss";
+@import "elements/_reset.scss";
+@import "elements/_elements.scss";
+@import "elements/_list.scss";
 
 /* ==================================
  * Components
@@ -158,19 +160,16 @@ sass整体目录分层结构如下所示：
   - _pages.scss
   - ...
 
-# Base
+# Elements
 
-`/base` 目录有以下三个文件：
+`/elements` 目录有以下三个文件：
 
 * _reset.scss
-* _base.scss
+* _elements.scss
 * _utilities.scss
 
 `_reset.scss`存放浏览器重置样式；
-
-`_base.scss`存放常用html元素的样式，如`h1, h2, h3, h4, h5, body, ul`等；
-
-`_utilities.scss`用来存放一些重用度很高，粒度很小的工具型样式，如`.d-block { display: block; }`，`.text-center { text-align: center; }`等。
+`_elements.scss`存放常用html元素的样式，如`h1, h2, h3, h4, h5, body, ul`等；
 
 # Components
 
@@ -203,6 +202,10 @@ sass整体目录分层结构如下所示：
 `/themes` 目录存放主题样式控制代码，适合有多个主题的网页。比如：
 * _dark-theme.scss
 * _light-theme.scss
+
+# _utilities.scss
+
+`_utilities.scss`用来存放一些重用度很高，粒度很小的工具型样式，如`.d-block { display: block; }`，`.text-center { text-align: center; }`等。
 
 # 例子
 
