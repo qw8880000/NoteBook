@@ -1,3 +1,8 @@
+
+sky walking
+
+CMDB: Configuration Management Database
+
 CMDB分两类：
   * 面向基础设施的CMDB
   * 面向业务应用关系的CMDB
@@ -37,3 +42,6 @@ CMDBuild
   http://www.cmdbuild.org/en
 
   CMDB 开源项目：https://zhuanlan.zhihu.com/p/28669544
+
+
+企业建CMDB为何经常失败：https://mp.weixin.qq.com/s/EOj1e8b2IyMNlqhH4CXu4w

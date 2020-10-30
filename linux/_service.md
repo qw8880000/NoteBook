@@ -46,5 +46,9 @@ systemctl命令是系统服务管理器指令，主要负责控制systemd系统�
 
 CentOS 7.x开始，CentOS开始使用systemd服务来代替daemon，原来管理系统启动和管理系统服务的相关命令全部由systemctl命令来代替。
 
+## 如何编写service文件
+
+http://www.jinbuguo.com/systemd/systemd.service.html#
+http://www.jinbuguo.com/systemd/systemd.unit.html
 
 参考：[linux命令学习之:systemctl - kosamino - 博客园](https://www.cnblogs.com/jing99/p/7895860.html)
