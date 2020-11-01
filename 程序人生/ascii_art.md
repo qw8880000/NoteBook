@@ -1,5 +1,6 @@
+ascii-art(文本艺术): 使用可显示的ASCII字符组成的图形。
 
-ascii-art(文本艺术): 使用可显示的ASCII字符组成的图形。以下是一些在线ascii art工具。
+以下是一些在线ascii art工具。
 
 ## chris
 
