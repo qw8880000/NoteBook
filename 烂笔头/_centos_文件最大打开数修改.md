@@ -15,10 +15,6 @@ DefaultLimitNOFILE=100000
 DefaultLimitNPROC=100000
 ```
 
-vi /etc/security/limits.d/90-nproc.conf
-* soft nofile 65536
-* hard nofile 131072
-* soft nproc 2048
-* hard nproc 4096 
+
 
 https://www.cnblogs.com/chris-cp/p/6667753.html
