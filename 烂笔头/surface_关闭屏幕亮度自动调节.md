@@ -9,3 +9,7 @@
 * 安装驱动后有一个显卡控制面板，把显示器节能技术禁用即可
 
 ![image](http://qiniu.wangjinle.com/surface_%E5%85%B3%E9%97%AD%E5%B1%8F%E5%B9%95%E4%BA%AE%E5%BA%A6%E8%87%AA%E5%8A%A8%E8%B0%83%E8%8A%82.png)
+
+或者
+
+![image-20210113132608381](http://qiniu.wangjinle.com/image-20210113132608381.png)
