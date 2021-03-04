@@ -381,3 +381,8 @@ where a.table_type='TABLE' and a.owner='ITSM_XYZQ' order by a.table_name;
 select SUBSTR(SVCOPNAME,1,INSTR(SVCOPNAME,'-',1,1)-1) AS server,SUBSTR(SVCOPNAME,INSTR(SVCOPNAME,'-',1,1)+2) AS oper,ALLOWEDUSERS from ESB_ACL t;
 ```
 
+## 查看某个表授权给哪些用户
+
+SELECT * FROM user_tab_privs t 
+where t.TABLE_NAME=upper('表名'); 
+
