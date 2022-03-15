@@ -28,3 +28,4 @@ location /i/ {
 # nginx 学习
 
 https://tengine.taobao.org/
+location说明：https://www.cnblogs.com/lidabo/p/4169396.html
