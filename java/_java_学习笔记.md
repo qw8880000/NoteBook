@@ -53,11 +53,41 @@ Java 不支持`c/c++`中的Goto 语句，而是通过异常处理语句try、cat
 1. 源文件名：源文件名必须和类名相同。当保存文件的时候，你应该使用类名作为文件名保存（切记Java是大小写敏感的），文件名的后缀为.java。 （如果文件名和类名不相同则会导致编译错误）。
 1. 主方法入口：所有的Java 程序由`public static void main(String []args)`方法开始执行。
 
-# 参考资料
+# 学习材料
 
--   java程序设计 
+-   [廖雪峰的java教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
 -   java基础教程
 
 # 学习心得
 看了<head firt java>的‘继承与多态’ 和 ‘接口与抽象类’ 2章，比较好的一点是讲解了继承的作用，多态的作用，接口的作用，这样就明白了为什么需要他们。
 <java基础教程> 就比较偏语法书，而且没有讲泛型。
+
+
+## 编译时如果有外部依赖如何处理
+
+使用 -classpath参数指定依赖的位置。
+
+注意，一个类的完整名字是"package.class"。当javac程序在编译的时候，在解析 import 语句的时候，会把package.class 中的package作为相对路径，结合 classpath 路径去找到对应的类。
+比如，指定classpath为 c:/java，然后import语句为 `import com.itranswarp.world.Person;`, 那么java编译器会到 `c:/java/com/itranswarp/world`目录下去查找Person.class类
+
+## 运行进如果有外部依赖如何处理
+
+使用 -classpath参数指定依赖的位置
+
+## html 转 pdf
+
+WKHTMLTOPDF  https://wkhtmltopdf.org/
+
+## selenium-Google驱动下载
+
+selenium-Google驱动下载 http://chromedriver.storage.googleapis.com/index.html
+
+## java 爬虫
+webmagic 很好上手
+- [webmagic.io](http://webmagic.io/docs/zh/)
+
+## SLF4J 日志系统
+
+- [SLF4J 日志系统](http://www.51gjie.com/javaweb/1123.html)
+- log4j 配置说明 https://www.cnblogs.com/TheGCC/p/14552073.html
+- [log4j 详细讲解（不能再详细了）] https://blog.csdn.net/u012422446/article/details/51199724
