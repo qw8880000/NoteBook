@@ -3,6 +3,8 @@
 
 这里记录一下，我的电脑是surface 5，显卡是inter graphics 620。
 
+# 方法一
+
 解决方法：
 
 * 到inter官网下载官方驱动
@@ -13,3 +15,9 @@
 或者
 
 ![image-20210113132608381](http://qiniu.wangjinle.com/image-20210113132608381.png)
+
+# 方法二
+
+打开注册表编辑器，打开如下路径：
+计算\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class{4d36e968-e325-11ce-bfc1-08002be10318}\0001
+打开图中FeatureTestControl注册表，修改数值9240为9250，如果是200改为210
