@@ -5,46 +5,6 @@
 
 但是，不同的硬件上需要对应的JVM虚拟机。也就是java是跨平台，而JVM是与硬件相关。
 
-# java 对比 C/C++
-
-## 全局变量
-
-Java 程序中，不能在所有类之外定义全局变量，只能通过在一个类中定义公用、静态的变量来实现一个全局变量。Java 对全局变量进行了更好的封装。而在C 和C++中，依赖于不加封装的全局变量常常会造成系统的崩溃。
-
-## Goto 语句
-
-Java 不支持`c/c++`中的Goto 语句，而是通过异常处理语句try、catch、finally 等来代替`c/c++`中用Goto 来处理遇到错误时跳转的情况，使程序更可读且更结构化。
-
-## 指针
-
-指针是 `c/c++`中最灵活，也是最容易产生错误的数据类型。由指针所进行的内存地址操作常会造成不可预知的错误，同时通过指针对某个内存地址进行显示类型转换后，可以访问一个C++中的私有成员，从而破坏了安全性，造成系统的崩溃。
-而Java 对指针进行完全的控制，程序员不能直接进行任何指针操作，例如，把整数转化为指针，或者通过指针释放某一内存地址等。同时，数组作为类在Java 中实现，很好地解决了数组访问越界这一在`c/c++`中不做检查的错误。
-
-## 内存管理
-
-在 C 中，程序员通过库函数`malloc( )`和`free( )`来分配和释放内存，`C++`中则通过运算符new 和delete 来分配和释放内存。再次释放已释放的内存块或未被分配的内存块，会造成系统的崩溃；同样，忘记释放不再使用的内存块也会逐渐耗尽系统资源。
-而在Java 中，所有的数据结构都是对象，通过运算符new 为它们分配内存。通过 new 得到对象的处理权，而实际分配给对象的内存可能随程序运行而改变，Java 对此自动地进行管理并且进行垃圾收集，有效地防止了由于程序员的误操作而导致的错误，并且更好地利用了系统资源。
-
-## 数据类型的支持
-
-在 `c/c++`中，对于不同的平台，编译器为简单数据类型，如int、float 等分别分配不同长度的字节数，例如，int 在 IBM PC 中为16 位，在VAX-11 中为32 位，这导致了代码的不可移植性，但在Java 中，对于这些数据类型总是分配固定长度的位数，如对int 型，它总占32 位，这就保证了Java 的平台无关性。
-
-## 类型转换
-
-在 `c/c++`中，由于可以通过指针进行任意的类型转换，因此常常带来不安全性；而Java 中，系统在运行时对对象的处理要进行类型相容性检查，以防止不安全的转换。
-
-## 头文件
-
-`c/c++`中用头文件来声明类的原型及全局变量、库函数等，在大的系统中，维护这些头文件是很困难的。而Java 不支持头文件，类成员的类型和访问权限都封装在一个类中，运行时系统对访问进行控制，防止对私有成员的操作。同时，Java 中用import 语句来与其他类进行通信，以使用它们的方法。
-
-## 结构和联合
-
-`c/c++`中的结构和联合中所有成员均为公有，这就带来了安全性问题。Java 中不包含结构和联合，所有的内容都封装在类中。
-
-## 预处理
-
-`c/c++`中用宏定义来实现的代码给程序的可读性带来了困难。在Java 中，不支持宏，它通过关键字final 来声明一个常量，以实现宏定义中广泛使用的常量定义。
-
 # java 基础语法
 
 1. 大小写敏感：Java是大小写敏感的，这就意味着标识符Hello与hello是不同的。
@@ -56,7 +16,7 @@ Java 不支持`c/c++`中的Goto 语句，而是通过异常处理语句try、cat
 # 学习材料
 
 -   [廖雪峰的java教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
--   java基础教程
+-   [java教程 - C语言中文网](http://c.biancheng.net/java/)
 
 # 学习心得
 看了<head firt java>的‘继承与多态’ 和 ‘接口与抽象类’ 2章，比较好的一点是讲解了继承的作用，多态的作用，接口的作用，这样就明白了为什么需要他们。
@@ -78,9 +38,13 @@ Java 不支持`c/c++`中的Goto 语句，而是通过异常处理语句try、cat
 
 WKHTMLTOPDF  https://wkhtmltopdf.org/
 
-## selenium-Google驱动下载
+## selenium
 
-selenium-Google驱动下载 http://chromedriver.storage.googleapis.com/index.html
+selenium官网：http://www.seleniumhq.org/
+
+- selenium-Google驱动下载 http://chromedriver.storage.googleapis.com/index.html
+- selenium-firefox驱动下载：https://registry.npmmirror.com/binary.html?path=geckodriver/
+
 
 ## java 爬虫
 webmagic 很好上手
@@ -90,4 +54,69 @@ webmagic 很好上手
 
 - [SLF4J 日志系统](http://www.51gjie.com/javaweb/1123.html)
 - log4j 配置说明 https://www.cnblogs.com/TheGCC/p/14552073.html
-- [log4j 详细讲解（不能再详细了）] https://blog.csdn.net/u012422446/article/details/51199724
+- [log4j 详细讲解（不能再详细了）](https://blog.csdn.net/u012422446/article/details/51199724)
+
+## 如何简单下载网页上的m3u8视频 - vlc 流媒体播放器
+
+使用vlc media player，命令行模式播放m3u8流视频
+```shell
+./vlc.exe "https://xxx/mp4/xxx.mp4/index.m3u8"
+```
+
+vlc说明：执行 `vlc -H` 会在当前路径中生成vlc-help.txt，这里有很详细的vlc命令行参数说明
+
+### vlc --sout参数使用方法
+
+vlc --sout 参数流输入语法参考：
+```
+vlc input_stream --sout "#module1{option1=parameter1{parameter-option1},option2=parameter2}:module2{option1=...,option2=...}:..."
+```
+或者使用以下语法：
+```
+vlc input_stream --sout-module1-option1=... --sout-module1-option2=... --sout-module2-option1=... --sout-module2-option2=... ...
+```
+
+
+参考：
+- vlc的流输出功能:https://blog.csdn.net/weixin_30861797/article/details/95410326
+- vlc命令行使用方法:https://wiki.videolan.org/Documentation:Streaming_HowTo/Advanced_Streaming_Using_the_Command_Line/
+- vlc使用说明: https://wiki.videolan.org/Documentation:Streaming_HowTo/
+
+### vlc 把视频流保存成文件
+
+把网络视频流保存成文件：
+```
+vlc "https://hhhh.mp4" --sout="#standard{access=file,mux=ts,dst='test.mp4'}"
+```
+
+### 命令行启动vlc后，vlc无法自动退出问题解决
+在java代码中，通过 runtime.exec执行vlc命令下载视频流，发现最后视频下载完成后vlc界面没有自动退出，导致process.waitFor() 一直在等待，尝试了vlc各种参数命令后都无法解决这个问题，后面是通过在命令行中加入`vlc://quit`解决：
+```java
+    Runtime runtime = Runtime.getRuntime(); //获取Runtime实例
+    String command = String.format("vlc \"%s\" --sout=\"#standard{access=file,mux=ts,dst='%s'}\" vlc://quit", video_src, video_output);
+    Process process = runtime.exec(command);
+
+    // 标准错误流（必须写在 waitFor 之前）
+    InputStream errInputStream = process.getErrorStream();
+    int proc = process.waitFor();
+
+    if (proc == 0) {
+        LOGGER.info("执行成功");
+    } else {
+        LOGGER.warn("vlc执行失败");
+    }
+```
+
+
+
+## jdbc 数据库连接
+
+- [jdbc教程 - 易百](https://www.yiibai.com/jdbc/)
+- [HikariCP - github](https://github.com/brettwooldridge/HikariCP)
+- [3w字教程：JDBC从零到熟练掌握Druid的使用](https://zhuanlan.zhihu.com/p/486099129)
+
+
+## Jsoup
+
+- [Jsoup 官方网站](https://jsoup.org/)
+
