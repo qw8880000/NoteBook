@@ -19,6 +19,10 @@ ALT + Backspace -删除前一个单词
 Shift + Insert -向终端内粘贴文本
 ```
 
+# awk
+
+- [awk教程 - w3cschool](https://www.w3cschool.cn/awk/)
+
 # example
 
 ## 统计代码行数

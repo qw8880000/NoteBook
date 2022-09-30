@@ -386,3 +386,10 @@ select SUBSTR(SVCOPNAME,1,INSTR(SVCOPNAME,'-',1,1)-1) AS server,SUBSTR(SVCOPNAME
 SELECT * FROM user_tab_privs t 
 where t.TABLE_NAME=upper('表名'); 
 
+SELECT * FROM dba_tab_privs t 
+where t.TABLE_NAME=upper('表名'); 
+
+## 授权查询
+
+
+

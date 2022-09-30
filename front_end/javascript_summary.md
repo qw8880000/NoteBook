@@ -53,9 +53,9 @@ javascript 注释：
 # JavaScript 难点
 
 * this的绑定：与执行环境，引用类型有关
-* 原型链 （参考：javascript高级程序设计 > 第6章 变量，作用域和内存问题）
+* 原型链 （参考：javascript高级程序设计 > 第4章 变量，作用域和内存问题）
 * 闭包
-* 执行环境，执行流 与 作用域，作用域链（参考：javascript高级程序设计 > 第4章 > 创建对象 > 原型模式）
+* 执行环境，执行流 与 作用域，作用域链（参考：javascript高级程序设计 > 第6章 > 创建对象 > 原型模式）
 
 理解javascript的执行环境与执行过程就能理解作用域，闭包，this，变量提升等特性。
 
@@ -79,3 +79,7 @@ javascript 注释：
 ## javascript 异步任务
 
 Javascript中的Microtask和Macrotask
+
+## 各浏览器对ECMAScript的兼容性
+
+目前各浏览器对ECMAScript 2015(es5)的支持性比较高
