@@ -120,3 +120,8 @@ vlc "https://hhhh.mp4" --sout="#standard{access=file,mux=ts,dst='test.mp4'}"
 
 - [Jsoup 官方网站](https://jsoup.org/)
 
+
+## POJO
+
+POJO（Plain Ordinary Java Object）简单的Java对象，实际就是普通JavaBeans，是为了避免和EJB混淆所创造的简称。它不具备业务逻辑处理方法（当然，如果你有一个简单的运算属性也是可以的，但不允许有业务方法），它是只有一些属性及其getter setter方法的类。
+
