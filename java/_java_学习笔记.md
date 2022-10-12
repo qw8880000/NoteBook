@@ -125,3 +125,10 @@ vlc "https://hhhh.mp4" --sout="#standard{access=file,mux=ts,dst='test.mp4'}"
 
 POJO（Plain Ordinary Java Object）简单的Java对象，实际就是普通JavaBeans，是为了避免和EJB混淆所创造的简称。它不具备业务逻辑处理方法（当然，如果你有一个简单的运算属性也是可以的，但不允许有业务方法），它是只有一些属性及其getter setter方法的类。
 
+## mybatis
+
+- [MyBatis-Plus - 苞米豆](https://baomidou.com/)
+- [MyBatis教程 - 易百教程](https://www.yiibai.com/mybatis/install_configure.html)
+- [MyBatis教程 - C语言中文网](http://c.biancheng.net/mybatis/)
+- [MyBatis教程](https://mybatis.org/mybatis-3/zh/index.html)
+- [MyBatis教程 - W3Cschool](https://www.w3cschool.cn/mybatis/)
