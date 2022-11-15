@@ -132,3 +132,8 @@ POJO（Plain Ordinary Java Object）简单的Java对象，实际就是普通Java
 - [MyBatis教程 - C语言中文网](http://c.biancheng.net/mybatis/)
 - [MyBatis教程](https://mybatis.org/mybatis-3/zh/index.html)
 - [MyBatis教程 - W3Cschool](https://www.w3cschool.cn/mybatis/)
+
+## IDE - intelliJ IDEA
+
+插件：
+- maven-search 用来搜索java依赖
