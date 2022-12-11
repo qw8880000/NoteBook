@@ -3,3 +3,8 @@
 # rpm 包下载
 
 [pkgs.org](https://pkgs.org/)
+
+# rpm命令
+
+  - `rpm -qpR <rpm package>` - 查看一个rpm包的依赖
+  - `rpm -qR <rpm package>` - 查看一个已安装rpm包的依赖
