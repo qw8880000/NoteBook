@@ -162,13 +162,13 @@ SQL> select * from dba_directories;
 ```
 [oracle@testdb ~]$ mkdir /oradata/datapump
 
-SQL> create directory datapump as '/oradata/datapump';
+SQL> CREATE DIRECTORY datapump AS '/oradata/datapump';
 ```
 
 1. 给用户授权
 ```
-grant read,write on directory datapump to User1;
-grant EXP_FULL_DATABASE,resource,connect to User1;
+GRANT READ,WRITE ON DIRECTORY datapump TO User1;
+GRANT EXP_FULL_DATABASE,RESOURCE,CONNECT TO User1;
 ```
 
 1. 按用户导出
