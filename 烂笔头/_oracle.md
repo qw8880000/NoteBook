@@ -238,17 +238,21 @@ nohup expdp parfile=expdp_user1.par &
 ```
 首先，强烈建议使用parfile参数,将需要用到的参数整合到一个par文件中，不止美观，也可以留下记录。
 
-userid            -- 能登上数据库服务器就直接使用sysdba用户
-directory       --指定数据泵的目录路径，生成的dmp文件也在该目录下
-job_name     --数据泵任务的名称,因为是sys用户，所以名称为"SYS"."JOB_EXPDP_USER1"
-dumpfile       --dmp文件的名称,使用并行导出到多个文件，需要用到%u
-logfile           --记录整个导出过程的日志文件
-cluster          --RAC集群必须指定为N,否则数据库不知道从哪个实例导出，会报错
-schema         --指定要导出的用户名
-parallel   --并行度，取决服务器的cpu个数,生产繁忙时不要导出大数据量
-filesize   --指定每个dmp文件的大小，不指定，dmp文件的大小会不统一。
-COMPRESSION=all   --是否要进行压缩，压缩比率为1:7左右，本地磁盘空间不足或需要跨网络传输时，建议压缩，否则不建议，会消耗服务器一些性能，降低了导出导入的效率。
+userid          -- 账号密码
+directory       -- 指定数据泵的目录路径，生成的dmp文件也在该目录下
+job_name     -- 数据泵任务的名称,因为是sys用户，所以名称为"SYS"."JOB_EXPDP_USER1"
+dumpfile       -- dmp文件的名称,使用并行导出到多个文件，需要用到%u
+logfile           -- 记录整个导出过程的日志文件
+cluster          -- RAC集群必须指定为N,否则数据库不知道从哪个实例导出，会报错
+schema         -- 指定要导出的用户名
+parallel   -- 并行度，取决服务器的cpu个数,生产繁忙时不要导出大数据量
+filesize   -- 指定每个dmp文件的大小，不指定，dmp文件的大小会不统一。
+COMPRESSION=all   -- 是否要进行压缩，压缩比率为1:7左右，本地磁盘空间不足或需要跨网络传输时，建议压缩，否则不建议，会消耗服务器一些性能，降低了导出导入的效率。
 ```
+
+注意，当密码中包含@符号时，需要转义，不然会报错“ORA-12154: TNS:could not resolve the connect identifier specified”
+直接这样写会报错  USERID=tibco/abc@123 ，这样写也会报错 USERID="tibco/abc@123"
+改成这样 USERID=tibco/"abc@123" 可以
 
 ## impdp
 1. 按用户导入
