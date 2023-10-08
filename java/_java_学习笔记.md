@@ -30,7 +30,7 @@
 注意，一个类的完整名字是"package.class"。当javac程序在编译的时候，在解析 import 语句的时候，会把package.class 中的package作为相对路径，结合 classpath 路径去找到对应的类。
 比如，指定classpath为 c:/java，然后import语句为 `import com.itranswarp.world.Person;`, 那么java编译器会到 `c:/java/com/itranswarp/world`目录下去查找Person.class类
 
-## 运行进如果有外部依赖如何处理
+## 运行时如果有外部依赖如何处理
 
 使用 -classpath参数指定依赖的位置
 
@@ -125,6 +125,8 @@ vlc "https://hhhh.mp4" --sout="#standard{access=file,mux=ts,dst='test.mp4'}"
 
 POJO（Plain Ordinary Java Object）简单的Java对象，实际就是普通JavaBeans，是为了避免和EJB混淆所创造的简称。它不具备业务逻辑处理方法（当然，如果你有一个简单的运算属性也是可以的，但不允许有业务方法），它是只有一些属性及其getter setter方法的类。
 
+- [java EJB pojo是什么](http://www.360doc.com/content/22/1027/12/20880499_1053481665.shtml)
+
 ## mybatis
 
 - [MyBatis-Plus - 苞米豆](https://baomidou.com/)
@@ -137,3 +139,25 @@ POJO（Plain Ordinary Java Object）简单的Java对象，实际就是普通Java
 
 插件：
 - maven-search 用来搜索java依赖
+
+## ffmpeg 把mp4转成M3U8
+
+./ffmpeg.exe -i D:\\王锦乐\\nginx-1.24.0\\html\\test\\38c7c56e33d931e5c4cf\\38c7c56e33d931e5c4cf.MP4 -c:v copy -hls_time 2  -hls_segment_filename D:\\王锦乐\\nginx-1.24.0\\html\\test\\38c7c56e33d931e5c4cf\\%d.ts -f hls D:\\王锦乐\\nginx-1.24.0\\html\\test\\38c7c56e33d931e5c4cf\\38c7c56e33d931e5c4cf.m3u8
+
+首先来把MP4切片成ts，然后创建m3u8，我目前了解到的m3u8其实就是一个类似于清单，播放器读取后，根据这个清单来按序播放ts视频
+
+ffmpeg -i demo.mp4 -profile:v baseline -level 3.0 -start_number 0 -hls_time 10 -hls_list_size 0 -f hls demo.m3u8
+
+其中demo.mp4和demo.m3u8就是原文件和需要转换成的m3u8文件；
+
+-profile:v baseline 大概意思是档次转成基本画质，有四种画质级别,分别是baseline, extended, main, high，从低到高
+
+-level 3.0 大概也是视频画质级别吧，基本上是从1到5,
+
+-start_number 0 表示从0开始
+
+-hls_time 10 标识每10秒切一个
+
+
+
+-i 1523786410.mp4 -profile:v baseline -level 3.0 -start_number 0 -hls_time 10 -hls_list_size 0 -f hls demo.m3u8
