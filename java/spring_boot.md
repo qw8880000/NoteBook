@@ -5,11 +5,11 @@
 # spring
 
 `spring` 学习材料：
-* [spring-w3c](https://www.w3cschool.cn/wkspring/index.html) 
+* [spring教程 - w3cschool](https://www.w3cschool.cn/wkspring/index.html) 
 * [spring-sample](https://github.com/qw8880000/spring-samples)
 
 - [图文教程教你IDEA中的Spring环境搭建+简单入门](https://www.huhexian.com/143291.html)
-- [Spring 教程](https://www.bootwiki.com/spring/spring-bean-definition.html)
+- [Spring 教程 - BootWiki](https://www.bootwiki.com/spring/spring-bean-definition.html)
 # spring boot
 
 - [Spring Boot 5分钟快速教程](https://zhuanlan.zhihu.com/p/555734770)

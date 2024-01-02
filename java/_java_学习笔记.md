@@ -15,6 +15,7 @@
 
 # 学习材料
 
+- [java - 下载](https://www.oracle.com/cn/java/technologies/downloads/)
 - [廖雪峰的java教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
 - [java教程 - C语言中文网](http://c.biancheng.net/java/)
 
@@ -24,6 +25,7 @@
 
 # maven
 
+- [Apache Maven](https://maven.apache.org/)
 - [Maven 教程](https://www.w3cschool.cn/maven/)
 
 ## 编译时如果有外部依赖如何处理
