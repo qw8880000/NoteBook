@@ -15,13 +15,16 @@
 
 # 学习材料
 
--   [廖雪峰的java教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
--   [java教程 - C语言中文网](http://c.biancheng.net/java/)
+- [廖雪峰的java教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
+- [java教程 - C语言中文网](http://c.biancheng.net/java/)
 
 # 学习心得
 看了<head firt java>的‘继承与多态’ 和 ‘接口与抽象类’ 2章，比较好的一点是讲解了继承的作用，多态的作用，接口的作用，这样就明白了为什么需要他们。
 <java基础教程> 就比较偏语法书，而且没有讲泛型。
 
+# maven
+
+- [Maven 教程](https://www.w3cschool.cn/maven/)
 
 ## 编译时如果有外部依赖如何处理
 
