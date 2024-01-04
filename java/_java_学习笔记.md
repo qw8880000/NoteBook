@@ -28,6 +28,31 @@
 - [Apache Maven](https://maven.apache.org/)
 - [Maven 教程](https://www.w3cschool.cn/maven/)
 
+# 简介
+
+先学习`spring`，再学习`spring boot`
+
+# spring
+
+`spring` 学习材料：
+* [spring教程 - w3cschool](https://www.w3cschool.cn/wkspring/index.html) 
+* [spring-sample](https://github.com/qw8880000/spring-samples)
+
+- [图文教程教你IDEA中的Spring环境搭建+简单入门](https://www.huhexian.com/143291.html)
+- [Spring 教程 - BootWiki](https://www.bootwiki.com/spring/spring-bean-definition.html)
+# spring boot
+
+- [Spring Boot 5分钟快速教程](https://zhuanlan.zhihu.com/p/555734770)
+- [Spring Boot教程 - BootWiki](https://www.bootwiki.com/springboot/spring-boot-tutorial.html)
+- [spring-boot-demo - github](https://github.com/xkcoding/spring-boot-demo/tree/master/demo-admin/admin-client)
+
+- [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-documentation)
+
+# spring boot jpa
+
+https://spring.io/guides/gs/accessing-data-jpa/
+
+
 ## 编译时如果有外部依赖如何处理
 
 使用 -classpath参数指定依赖的位置。
