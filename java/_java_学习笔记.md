@@ -15,7 +15,7 @@
 
 # 学习材料
 
-- [java - 下载](https://www.oracle.com/cn/java/technologies/downloads/)
+- [java下载 - orace](https://www.oracle.com/cn/java/technologies/downloads/)
 - [廖雪峰的java教程](https://www.liaoxuefeng.com/wiki/1252599548343744)
 - [java教程 - C语言中文网](http://c.biancheng.net/java/)
 
@@ -57,8 +57,25 @@ https://spring.io/guides/gs/accessing-data-jpa/
 
 使用 -classpath参数指定依赖的位置。
 
-注意，一个类的完整名字是"package.class"。当javac程序在编译的时候，在解析 import 语句的时候，会把package.class 中的package作为相对路径，结合 classpath 路径去找到对应的类。
-比如，指定classpath为 c:/java，然后import语句为 `import com.itranswarp.world.Person;`, 那么java编译器会到 `c:/java/com/itranswarp/world`目录下去查找Person.class类
+这里需要关注一下package。package相当于一个命名空间，当一个类放在一个package中的时候，这个类的全名是`package.class`，以下代码`Boss`类的全名应该是`com.payroll.Boss`。
+
+```java
+package com.payroll;
+
+public class Boss
+{
+   public void payEmployee(Employee e)
+   {
+      e.mailCheck();
+   }
+}
+
+```
+
+一个类的完整名字是"package.class"。当javac程序在编译的时候，在解析 import 语句的时候，会把package.class 中的package作为相对路径，结合 classpath 路径去找到对应的类。
+比如，指定classpath为 c:/java，然后import语句为 `com.payroll.Boss;`, 那么java编译器会到 `c:/java/com/payroll`目录下去查找Boss.class类。
+
+编译与运行的时候都是相同的原理。
 
 ## 运行时如果有外部依赖如何处理
 
