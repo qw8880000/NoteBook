@@ -73,7 +73,7 @@ public class Boss
 ```
 
 一个类的完整名字是"package.class"。当javac程序在编译的时候，在解析 import 语句的时候，会把package.class 中的package作为相对路径，结合 classpath 路径去找到对应的类。
-比如，指定classpath为 c:/java，然后import语句为 `com.payroll.Boss;`, 那么java编译器会到 `c:/java/com/payroll`目录下去查找Boss.class类。
+比如，指定classpath为 c:/java，然后另一个java文件的import语句为 `com.payroll.Boss;`, 那么java编译器会到 `c:/java/com/payroll`目录下去查找Boss.java类。
 
 编译与运行的时候都是相同的原理。
 
