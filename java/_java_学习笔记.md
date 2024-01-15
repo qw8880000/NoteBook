@@ -27,6 +27,8 @@
 
 - [Apache Maven](https://maven.apache.org/)
 - [Maven 教程](https://www.w3cschool.cn/maven/)
+- maven 配置国内maven仓库：[阿里云Maven中央仓库](https://developer.aliyun.com/mvn/guide)
+
 
 # 简介
 
